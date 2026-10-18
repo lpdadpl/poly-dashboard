@@ -126,5 +126,133 @@
   "fase": "escaneado",
   "accion": "registro",
   "detalle": "top_volumen: Will Lamine Yamal win the 2026 Ballon d'Or?"
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-001",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Partido (ALCS G5) en juego desde las 23:08 h (Madrid); precio en vivo 0,875→0,75 y resolución en horas: el embudo WHALE/NEWS/QUANT/APPROVE no llega a tiempo. Liquidez ok (libro CLOB Sí bid 0.75/ask 0.76, prof ±2c 1921/1302 USD)."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-002",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Kickoff a las 02:20 h (Madrid), en ~1 h: imposible completar confirmación, valoración y APPROVE antes del inicio; reglas sin fuente primaria explícita en la descripción. Libro muy profundo (libro CLOB Sí bid 0.51/ask 0.52, prof ±2c 3447733/994058 USD)."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-003",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Fecha de resolución real incierta: depende de jura tras la formación de gobierno (puede tardar meses, límite dic-2027) aunque endDate diga 28-oct; reglas de interino/caretaker y 'Other' con riesgo de disputa medio. Liquidez ok (libro CLOB Sí bid 0.3/ask 0.31, prof ±2c 47993/64433 USD)."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-004",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Over/Under del Cowboys-Packers: kickoff a las 02:20 h (Madrid), en ~1 h; el embudo no llega antes del inicio. Libro profundo (libro CLOB Sí bid 0.5/ask 0.51, prof ±2c 276638/286049 USD)."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-005",
+  "fase": "aprobado",
+  "accion": "aprobado",
+  "detalle": "APROBADO: Reglas claras (límite superior del rango objetivo), oráculo oficial (comunicado FOMC 27-28 oct), resolución ~28-29 oct, riesgo de disputa bajo. libro CLOB Sí bid 0.87/ask 0.88, prof ±2c 703067/1207104 USD, diferencial 1c. Correlacionado con M-20261019-008: tope conjunto 5 USD para el evento Fed oct-2026."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-006",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Riesgo de disputa alto: depende de atribuir ataques de EE. UU. con impacto en Irán (excepciones de munición/drones) sin oráculo oficial, solo consenso de prensa. Libro asimétrico (libro CLOB Sí bid 0.82/ask 0.83, prof ±2c 35474/466407 USD)."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-007",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Criterio subjetivo ('pérdida de poder de facto', 'consenso amplio') sin fuente oficial: riesgo de disputa alto; cierre 31-dic-2026 y precio 0,045 (cola). libro CLOB Sí bid 0.04/ask 0.05, prof ±2c 32841/17792 USD."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "aprobado",
+  "detalle": "APROBADO: Reglas claras, oráculo oficial (comunicado FOMC 27-28 oct), resolución ~28-29 oct, riesgo de disputa bajo. libro CLOB Sí bid 0.12/ask 0.13, prof ±2c 109248/111942 USD, diferencial 1c. Correlacionado con M-20261019-005: tope conjunto 5 USD para el evento Fed oct-2026."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-009",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Horizonte hasta nov-2028 (capital bloqueado 2 años) y libro fino en la parte alta (mejor bid Sí ~19 USD, diferencial 1,2c). libro CLOB Sí bid 0.028/ask 0.04, prof ±2c 3564/2364 USD."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-010",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Horizonte hasta nov-2028 (capital bloqueado 2 años) y libro fino arriba (mejor bid Sí ~2 USD). libro CLOB Sí bid 0.019/ask 0.022, prof ±2c 2688/3153 USD."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-011",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Riesgo de disputa alto: atribución de ataques Israel/Irán con excepciones técnicas, sin oráculo oficial (consenso de prensa). libro CLOB Sí bid 0.87/ask 0.88, prof ±2c 25302/34360 USD."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-012",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Riesgo de disputa alto (atribución de ataques, consenso de prensa) y precio 0,955 con poco recorrido; ask del No muy fino (~27 USD arriba). libro CLOB Sí bid 0.95/ask 0.96, prof ±2c 12274/223214 USD."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-013",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Riesgo de disputa alto (atribución de ataques, consenso de prensa) y precio 0,975: prácticamente sin margen. libro CLOB Sí bid 0.974/ask 0.975, prof ±2c 43696/167087 USD."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-014",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Criterio subjetivo ('ofensiva con intención de controlar territorio') y fuente 'consenso de fuentes creíbles': tipo de mercado propenso a disputa. libro CLOB Sí bid 0.15/ask 0.16, prof ±2c 61282/29875 USD."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-015",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Partido ya jugado: resolución UMA propuesta, precio 0,0005/0,9995 y sin bid en Mitsui. No hay mercado operable."
+ },
+ {
+  "ts": "2026-10-19T01:08:52+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-016",
+  "fase": "aprobado",
+  "accion": "aprobado",
+  "detalle": "APROBADO: Reglas claras (ganador del Balón de Oro 2026), oráculo oficial France Football, riesgo de disputa bajo; diferencial 0,5c, liquidez 114k USD. libro CLOB Sí bid 0.265/ask 0.27, prof ±2c 15637/2287 USD (ask Sí fino: suficiente para 5 USD). Cierre máx. 31-dic-2026."
  }
 ]

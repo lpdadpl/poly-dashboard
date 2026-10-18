@@ -5,13 +5,19 @@
   "slug_evento": "mlb-tb-cle-2026-10-17",
   "url": "https://polymarket.com/event/mlb-tb-cle-2026-10-17",
   "pregunta": "Tampa Bay Rays vs. Cleveland Guardians",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Partido (ALCS G5) en juego desde las 23:08 h (Madrid); precio en vivo 0,875→0,75 y resolución en horas: el embudo WHALE/NEWS/QUANT/APPROVE no llega a tiempo. Liquidez ok (libro CLOB Sí bid 0.75/ask 0.76, prof ±2c 1921/1302 USD)."
    }
   ],
   "escaneo": {
@@ -39,9 +45,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Partido (ALCS G5) en juego desde las 23:08 h (Madrid); precio en vivo 0,875→0,75 y resolución en horas: el embudo WHALE/NEWS/QUANT/APPROVE no llega a tiempo. Liquidez ok (libro CLOB Sí bid 0.75/ask 0.76, prof ±2c 1921/1302 USD).",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -77,13 +84,19 @@
   "slug_evento": "nfl-dal-gb-2026-10-19",
   "url": "https://polymarket.com/event/nfl-dal-gb-2026-10-19",
   "pregunta": "Cowboys vs. Packers",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Kickoff a las 02:20 h (Madrid), en ~1 h: imposible completar confirmación, valoración y APPROVE antes del inicio; reglas sin fuente primaria explícita en la descripción. Libro muy profundo (libro CLOB Sí bid 0.51/ask 0.52, prof ±2c 3447733/994058 USD)."
    }
   ],
   "escaneo": {
@@ -111,9 +124,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Kickoff a las 02:20 h (Madrid), en ~1 h: imposible completar confirmación, valoración y APPROVE antes del inicio; reglas sin fuente primaria explícita en la descripción. Libro muy profundo (libro CLOB Sí bid 0.51/ask 0.52, prof ±2c 3447733/994058 USD).",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -149,13 +163,19 @@
   "slug_evento": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
   "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
   "pregunta": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Fecha de resolución real incierta: depende de jura tras la formación de gobierno (puede tardar meses, límite dic-2027) aunque endDate diga 28-oct; reglas de interino/caretaker y 'Other' con riesgo de disputa medio. Liquidez ok (libro CLOB Sí bid 0.3/ask 0.31, prof ±2c 47993/64433 USD)."
    }
   ],
   "escaneo": {
@@ -183,9 +203,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Fecha de resolución real incierta: depende de jura tras la formación de gobierno (puede tardar meses, límite dic-2027) aunque endDate diga 28-oct; reglas de interino/caretaker y 'Other' con riesgo de disputa medio. Liquidez ok (libro CLOB Sí bid 0.3/ask 0.31, prof ±2c 47993/64433 USD).",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -221,13 +242,19 @@
   "slug_evento": "nfl-dal-gb-2026-10-19",
   "url": "https://polymarket.com/event/nfl-dal-gb-2026-10-19",
   "pregunta": "Cowboys vs. Packers: O/U 53.5",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Over/Under del Cowboys-Packers: kickoff a las 02:20 h (Madrid), en ~1 h; el embudo no llega antes del inicio. Libro profundo (libro CLOB Sí bid 0.5/ask 0.51, prof ±2c 276638/286049 USD)."
    }
   ],
   "escaneo": {
@@ -255,9 +282,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Over/Under del Cowboys-Packers: kickoff a las 02:20 h (Madrid), en ~1 h; el embudo no llega antes del inicio. Libro profundo (libro CLOB Sí bid 0.5/ask 0.51, prof ±2c 276638/286049 USD).",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -293,13 +321,19 @@
   "slug_evento": "fed-decision-in-october-20260617190323537",
   "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
   "pregunta": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "APROBADO: Reglas claras (límite superior del rango objetivo), oráculo oficial (comunicado FOMC 27-28 oct), resolución ~28-29 oct, riesgo de disputa bajo. libro CLOB Sí bid 0.87/ask 0.88, prof ±2c 703067/1207104 USD, diferencial 1c. Correlacionado con M-20261019-008: tope conjunto 5 USD para el evento Fed oct-2026."
    }
   ],
   "escaneo": {
@@ -327,9 +361,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras (límite superior del rango objetivo), oráculo oficial (comunicado FOMC 27-28 oct), resolución ~28-29 oct, riesgo de disputa bajo. libro CLOB Sí bid 0.87/ask 0.88, prof ±2c 703067/1207104 USD, diferencial 1c. Correlacionado con M-20261019-008: tope conjunto 5 USD para el evento Fed oct-2026.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -365,13 +400,19 @@
   "slug_evento": "us-iran-ceasefire-continues-throughptptpt",
   "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
   "pregunta": "US x Iran ceasefire continues through October 31?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Riesgo de disputa alto: depende de atribuir ataques de EE. UU. con impacto en Irán (excepciones de munición/drones) sin oráculo oficial, solo consenso de prensa. Libro asimétrico (libro CLOB Sí bid 0.82/ask 0.83, prof ±2c 35474/466407 USD)."
    }
   ],
   "escaneo": {
@@ -399,9 +440,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Riesgo de disputa alto: depende de atribuir ataques de EE. UU. con impacto en Irán (excepciones de munición/drones) sin oráculo oficial, solo consenso de prensa. Libro asimétrico (libro CLOB Sí bid 0.82/ask 0.83, prof ±2c 35474/466407 USD).",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -437,13 +479,19 @@
   "slug_evento": "will-the-iranian-regime-fall-by-the-end-of-2026",
   "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-the-end-of-2026",
   "pregunta": "Will the Iranian regime fall before 2027?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Criterio subjetivo ('pérdida de poder de facto', 'consenso amplio') sin fuente oficial: riesgo de disputa alto; cierre 31-dic-2026 y precio 0,045 (cola). libro CLOB Sí bid 0.04/ask 0.05, prof ±2c 32841/17792 USD."
    }
   ],
   "escaneo": {
@@ -471,9 +519,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Criterio subjetivo ('pérdida de poder de facto', 'consenso amplio') sin fuente oficial: riesgo de disputa alto; cierre 31-dic-2026 y precio 0,045 (cola). libro CLOB Sí bid 0.04/ask 0.05, prof ±2c 32841/17792 USD.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -509,13 +558,19 @@
   "slug_evento": "fed-decision-in-october-20260617190323537",
   "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
   "pregunta": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "APROBADO: Reglas claras, oráculo oficial (comunicado FOMC 27-28 oct), resolución ~28-29 oct, riesgo de disputa bajo. libro CLOB Sí bid 0.12/ask 0.13, prof ±2c 109248/111942 USD, diferencial 1c. Correlacionado con M-20261019-005: tope conjunto 5 USD para el evento Fed oct-2026."
    }
   ],
   "escaneo": {
@@ -543,9 +598,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras, oráculo oficial (comunicado FOMC 27-28 oct), resolución ~28-29 oct, riesgo de disputa bajo. libro CLOB Sí bid 0.12/ask 0.13, prof ±2c 109248/111942 USD, diferencial 1c. Correlacionado con M-20261019-005: tope conjunto 5 USD para el evento Fed oct-2026.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -581,13 +637,19 @@
   "slug_evento": "republican-presidential-nominee-2028",
   "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
   "pregunta": "Will Ron DeSantis win the 2028 Republican presidential nomination?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Horizonte hasta nov-2028 (capital bloqueado 2 años) y libro fino en la parte alta (mejor bid Sí ~19 USD, diferencial 1,2c). libro CLOB Sí bid 0.028/ask 0.04, prof ±2c 3564/2364 USD."
    }
   ],
   "escaneo": {
@@ -615,9 +677,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Horizonte hasta nov-2028 (capital bloqueado 2 años) y libro fino en la parte alta (mejor bid Sí ~19 USD, diferencial 1,2c). libro CLOB Sí bid 0.028/ask 0.04, prof ±2c 3564/2364 USD.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -653,13 +716,19 @@
   "slug_evento": "democratic-presidential-nominee-2028",
   "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
   "pregunta": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Horizonte hasta nov-2028 (capital bloqueado 2 años) y libro fino arriba (mejor bid Sí ~2 USD). libro CLOB Sí bid 0.019/ask 0.022, prof ±2c 2688/3153 USD."
    }
   ],
   "escaneo": {
@@ -687,9 +756,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Horizonte hasta nov-2028 (capital bloqueado 2 años) y libro fino arriba (mejor bid Sí ~2 USD). libro CLOB Sí bid 0.019/ask 0.022, prof ±2c 2688/3153 USD.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -725,13 +795,19 @@
   "slug_evento": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
   "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
   "pregunta": "Israel x Iran ceasefire continues through October 31?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Riesgo de disputa alto: atribución de ataques Israel/Irán con excepciones técnicas, sin oráculo oficial (consenso de prensa). libro CLOB Sí bid 0.87/ask 0.88, prof ±2c 25302/34360 USD."
    }
   ],
   "escaneo": {
@@ -759,9 +835,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Riesgo de disputa alto: atribución de ataques Israel/Irán con excepciones técnicas, sin oráculo oficial (consenso de prensa). libro CLOB Sí bid 0.87/ask 0.88, prof ±2c 25302/34360 USD.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -797,13 +874,19 @@
   "slug_evento": "us-iran-ceasefire-continues-throughptptpt",
   "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
   "pregunta": "US x Iran ceasefire continues through October 22?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Riesgo de disputa alto (atribución de ataques, consenso de prensa) y precio 0,955 con poco recorrido; ask del No muy fino (~27 USD arriba). libro CLOB Sí bid 0.95/ask 0.96, prof ±2c 12274/223214 USD."
    }
   ],
   "escaneo": {
@@ -831,9 +914,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Riesgo de disputa alto (atribución de ataques, consenso de prensa) y precio 0,955 con poco recorrido; ask del No muy fino (~27 USD arriba). libro CLOB Sí bid 0.95/ask 0.96, prof ±2c 12274/223214 USD.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -869,13 +953,19 @@
   "slug_evento": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
   "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
   "pregunta": "Israel x Iran ceasefire continues through October 21?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Riesgo de disputa alto (atribución de ataques, consenso de prensa) y precio 0,975: prácticamente sin margen. libro CLOB Sí bid 0.974/ask 0.975, prof ±2c 43696/167087 USD."
    }
   ],
   "escaneo": {
@@ -903,9 +993,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Riesgo de disputa alto (atribución de ataques, consenso de prensa) y precio 0,975: prácticamente sin margen. libro CLOB Sí bid 0.974/ask 0.975, prof ±2c 43696/167087 USD.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -941,13 +1032,19 @@
   "slug_evento": "will-the-us-invade-iran-before-2027",
   "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
   "pregunta": "Will the U.S. invade Iran before 2027?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Criterio subjetivo ('ofensiva con intención de controlar territorio') y fuente 'consenso de fuentes creíbles': tipo de mercado propenso a disputa. libro CLOB Sí bid 0.15/ask 0.16, prof ±2c 61282/29875 USD."
    }
   ],
   "escaneo": {
@@ -975,9 +1072,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Criterio subjetivo ('ofensiva con intención de controlar territorio') y fuente 'consenso de fuentes creíbles': tipo de mercado propenso a disputa. libro CLOB Sí bid 0.15/ask 0.16, prof ±2c 61282/29875 USD.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -1013,13 +1111,19 @@
   "slug_evento": "atp-mitsui-zahraj-2026-10-18",
   "url": "https://polymarket.com/event/atp-mitsui-zahraj-2026-10-18",
   "pregunta": "Fort Worth: Shunsuke Mitsui vs Patrick Zahraj",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "RECHAZADO: Partido ya jugado: resolución UMA propuesta, precio 0,0005/0,9995 y sin bid en Mitsui. No hay mercado operable."
    }
   ],
   "escaneo": {
@@ -1047,9 +1151,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Partido ya jugado: resolución UMA propuesta, precio 0,0005/0,9995 y sin bid en Mitsui. No hay mercado operable.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -1085,13 +1190,19 @@
   "slug_evento": "ballon-dor-winner-2026",
   "url": "https://polymarket.com/event/ballon-dor-winner-2026",
   "pregunta": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T00:53:54+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T01:08:52+02:00",
+    "nota": "APROBADO: Reglas claras (ganador del Balón de Oro 2026), oráculo oficial France Football, riesgo de disputa bajo; diferencial 0,5c, liquidez 114k USD. libro CLOB Sí bid 0.265/ask 0.27, prof ±2c 15637/2287 USD (ask Sí fino: suficiente para 5 USD). Cierre máx. 31-dic-2026."
    }
   ],
   "escaneo": {
@@ -1119,9 +1230,10 @@
    "ts": "2026-10-19T00:54:06+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras (ganador del Balón de Oro 2026), oráculo oficial France Football, riesgo de disputa bajo; diferencial 0,5c, liquidez 114k USD. libro CLOB Sí bid 0.265/ask 0.27, prof ±2c 15637/2287 USD (ask Sí fino: suficiente para 5 USD). Cierre máx. 31-dic-2026.",
+   "ts": "2026-10-19T01:08:52+02:00"
   },
   "confirmacion": {
    "whale": "",
