@@ -1,0 +1,13 @@
+{
+  "modo": "papel",
+  "saldo_inicial_usd": 50,
+  "saldo_usd": 50,
+  "mesa_parada": false,
+  "limite_perdida_diaria_pct": 10,
+  "ultimo_id": null,
+  "contador_ids_por_dia": {},
+  "perdida_diaria_usd": 0,
+  "fecha_dia": null,
+  "ultima_ejecucion": {},
+  "version_protocolo": 1
+}

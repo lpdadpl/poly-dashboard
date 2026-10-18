@@ -1,0 +1,67 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><title>🤖 Mesa POLY (papel)</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:monospace;background:#1d1b2a;color:#eee;display:flex;min-height:100vh}
+aside{width:240px;background:#2b2840;padding:12px;border-right:4px solid #000;overflow:auto}
+aside h1{font-size:18px;margin:0 0 8px}aside a{display:block;color:#9fd3ff;cursor:pointer;padding:3px 0;word-break:break-all}
+main{flex:1;padding:12px;overflow:auto}canvas{image-rendering:pixelated;width:100%;max-width:960px;border:4px solid #000;display:block}
+.bar{display:flex;gap:16px;margin:10px 0;flex-wrap:wrap}.box{background:#2b2840;border:3px solid #000;padding:8px 12px}
+.cols{display:grid;grid-template-columns:repeat(6,1fr);gap:6px}.col{background:#25223a;border:3px solid #000;min-height:90px;padding:4px}
+.col h3{font-size:12px;margin:0 0 4px;text-transform:uppercase;color:#ffd166}.card{background:#f4ecd8;color:#222;padding:4px;margin:4px 0;font-size:11px;border:2px solid #000}
+pre{background:#111;padding:8px;max-height:300px;overflow:auto;white-space:pre-wrap}.red{color:#ff6b6b}.green{color:#7ee787}
+#act div{font-size:12px;border-bottom:1px dashed #444;padding:2px}
+</style></head><body>
+<aside><h1>🤖 Mesa POLY</h1><small>EN PAPEL · solo lectura</small><h3>Archivos</h3><div id="files"></div></aside>
+<main>
+<canvas id="c" width="320" height="180"></canvas>
+<div class="bar"><div class="box">Saldo: <b id="saldo">-</b></div><div class="box">PnL: <b id="pnl">-</b></div>
+<div class="box">Mesa: <b id="estado">-</b></div><div class="box">Sync: <span id="sync">-</span></div></div>
+<h2>Embudo</h2><div class="cols" id="cols"></div>
+<h2>Actividad</h2><div id="act" class="box"></div>
+<h2 id="fname">Visor</h2><pre id="viewer">Elige un archivo del menú.</pre>
+</main>
+<script>
+const cv=document.getElementById('c'),g=cv.getContext('2d');
+const bots=[["SCOUT","#4cc9f0"],["RISK","#ef476f"],["WHALE","#118ab2"],["NEWS","#ffd166"],["QUANT","#06d6a0"],["TRADER","#f78c6b"],["EXIT","#9b5de5"]];
+function r(x,y,w,h,c){g.fillStyle=c;g.fillRect(x|0,y|0,w,h)}
+function txt(s,x,y,c){g.fillStyle=c||"#000";g.font="6px monospace";g.textAlign="center";g.fillText(s,x,y)}
+function office(t){
+ r(0,0,320,70,"#c9c2a6");for(let i=0;i<320;i+=16)r(i,0,1,70,"#b8b093");r(0,70,320,110,"#6b7f8c");
+ for(let i=0;i<320;i+=20)for(let j=70;j<180;j+=20)r(i+((j/20)%2)*10,j,10,10,"#61737f");
+ r(10,10,60,35,"#8fb8de");r(12,12,56,31,"#bfe0ff");r(39,10,2,35,"#8fb8de"); // ventana
+ r(250,8,60,22,"#fff");r(250,8,60,4,"#3a5a8c");txt("PAPEL POLY S.L.",280,24,"#3a5a8c"); // cartel original
+ r(95,15,30,40,"#7a5230");r(97,17,26,10,"#a07040");r(97,30,26,10,"#a07040");r(97,43,26,10,"#a07040"); // archivador
+ for(let k=0;k<5;k++)r(140+k*14,40,10,30,["#e5e5e5","#fff","#ddd","#f0f0f0","#e0e0e0"][k]); // resmas de papel
+}
+function bot(i,t){
+ const col=i%4,row=i/4|0,x=30+col*70+(row?35:0),y=95+row*45,b=bots[i],bob=Math.sin(t/300+i)>0?1:0;
+ // persona (detrás de la mesa)
+ r(x+6,y-14+bob,10,8,"#f1c27d");r(x+6,y-16+bob,10,3,"#3b2a1a");r(x+8,y-11+bob,2,2,"#000");r(x+12,y-11+bob,2,2,"#000");
+ r(x+4,y-6+bob,14,9,b[1]);
+ const arm=(t/150+i)%2<1?0:1;r(x+2,y-4+arm,3,5,b[1]);r(x+17,y-4+(1-arm),3,5,b[1]);
+ // mesa + monitor
+ r(x-4,y,30,10,"#8b5a2b");r(x-4,y,30,2,"#a8743f");r(x-2,y+10,3,8,"#5a3a1b");r(x+21,y+10,3,8,"#5a3a1b");
+ r(x+22,y-6,8,6,"#222");r(x+23,y-5,6,4,(t/400+i)%2<1?"#3f6":"#2a4");
+ r(x-4,y+20,30,8,"#000a");txt(b[0],x+11,y+26,"#fff");
+}
+function boss(t){ // JEFE POLY: figura original, pelirrojo con bigote, gafas redondas y chaleco verde
+ const x=220+Math.sin(t/1500)*25,y=40,s=(t/250)%2<1;
+ r(x,y,14,12,"#e8b48a");r(x-1,y-3,16,5,"#d2591e");r(x+2,y+3,4,3,"#fff");r(x+8,y+3,4,3,"#fff");r(x+3,y+4,2,2,"#000");r(x+9,y+4,2,2,"#000");
+ r(x+6,y+4,2,1,"#333");r(x+3,y+8,8,2,"#d2591e");
+ r(x-2,y+12,18,14,"#2f8f4e");r(x+5,y+12,4,14,"#fff");r(x+6,y+13,2,8,"#c1121f");
+ r(x-5,y+13,3,9,"#2f8f4e");r(x+16,y+(s?10:13),3,9,"#2f8f4e");r(x+16,y+(s?7:20),4,4,"#ffd700");// taza "Mejor Jefe en Papel"
+ r(x,y+26,5,8,"#333");r(x+9,y+26,5,8,"#333");txt("JEFE POLY",x+7,y+42,"#fff");
+}
+function loop(t){office(t);boss(t);for(let i=0;i<7;i++)bot(i,t);requestAnimationFrame(loop)}requestAnimationFrame(loop);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+async function sync(){try{const d=await (await fetch('/api/data',{cache:'no-store'})).json();
+ saldo.textContent=d.saldo_usd.toFixed(2)+" USD";pnl.textContent=(d.pnl_usd>=0?"+":"")+d.pnl_usd.toFixed(2)+" USD";pnl.className=d.pnl_usd<0?"red":"green";
+ estado.textContent=d.mesa_parada?"PARADA":"activa";estado.className=d.mesa_parada?"red":"green";
+ cols.innerHTML=d.fases.map(f=>`<div class="col"><h3>${f} (${(d.por_fase[f]||[]).length})</h3>`+(d.por_fase[f]||[]).map(m=>`<div class="card"><b>${esc(m.id||"")}</b><br>${esc(m.titulo||m.title||m.slug||"")}${m.precio!=null?"<br>precio "+esc(m.precio):""}${m.importe_usd!=null?"<br>"+esc(m.importe_usd)+" USD":""}</div>`).join("")+"</div>").join("");
+ act.innerHTML=d.actividad.length?d.actividad.map(a=>`<div>${esc(a.ts||a.fecha||"")} <b>${esc(a.bot||a.agente||"")}</b> ${esc(a.msg||a.mensaje||a.texto||JSON.stringify(a))}</div>`).join(""):"Sin actividad todavía.";
+ files.innerHTML=d.archivos.map(f=>`<a data-p="${esc(f.path)}">📄 ${esc(f.path)}</a>`).join("");
+ sync_.textContent=new Date().toLocaleTimeString('es-ES');}catch(e){sync_.textContent="error"}}
+const sync_=document.getElementById('sync');
+files.onclick=async e=>{const p=e.target.dataset.p;if(!p)return;fname.textContent="Visor: "+p;viewer.textContent=await (await fetch('/api/file?path='+encodeURIComponent(p))).text()};
+sync();setInterval(sync,30000);
+</script></body></html>

@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: poly-dashboard
+    runtime: python
+    plan: free
+    buildCommand: "echo sin dependencias"
+    startCommand: "python3 server.py"
+    envVars:
+      - key: POLY_PASS_ALBERTO
+        sync: false
+      - key: POLY_PASS_NACHO
+        sync: false
+      - key: POLY_DIR
+        value: ./data
