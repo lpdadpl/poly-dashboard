@@ -1750,5 +1750,213 @@
   "fase": "aprobado",
   "accion": "veredicto_riesgo",
   "detalle": "APROBADO: tamano_max=5 | APROBADO: Reglas claras (control = mayoría de escaños con voto; si no hay mayoría, partido del primer Speaker elegido; escaños atribuidos al partido con que se eligió al miembro; segundas vueltas cuentan), fuentes oficiales (autoridades electorales estatales, Congreso de EE. UU.) con consenso de prensa, elecciones el 3-nov y cierre previsto 4-nov-2026, riesgo de disputa bajo. libro CLOB Sí bid 0.09/ask 0.10, diferencial 1,0c, prof ±2c 288853/218874 USD (No 1829780/3463455 USD), liquidez ~2,72 M USD. Ojo: mercado negRisk; si el resultado queda muy ajustado o hay independientes sin caucus definido, la resolución puede retrasarse hasta el 4-ene-2027 (capital bloqueado)."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-045",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Lado No (GOP no conserva la Cámara): Silver Bulletin 94 % D (18-oct), Cook 214 D + 21 empates (16-oct), GOP retira dinero de la Cámara (POLITICO/WIRED 14-oct). Precio No 0,905 frente a ~94 % modelo: edge pequeño. WHALE pendiente para pasar a confirmado."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-025",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: BTC ~82.700 USD a las 11:07 h Madrid (Coinbase 82.728, índice Deribit 82.692), +150 desde las 10:05; colchón ~3,4 % sobre 80k a ~7 h del cierre; DVOL 38,4. Sin catalizador nuevo. Se mantiene lado Sí."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-034",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: BTC ~82.700 USD, necesita +1,6 % para superar 84k en ~7 h; DVOL 38,4. Sin catalizador. Se mantiene lado No sin edge."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "AtlasIntel (BR-02418/2026) sigue sin publicarse a las 11:07 h Madrid; hoy también se esperan BTG/Nexus y PoderData (veja.abril.com.br). Sin datos nuevos. Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Encuestas del día (AtlasIntel, Nexus, PoderData) aún sin publicar. Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Partido en juego desde las 11:00 h Madrid; sin noticias de alineación ni incidencias en X. Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-005",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades relevantes. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades relevantes. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-016",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades relevantes. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades relevantes. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades relevantes. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-029",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades relevantes. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-035",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades relevantes. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-036",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades relevantes. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-037",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades relevantes. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T11:08:03+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-040",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades relevantes. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T11:11:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-045",
+  "fase": "aprobado",
+  "accion": "confirmacion_whale",
+  "detalle": "Lado No | wallets: ndb1 (Overall histórico #49, Deportes histórico #35, compra ≈138.900 USD netos de No a ~0,90 en 48h, ≈100.600 en las últimas 24h; última hace ~0,4 h; posición ~332.100 acciones No) | resto de smart en flujo, pequeño y mixto (57284910 Política mes #58 -1.400 a No; ArmageddonRewardsBilly +2.100 y BreakTheBank +900 a Sí) | acumulado neto smart 48h ≈ 136.800 USD hacia No | top-50 holders: 23 wallets smart en No (ndb1 ~332.100, Flipadelphia ~200.000, Wickier ~148.100, 0x8B4bcA1D ~145.300 acciones) frente a 5 en Sí (macrosteaks ~29.900, nigiri99 ~16.000, Kickstand7 ~15.900, cowcat ~15.600 acciones, ≈1.500-2.800 USD cada una a 0,095) | ojo: el flujo de hoy es sobre todo de una wallet; la confirmación se apoya en el posicionamiento smart muy cargado a No | fuerza: alta | 2026-10-19T11:11:15+02:00"
+ },
+ {
+  "ts": "2026-10-19T11:11:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Flujo smart 48h mixto: neto ≈ +38.500 USD hacia Sí, pero lo mueve una wallet (Econ mes #5, +83.600 deshaciendo No hace ~10 h) frente a HH168 (Econ histórico #12) -30.900 y arjennnnn (Econ mes #58) -26.200 hacia No (este último hace ~0,1 h); jsmythyson +15.300 a Sí. 2 wallets a Sí frente a 5 a No. Holders smart grandes en Sí (Erasmus. 1,17M, jsmythyson, MysticFind). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T11:11:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -41.900 USD hacia No, pero ~34.500 son de classified (Política histórico #33); neto 24h solo ≈ -3.900. Holders smart en Sí (14, flawfence 50k, balthazar 45,5k) frente a 3 en No. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T11:11:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -14.400 USD hacia No (24h ≈ -10.900; 15 wallets pequeñas, máx. ~3,8k, mismo patrón de cesta que en 017) frente al mayor holder smart en Sí (0x740159, ~167,5k acciones, +5.200 USD). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T11:11:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "59 operaciones en 48h; nigiri99 +1.600 y HomeRunHazard +1.400 USD a Over. Importe pequeño. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T11:11:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "7 operaciones en 48h y ningún holder smart. Sin señal."
+ },
+ {
+  "ts": "2026-10-19T11:11:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Solo Mooseborzoiii (Overall mes #13, +11.700 USD a Alliance); resto de smart casi nulo y flujo total ≈ -76.600 USD hacia TheMongolz (no smart). Una sola wallet. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T11:11:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-029",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart ≈ +10.800 USD hacia PARIVISION, pero es una sola wallet (0x446884, Overall mes #79, +15.000 USD) frente a nigiri99 (-3.900 a magic). Holders smart 2 y 2. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T11:11:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-036",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -33.700 USD hacia No (14 wallets a No frente a 2 a Sí), pero ~21.500 son de forgotmydinner (Overall mes #69) hace ~0,2 h; el resto, importes pequeños (máx. ~3.900) y de5nuts +4.300 a Sí. Holders smart más numerosos y grandes en Sí (10 frente a 6). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T11:11:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-040",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart ≈ +38.500 USD hacia Sí (Monza), pero es una sola wallet (rabbitfoot1, Deportes mes #80, +43.500 USD hace ~2 h); el resto de smart va neto a No salvo UpTheBlues (+1.700). Holders smart 4 y 4. Sin acumulación clara."
  }
 ]

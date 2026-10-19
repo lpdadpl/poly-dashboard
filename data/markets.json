@@ -3754,6 +3754,18 @@
     "agente": "RISK",
     "ts": "2026-10-19T11:01:17+02:00",
     "nota": "APROBADO: Reglas claras (control = mayoría de escaños con voto; si no hay mayoría, partido del primer Speaker elegido; escaños atribuidos al partido con que se eligió al miembro; segundas vueltas cuentan), fuentes oficiales (autoridades electorales estatales, Congreso de EE. UU.) con consenso de prensa, elecciones el 3-nov y cierre previsto 4-nov-2026, riesgo de disputa bajo. libro CLOB Sí bid 0.09/ask 0.10, diferencial 1,0c, prof ±2c 288853/218874 USD (No 1829780/3463455 USD), liquidez ~2,72 M USD. Ojo: mercado negRisk; si el resultado queda muy ajustado o hay independientes sin caucus definido, la resolución puede retrasarse hasta el 4-ene-2027 (capital bloqueado)."
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T11:08:03+02:00",
+    "nota": "confirmacion_news lado No"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "WHALE",
+    "ts": "2026-10-19T11:11:15+02:00",
+    "nota": "confirmación ballenas lado No"
    }
   ],
   "escaneo": {
@@ -3787,8 +3799,8 @@
    "ts": "2026-10-19T11:01:17+02:00"
   },
   "confirmacion": {
-   "whale": "",
-   "news": ""
+   "whale": "Lado No | wallets: ndb1 (Overall histórico #49, Deportes histórico #35, compra ≈138.900 USD netos de No a ~0,90 en 48h, ≈100.600 en las últimas 24h; última hace ~0,4 h; posición ~332.100 acciones No) | resto de smart en flujo, pequeño y mixto (57284910 Política mes #58 -1.400 a No; ArmageddonRewardsBilly +2.100 y BreakTheBank +900 a Sí) | acumulado neto smart 48h ≈ 136.800 USD hacia No | top-50 holders: 23 wallets smart en No (ndb1 ~332.100, Flipadelphia ~200.000, Wickier ~148.100, 0x8B4bcA1D ~145.300 acciones) frente a 5 en Sí (macrosteaks ~29.900, nigiri99 ~16.000, Kickstand7 ~15.900, cowcat ~15.600 acciones, ≈1.500-2.800 USD cada una a 0,095) | ojo: el flujo de hoy es sobre todo de una wallet; la confirmación se apoya en el posicionamiento smart muy cargado a No | fuerza: alta | 2026-10-19T11:11:15+02:00",
+   "news": "Lado No (los republicanos no conservan la Cámara) | 1) Silver Bulletin FLIPR (act. 18-oct): demócratas 94 % de controlar la Cámara (93,1 % el 8-oct; mínimo 81 % el 3-sep); voto genérico ajustado a probables votantes D+9,6, sin ajuste D+8,9 «estabilizado» (natesilver.net/p/nate-silver-2026-midterm-election-polls-model; natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls; theconversation.com 294465). 2) Cook Political Report (16-oct): 214 escaños sólidos/probables/inclinados D y 21 empates; rango estimado D +9 a +19 escaños; 18 + 11 cambios de calificación recientes, todos o casi todos hacia D (cookpolitical.com/ratings/house-race-ratings). A D le bastan 4 de 21 empates; Sabato's Crystal Ball también da 214 D (news.kalshi.com/p/2026-midterm-predictions). 3) Señal de comportamiento: POLITICO 14-oct, cinco republicanos veteranos de la Cámara la dan en privado por perdida; el super PAC de Johnson (CLF) cancela anuncios en Iowa, Nueva Jersey, Nebraska (NE-02) y distritos D de Michigan y Ohio; la Casa Blanca prioriza el Senado (politico.com/news/2026/10/14/house-republicans-private-lost-cause-01117673; wired.com/story/trump-aides-admit-the-house-is-a-lost-cause). Aprobación de Trump 32 % (Reuters/Ipsos, vía pollar.news). 4) Contrapeso: error histórico de encuestas a favor del GOP (Enten/CNN cita ~3,7 pt en el Senado); con D+9 un error así aún deja a D favorito en la Cámara (Silver: D favorito con +2-3 en el genérico). Promesa de Trump de 5.000 USD si el GOP retiene el Congreso, sin efecto medible aún. 5) Contexto X (resúmenes de noticias X 15-18 oct: x.com/i/trending/2110781583061844250, x.com/i/trending/2111844831890657607, x.com/i/trending/2111097556180897971) coincide con lo anterior; los posts partidistas de X son ruido y no cuentan. 6) Precio: Sí 0,095 (CLOB bid 0,09 / ask 0,10, libro muy profundo ~1,16 M acciones al ask); el No a 0,91 implica ~91 % D frente a ~94 % del modelo: edge ≈ +2-3 pp a favor del No, sin descontar capital bloqueado hasta el 4-nov (o 4-ene-2027 si queda ajustado). Fuerza: alta en dirección, edge pequeño. | 2026-10-19T11:08:03+02:00"
   },
   "valoracion": {
    "prob_estimada": 0,
