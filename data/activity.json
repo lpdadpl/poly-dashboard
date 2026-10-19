@@ -430,5 +430,61 @@
   "fase": "valorado",
   "accion": "valorado",
   "detalle": "P(Sí)=0,27: Polymarket mid 0,267 (Kane 0,654); casas OLBG 13-oct Yamal 2/1 (~31% sin margen, dato algo viejo) frente a flujo smart neto a No (~45k USD, sobre todo salidas de Sí). Edge vs ask: Sí 0,269 → +0,1 pp (EV +0,4%, por debajo del diferencial y la incertidumbre); No 0,735 → -0,5 pp (EV -0,7%). Kelly 1/4 ≈0 → NO APOSTAR (tamaño 0)."
+ },
+ {
+  "ts": "2026-10-19T03:07:18+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Lado No (Lula no gana por <4) | 1) 1.ª vuelta oficial TSE 04-oct: Flávio 47,03% vs Lula 45,16% (tse.jus.br, nota 05-oct). 2) Encuestas 2.ª vuelta en votos válidos (Poder360 18-oct, 13 sondeos 3-17 oct): Flávio por delante en 11 de 13; Datafolha 15-oct 51-49, Quaest 14-oct 51,1-48,9, AtlasIntel 9-oct 52,8-47,2, PoderData 15-oct 50-50, MDA 50,5-49,5, Nexus/Gerp 52-48; único con Lula delante: Vox Brasil 18-oct 51-49 (cnnbrasil.com.br). Media ≈ Flávio +2/+3 pp, con ligero estrechamiento (Datafolha pasó de +4 a +2). 3) Apoyos: Caiado, Zema y Cury con Flávio; Renan Santos libera (Estadão); Ipespe 17-oct: votantes de Cury 50% Flávio / 31% Lula (Veja). 4) Debate Band 18-oct: sin ganador claro según prensa (GZH, O Globo, Valor); 91-93% voto decidido (Quaest/Datafolha). 5) Precio coherente: evento margen Lula <4 0,195, Lula 4-8 0,0095 → casi toda la prob. de victoria de Lula está en este tramo; mercado ganador Lula 0,205. Estimo P(Lula gana) ~20-25%: sin edge claro, ligero sesgo a que el Sí está algo barato si las encuestas post-debate siguen estrechándose. Ruido descartado: supuesto tracking interno PT filtrado (Flávio 53,5%) sin confirmación; supuesto Datafolha 56-44 inexistente; hashtags partidistas en X. Catalizadores: AtlasIntel y PoderData lun 19, Real Time Big Data mar 20, Quaest mié 21, Datafolha jue 22 (post-debate). Fuerza: media a favor de No; precio Sí 0,195 coherente. | 2026-10-19T03:07:18+02:00"
+ },
+ {
+  "ts": "2026-10-19T03:07:18+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin noticias nuevas de la Fed desde la pasada de las 02:09; se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T03:09:58+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "veredicto",
+  "detalle": "APROBADO: tamano_max=5 | APROBADO: Reglas claras (margen = diferencia de % de votos válidos; empate de tramo al superior), oráculo oficial TSE con consenso de prensa, 2.ª vuelta el 25-oct y resolución ~26-"
+ },
+ {
+  "ts": "2026-10-19T03:09:58+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "veredicto",
+  "detalle": "APROBADO: tamano_max=5 | APROBADO: Reglas claras (Over si ≥7 carreras; Under si <7; aplazamiento mantiene abierto; cancelación 50-50), oráculo MLB.com / estadísticas oficiales, kickoff ~02:08 h (Madrid) de"
+ },
+ {
+  "ts": "2026-10-19T03:09:58+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "veredicto",
+  "detalle": "APROBADO: tamano_max=5 | APROBADO: Reglas claras (Rays ganan por ≥2 → Rays; si no o empate → Guardians; aplazamiento mantiene abierto; cancelación 50-50), oráculo MLB.com / estadísticas oficiales, kickoff "
+ },
+ {
+  "ts": "2026-10-19T03:10:52+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Flujo smart 48h sigue mixto (neto ≈ -8.200 USD hacia No; 3 wallets smart netas a Sí frente a 3 a No; una wallet Econ mes #5 deshace ~83.600 USD de No mientras timetowander y HH168 compran ~68.300 y ~30.900 USD de No). Holders smart grandes en Sí (MysticFind, jsmythyson). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T03:10:52+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -31.400 USD hacia No, pero casi todo de una sola wallet (classified, Política histórico #33) que opera ambos lados (compró 59.400 No y 27.600 Sí; posición neta ≈ 15.200 acciones No) y la compra grande fue hace ~25 h. El resto de smart está equilibrado (12 wallets pequeñas a No ~1-2k frente a flawfence +9.100, 0xa751 +2.300, mountaindewd +1.500 a Sí) y los holders smart grandes están en Sí (flawfence 50k, balthazar 45k acciones). Sin acumulación clara."
  }
 ]

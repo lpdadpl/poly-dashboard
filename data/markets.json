@@ -1342,6 +1342,12 @@
     "agente": "RISK",
     "ts": "2026-10-19T02:09:09+02:00",
     "nota": "APROBADO: Reglas claras (margen = diferencia de % de votos válidos entre los dos primeros; empate de tramo al superior), oráculo oficial TSE con consenso de prensa, 2.ª vuelta el 25-oct y resolución ~26-oct; riesgo de disputa bajo (recuento solo retrasa). libro CLOB Sí bid 0.18/ask 0.19, prof ±2c 4072/1957 USD, liquidez 136k USD (ask Sí top ~43 USD: suficiente para 5 USD)."
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T03:07:18+02:00",
+    "nota": "confirmacion_news"
    }
   ],
   "escaneo": {
@@ -1376,7 +1382,7 @@
   },
   "confirmacion": {
    "whale": "",
-   "news": ""
+   "news": "Lado No (Lula no gana por <4) | 1) 1.ª vuelta oficial TSE 04-oct: Flávio 47,03% vs Lula 45,16% (tse.jus.br, nota 05-oct). 2) Encuestas 2.ª vuelta en votos válidos (Poder360 18-oct, 13 sondeos 3-17 oct): Flávio por delante en 11 de 13; Datafolha 15-oct 51-49, Quaest 14-oct 51,1-48,9, AtlasIntel 9-oct 52,8-47,2, PoderData 15-oct 50-50, MDA 50,5-49,5, Nexus/Gerp 52-48; único con Lula delante: Vox Brasil 18-oct 51-49 (cnnbrasil.com.br). Media ≈ Flávio +2/+3 pp, con ligero estrechamiento (Datafolha pasó de +4 a +2). 3) Apoyos: Caiado, Zema y Cury con Flávio; Renan Santos libera (Estadão); Ipespe 17-oct: votantes de Cury 50% Flávio / 31% Lula (Veja). 4) Debate Band 18-oct: sin ganador claro según prensa (GZH, O Globo, Valor); 91-93% voto decidido (Quaest/Datafolha). 5) Precio coherente: evento margen Lula <4 0,195, Lula 4-8 0,0095 → casi toda la prob. de victoria de Lula está en este tramo; mercado ganador Lula 0,205. Estimo P(Lula gana) ~20-25%: sin edge claro, ligero sesgo a que el Sí está algo barato si las encuestas post-debate siguen estrechándose. Ruido descartado: supuesto tracking interno PT filtrado (Flávio 53,5%) sin confirmación; supuesto Datafolha 56-44 inexistente; hashtags partidistas en X. Catalizadores: AtlasIntel y PoderData lun 19, Real Time Big Data mar 20, Quaest mié 21, Datafolha jue 22 (post-debate). Fuerza: media a favor de No; precio Sí 0,195 coherente. | 2026-10-19T03:07:18+02:00"
   },
   "valoracion": {
    "prob_estimada": 0,
@@ -1724,13 +1730,19 @@
   "slug_evento": "brazil-presidential-election-second-round-margin-of-victory",
   "url": "https://polymarket.com/event/brazil-presidential-election-second-round-margin-of-victory",
   "pregunta": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T02:54:26+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T03:09:58+02:00",
+    "nota": "APROBADO: Reglas claras (margen = diferencia de % de votos válidos; empate de tramo al superior), oráculo oficial TSE con consenso de prensa, 2.ª vuelta el 25-oct y resolución ~26-oct; riesgo de disputa bajo (recuento solo retrasa). libro CLOB Sí bid 0.078/ask 0.079, prof ±2c 629/2228 USD, diferencial 0,1c, liquidez ~134k USD (ask top fino ~3 USD; profundidad suficiente para 5 USD). Correlacionado con M-20261019-017: tope conjunto 5 USD para el evento margen 2.ª vuelta Brasil."
    }
   ],
   "escaneo": {
@@ -1758,9 +1770,10 @@
    "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras (margen = diferencia de % de votos válidos; empate de tramo al superior), oráculo oficial TSE con consenso de prensa, 2.ª vuelta el 25-oct y resolución ~26-oct; riesgo de disputa bajo (recuento solo retrasa). libro CLOB Sí bid 0.078/ask 0.079, prof ±2c 629/2228 USD, diferencial 0,1c, liquidez ~134k USD (ask top fino ~3 USD; profundidad suficiente para 5 USD). Correlacionado con M-20261019-017: tope conjunto 5 USD para el evento margen 2.ª vuelta Brasil.",
+   "ts": "2026-10-19T03:09:58+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -1796,13 +1809,19 @@
   "slug_evento": "mlb-cle-tb-2026-10-19",
   "url": "https://polymarket.com/event/mlb-cle-tb-2026-10-19",
   "pregunta": "Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T02:54:26+02:00",
     "nota": "origen: nuevo"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T03:09:58+02:00",
+    "nota": "APROBADO: Reglas claras (Over si ≥7 carreras; Under si <7; aplazamiento mantiene abierto; cancelación 50-50), oráculo MLB.com / estadísticas oficiales, kickoff ~02:08 h (Madrid) del 20-oct (~23 h: embudo viable), riesgo de disputa bajo. libro CLOB Over bid 0.50/ask 0.51, prof ±2c 9361/9699 USD, diferencial 1c, liquidez ~30k USD. Correlacionado con M-20261019-024: tope conjunto 5 USD para el evento CLE-TB 19-oct."
    }
   ],
   "escaneo": {
@@ -1830,9 +1849,10 @@
    "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras (Over si ≥7 carreras; Under si <7; aplazamiento mantiene abierto; cancelación 50-50), oráculo MLB.com / estadísticas oficiales, kickoff ~02:08 h (Madrid) del 20-oct (~23 h: embudo viable), riesgo de disputa bajo. libro CLOB Over bid 0.50/ask 0.51, prof ±2c 9361/9699 USD, diferencial 1c, liquidez ~30k USD. Correlacionado con M-20261019-024: tope conjunto 5 USD para el evento CLE-TB 19-oct.",
+   "ts": "2026-10-19T03:09:58+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -1868,13 +1888,19 @@
   "slug_evento": "mlb-cle-tb-2026-10-19",
   "url": "https://polymarket.com/event/mlb-cle-tb-2026-10-19",
   "pregunta": "Spread: Tampa Bay Rays (-1.5)",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T02:54:26+02:00",
     "nota": "origen: nuevo"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T03:09:58+02:00",
+    "nota": "APROBADO: Reglas claras (Rays ganan por ≥2 → Rays; si no o empate → Guardians; aplazamiento mantiene abierto; cancelación 50-50), oráculo MLB.com / estadísticas oficiales, kickoff ~02:08 h (Madrid) del 20-oct (~23 h: embudo viable), riesgo de disputa bajo. libro CLOB Rays(-1.5) bid 0.35/ask 0.36, prof ±2c 14750/14501 USD, diferencial 1c, liquidez ~56k USD (ask top fino ~2 USD; profundidad a 0,37 suficiente para 5 USD). Correlacionado con M-20261019-023: tope conjunto 5 USD para el evento CLE-TB 19-oct."
    }
   ],
   "escaneo": {
@@ -1902,9 +1928,10 @@
    "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras (Rays ganan por ≥2 → Rays; si no o empate → Guardians; aplazamiento mantiene abierto; cancelación 50-50), oráculo MLB.com / estadísticas oficiales, kickoff ~02:08 h (Madrid) del 20-oct (~23 h: embudo viable), riesgo de disputa bajo. libro CLOB Rays(-1.5) bid 0.35/ask 0.36, prof ±2c 14750/14501 USD, diferencial 1c, liquidez ~56k USD (ask top fino ~2 USD; profundidad a 0,37 suficiente para 5 USD). Correlacionado con M-20261019-023: tope conjunto 5 USD para el evento CLE-TB 19-oct.",
+   "ts": "2026-10-19T03:09:58+02:00"
   },
   "confirmacion": {
    "whale": "",
