@@ -185,8 +185,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 545099.48,
-   "volumen_total_usd": 8622495.76,
+   "volumen_24h_usd": 546149.82,
+   "volumen_total_usd": 8622869.03,
    "precio_si": 0.295,
    "resultados": [
     "Yes",
@@ -196,7 +196,7 @@
     0.295,
     0.705
    ],
-   "liquidez_usd": 440510.13,
+   "liquidez_usd": 450726.28,
    "mejor_bid": 0.29,
    "mejor_ask": 0.3,
    "fecha_resolucion": "2026-10-28T03:59:00Z",
@@ -206,7 +206,7 @@
     "20006732765674855733524007935991362439352594042415161039767275461950712817548",
     "54533569528927082430133047556849600511985191158927477533124630301934489498530"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -361,8 +361,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 220054.52,
-   "volumen_total_usd": 13608633.44,
+   "volumen_24h_usd": 221364.11,
+   "volumen_total_usd": 13609915.88,
    "precio_si": 0.875,
    "resultados": [
     "Yes",
@@ -372,7 +372,7 @@
     0.875,
     0.125
    ],
-   "liquidez_usd": 1036352.61,
+   "liquidez_usd": 1197221.84,
    "mejor_bid": 0.87,
    "mejor_ask": 0.88,
    "fecha_resolucion": "2026-10-29T03:59:00Z",
@@ -382,7 +382,7 @@
     "111061902544814266207267295505639408607400625795891618462682726460921782993748",
     "42038775866198212615491650114881818219665139981763207699110491615333273795415"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -446,8 +446,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 212472.55,
-   "volumen_total_usd": 4027170.11,
+   "volumen_24h_usd": 213053.91,
+   "volumen_total_usd": 4027803.46,
    "precio_si": 0.825,
    "resultados": [
     "Yes",
@@ -457,7 +457,7 @@
     0.825,
     0.175
    ],
-   "liquidez_usd": 442485.05,
+   "liquidez_usd": 486041.72,
    "mejor_bid": 0.82,
    "mejor_ask": 0.83,
    "fecha_resolucion": "2026-10-31T23:59:00Z",
@@ -467,7 +467,7 @@
     "67102598924726349989742049657609063097299442010642912942032681022413402597017",
     "114475889232765203212032217024645308497828327658421967586050553616813506019119"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -536,7 +536,7 @@
     0.045,
     0.955
    ],
-   "liquidez_usd": 568898.84,
+   "liquidez_usd": 582277.37,
    "mejor_bid": 0.04,
    "mejor_ask": 0.05,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
@@ -546,7 +546,7 @@
     "10991849228756847439673778874175365458450913336396982752046655649803657501964",
     "106181075047366745139197108801635573283215248045056329679360376976893016488727"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -610,8 +610,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 166199.22,
-   "volumen_total_usd": 10346361.58,
+   "volumen_24h_usd": 166146.42,
+   "volumen_total_usd": 10346382.43,
    "precio_si": 0.125,
    "resultados": [
     "Yes",
@@ -621,7 +621,7 @@
     0.125,
     0.875
    ],
-   "liquidez_usd": 981575.95,
+   "liquidez_usd": 1157296.24,
    "mejor_bid": 0.12,
    "mejor_ask": 0.13,
    "fecha_resolucion": "2026-10-29T03:59:00Z",
@@ -631,7 +631,7 @@
     "55159722761418013044126414276680602270318000841690689684819994448621694923050",
     "78632395083310670734315205502061249602319069653915932320155846460019107676757"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -691,17 +691,17 @@
   "escaneo": {
    "volumen_24h_usd": 163822.82,
    "volumen_total_usd": 15854732.48,
-   "precio_si": 0.034,
+   "precio_si": 0.036,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.034,
-    0.966
+    0.036,
+    0.964
    ],
-   "liquidez_usd": 231450.95,
-   "mejor_bid": 0.028,
+   "liquidez_usd": 239617.34,
+   "mejor_bid": 0.032,
    "mejor_ask": 0.04,
    "fecha_resolucion": "2028-11-08T04:59:00Z",
    "creado": "2025-07-10T16:58:06.43886Z",
@@ -710,7 +710,7 @@
     "12127975650736113116407758794754973741525044713193258995588171654429754588610",
     "95344728193244020854716971584323868633691370479151373416918812532794690491367"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -779,7 +779,7 @@
     0.0205,
     0.9795
    ],
-   "liquidez_usd": 216945.96,
+   "liquidez_usd": 217031.41,
    "mejor_bid": 0.019,
    "mejor_ask": 0.022,
    "fecha_resolucion": "2028-11-08T04:59:00Z",
@@ -789,7 +789,7 @@
     "52310257194926233099477326083312959938983447523839326865869372741334281264830",
     "88403451835230950222119400360490338078378790763472355557584611572247419676051"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -847,20 +847,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 144499.99,
-   "volumen_total_usd": 2507594.67,
-   "precio_si": 0.875,
+   "volumen_24h_usd": 139498.76,
+   "volumen_total_usd": 2507646.67,
+   "precio_si": 0.865,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.875,
-    0.125
+    0.865,
+    0.135
    ],
-   "liquidez_usd": 141287.23,
-   "mejor_bid": 0.87,
-   "mejor_ask": 0.88,
+   "liquidez_usd": 110036.79,
+   "mejor_bid": 0.86,
+   "mejor_ask": 0.87,
    "fecha_resolucion": "2026-10-31T20:29:00Z",
    "creado": "2026-08-07T14:27:19.254718Z",
    "condition_id": "0xc3d5708780de5528998aeb53ca90e7ade64804f9f2386392a681435d5c42b44d",
@@ -868,7 +868,7 @@
     "36595575197199846398267481972385180643951985822505187477756829088194676076340",
     "34386684966925037477701889915132575610574649191623462027976379158560146275115"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -926,8 +926,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 141665.72,
-   "volumen_total_usd": 289097.52,
+   "volumen_24h_usd": 164322.14,
+   "volumen_total_usd": 312306.9,
    "precio_si": 0.955,
    "resultados": [
     "Yes",
@@ -937,7 +937,7 @@
     0.955,
     0.045
    ],
-   "liquidez_usd": 94634.02,
+   "liquidez_usd": 59571.76,
    "mejor_bid": 0.95,
    "mejor_ask": 0.96,
    "fecha_resolucion": "2026-10-23T03:59:00Z",
@@ -947,7 +947,7 @@
     "11703355753646866721510451780813586747644200170798817311988936815535980370261",
     "65420996630654354480054098878673482065505905636022385586010587347634944011067"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1005,20 +1005,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 149656.17,
-   "volumen_total_usd": 559668.22,
-   "precio_si": 0.9755,
+   "volumen_24h_usd": 153561.0,
+   "volumen_total_usd": 561062.55,
+   "precio_si": 0.976,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.9755,
-    0.0245
+    0.976,
+    0.024
    ],
-   "liquidez_usd": 106409.57,
+   "liquidez_usd": 81128.08,
    "mejor_bid": 0.975,
-   "mejor_ask": 0.976,
+   "mejor_ask": 0.977,
    "fecha_resolucion": "2026-10-22T03:59:00Z",
    "creado": "2026-10-14T18:09:40.001739Z",
    "condition_id": "0x1175651306e9ae39991642dcff3fd96778ae0301fc44c7f5565251fc2bb68d31",
@@ -1026,7 +1026,7 @@
     "24399767988117113521472412724678339180207513110495231843644050348352296275787",
     "95621696205739201037602073257017921677890684949833910344379917839419913867662"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1084,7 +1084,7 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 128134.94,
+   "volumen_24h_usd": 127825.9,
    "volumen_total_usd": 74632969.34,
    "precio_si": 0.155,
    "resultados": [
@@ -1095,7 +1095,7 @@
     0.155,
     0.845
    ],
-   "liquidez_usd": 484279.83,
+   "liquidez_usd": 564639.51,
    "mejor_bid": 0.15,
    "mejor_ask": 0.16,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
@@ -1105,7 +1105,7 @@
     "55115078421062885512539156303747803058407616201213034911037320915726138659123",
     "1910830010387565971650098373488592514702818137344973088263643820608151819241"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1260,7 +1260,7 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 95490.53,
+   "volumen_24h_usd": 91387.84,
    "volumen_total_usd": 4505107.61,
    "precio_si": 0.267,
    "resultados": [
@@ -1271,7 +1271,7 @@
     0.267,
     0.733
    ],
-   "liquidez_usd": 115559.41,
+   "liquidez_usd": 120110.18,
    "mejor_bid": 0.265,
    "mejor_ask": 0.269,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
@@ -1281,7 +1281,7 @@
     "10466835326554416965099784068156829774726248334728156046559014834812912458273",
     "115364229170068359509280114761107502298430910856477421813089992309112580316620"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -1509,20 +1509,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 99541.99,
-   "volumen_total_usd": 629908.45,
-   "precio_si": 0.795,
+   "volumen_24h_usd": 105713.0,
+   "volumen_total_usd": 636079.46,
+   "precio_si": 0.785,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.795,
-    0.205
+    0.785,
+    0.215
    ],
-   "liquidez_usd": 406247.96,
-   "mejor_bid": 0.79,
-   "mejor_ask": 0.8,
+   "liquidez_usd": 444707.79,
+   "mejor_bid": 0.78,
+   "mejor_ask": 0.79,
    "fecha_resolucion": "2026-11-04T04:59:00Z",
    "creado": "2026-10-09T01:16:01.403913Z",
    "condition_id": "0x613613192c69d90cee89758c260a019368fc1f4a596b4d300c39b6235d2b643f",
@@ -1530,7 +1530,7 @@
     "59838288288458809448405089801806485870309105325255232123458269975283939712397",
     "26083146751610036454524904850508210754946650859133877372205070732610792631731"
    ],
-   "ts": "2026-10-19T02:54:26+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1588,20 +1588,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 88155.0,
-   "volumen_total_usd": 3934545.84,
-   "precio_si": 0.125,
+   "volumen_24h_usd": 90599.51,
+   "volumen_total_usd": 3937068.86,
+   "precio_si": 0.115,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.125,
-    0.875
+    0.115,
+    0.885
    ],
-   "liquidez_usd": 130998.36,
-   "mejor_bid": 0.12,
-   "mejor_ask": 0.13,
+   "liquidez_usd": 139560.49,
+   "mejor_bid": 0.11,
+   "mejor_ask": 0.12,
    "fecha_resolucion": "2026-10-28T03:59:00Z",
    "creado": "2025-11-14T18:50:43.425747Z",
    "condition_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
@@ -1609,7 +1609,7 @@
     "58945936829392654397399777214757608864525173988558750256164021442231118224154",
     "39409206330527880169507414405291721950884951005340760541937649898052386499519"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1743,6 +1743,12 @@
     "agente": "RISK",
     "ts": "2026-10-19T03:09:58+02:00",
     "nota": "APROBADO: Reglas claras (margen = diferencia de % de votos válidos; empate de tramo al superior), oráculo oficial TSE con consenso de prensa, 2.ª vuelta el 25-oct y resolución ~26-oct; riesgo de disputa bajo (recuento solo retrasa). libro CLOB Sí bid 0.078/ask 0.079, prof ±2c 629/2228 USD, diferencial 0,1c, liquidez ~134k USD (ask top fino ~3 USD; profundidad suficiente para 5 USD). Correlacionado con M-20261019-017: tope conjunto 5 USD para el evento margen 2.ª vuelta Brasil."
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T04:02:19+02:00",
+    "nota": "confirmacion_news"
    }
   ],
   "escaneo": {
@@ -1777,7 +1783,7 @@
   },
   "confirmacion": {
    "whale": "",
-   "news": ""
+   "news": "Lado No (Flávio no gana por 8-12) | 1) 1.ª vuelta oficial TSE 04-oct: Flávio 47,03% vs Lula 45,16% (margen 1,87). 2) Encuestas 2.ª vuelta (Poder360 18-oct, 13 sondeos 3-17 oct; acervo depoisdas17.com.br): media ≈ Flávio +2/+3 pp en válidos; recientes: Datafolha 15-oct 47-45, Quaest 13-oct 46-44, PoderData 15-oct 50-50 válidos, Veritá 16-oct 51,1-48,9 válidos, MDA 46,8-45,9, Gerp 16-oct 50-45 (~+5,3 en válidos), Vox Brasil 17-oct Lula 46,4-44,6. Los más favorables a Flávio: AtlasIntel 8-oct 52,8-47,2 válidos (+5,6; exame.com) y Gerp 12-oct 53-44 (~+9, superado por su propio sondeo del 16-oct a ~+5). Ningún sondeo reciente sitúa a Flávio en +8 o más. 3) El tramo 8-12 exige un error de encuestas de ~5-6 pp a favor de Flávio; posible (cola gorda, precedente 2022) pero no es el escenario central. 4) Debate Band 18-oct sin ganador claro; voto muy decidido (91-93%). Precio Sí 0,0895 coherente o algo caro; sin edge claro. Ruido descartado: aforos de mítines en Paulista/Brasilia y hashtags partidistas en X (#LULAVAIVENCER, Bloquinho 22). Catalizadores: AtlasIntel y PoderData lun 19, RTBD mar 20, Quaest mié 21, Datafolha jue 22. Fuerza: media a favor de No. | 2026-10-19T04:02:19+02:00"
   },
   "valoracion": {
    "prob_estimada": 0,
@@ -1822,6 +1828,12 @@
     "agente": "RISK",
     "ts": "2026-10-19T03:09:58+02:00",
     "nota": "APROBADO: Reglas claras (Over si ≥7 carreras; Under si <7; aplazamiento mantiene abierto; cancelación 50-50), oráculo MLB.com / estadísticas oficiales, kickoff ~02:08 h (Madrid) del 20-oct (~23 h: embudo viable), riesgo de disputa bajo. libro CLOB Over bid 0.50/ask 0.51, prof ±2c 9361/9699 USD, diferencial 1c, liquidez ~30k USD. Correlacionado con M-20261019-024: tope conjunto 5 USD para el evento CLE-TB 19-oct."
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T04:02:19+02:00",
+    "nota": "confirmacion_news"
    }
   ],
   "escaneo": {
@@ -1856,7 +1868,7 @@
   },
   "confirmacion": {
    "whale": "",
-   "news": ""
+   "news": "Sin lado claro (ligero sesgo Under, ya en precio) | 1) ALCS Juego 6, Rays lideran 3-2 tras ganar 3-1 el Juego 5 (dom 18-oct, Progressive Field); Juego 6 lun 19-oct 20:08 ET (02:08 h Madrid del 20-oct) en Tropicana Field, estadio cubierto (sin efecto clima) (mlb.com/rays/roster/probable-pitchers; data.vsin.com). 2) Abridores: Rays Freddy Peralta (6 entradas en blanco en el Juego 2; ERA 0,79 en postemporada; cbssports.com 18-oct, vía Tampa Bay Times); Guardians sin Gavin Williams (reservado para un posible Juego 7) y bullpen game con Bibee/Cantillo (nbcsports.com 19-oct; scoresandodds lista a Bibee). 3) Serie de pocas carreras: el Over del total principal solo se cumplió 2 de 5 (vantagepredictions.com); resultados 7-3, 3-1, 3-2, 7-3, 3-1. 4) Casas: total 6,5 con Over -110/-114 y Under -105/-110 (scoresandodds.com) → Over sin margen ≈ 50%; Polymarket Over 0,505 coherente. Ruido descartado: quejas de aficionados (Walls, Messick) y picks gratuitos en X. Fuerza: baja; precio coherente. | 2026-10-19T04:02:19+02:00"
   },
   "valoracion": {
    "prob_estimada": 0,
@@ -1901,6 +1913,12 @@
     "agente": "RISK",
     "ts": "2026-10-19T03:09:58+02:00",
     "nota": "APROBADO: Reglas claras (Rays ganan por ≥2 → Rays; si no o empate → Guardians; aplazamiento mantiene abierto; cancelación 50-50), oráculo MLB.com / estadísticas oficiales, kickoff ~02:08 h (Madrid) del 20-oct (~23 h: embudo viable), riesgo de disputa bajo. libro CLOB Rays(-1.5) bid 0.35/ask 0.36, prof ±2c 14750/14501 USD, diferencial 1c, liquidez ~56k USD (ask top fino ~2 USD; profundidad a 0,37 suficiente para 5 USD). Correlacionado con M-20261019-023: tope conjunto 5 USD para el evento CLE-TB 19-oct."
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T04:02:19+02:00",
+    "nota": "confirmacion_news"
    }
   ],
   "escaneo": {
@@ -1932,6 +1950,78 @@
    "tamano_max_usd": 5,
    "motivo": "APROBADO: Reglas claras (Rays ganan por ≥2 → Rays; si no o empate → Guardians; aplazamiento mantiene abierto; cancelación 50-50), oráculo MLB.com / estadísticas oficiales, kickoff ~02:08 h (Madrid) del 20-oct (~23 h: embudo viable), riesgo de disputa bajo. libro CLOB Rays(-1.5) bid 0.35/ask 0.36, prof ±2c 14750/14501 USD, diferencial 1c, liquidez ~56k USD (ask top fino ~2 USD; profundidad a 0,37 suficiente para 5 USD). Correlacionado con M-20261019-023: tope conjunto 5 USD para el evento CLE-TB 19-oct.",
    "ts": "2026-10-19T03:09:58+02:00"
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": "Lado Guardians +1.5 (No a Rays -1.5), sin edge | 1) Mismo contexto que M-20261019-023: Juego 6 en Tropicana, Peralta (ERA 0,79 postemporada) frente a bullpen game de Cleveland sin Gavin Williams (cbssports.com, nbcsports.com). 2) Casas: Rays -1.5 entre +163 y +176, Guardians +1.5 entre -200 y -215; moneyline Rays ≈ -140 (scoresandodds.com) → Rays -1.5 sin margen ≈ 35-36%; Polymarket 0,355 coherente; ganador del partido Rays 57-58c en Polymarket/Kalshi (vantagepredictions.com). 3) Factor a vigilar: en eliminación Cleveland puede tirar de todo el bullpen, lo que favorece partidos cerrados; las victorias de Rays en la serie fueron por 4, 2, 4 y 2 carreras. Ruido descartado: memes de asistencia en Tropicana y debate en X sobre la decisión de Vogt. Fuerza: baja; precio coherente. | 2026-10-19T04:02:19+02:00"
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-025",
+  "slug": "bitcoin-above-80k-on-october-19-2026",
+  "slug_evento": "bitcoin-above-on-october-19-2026",
+  "url": "https://polymarket.com/event/bitcoin-above-on-october-19-2026",
+  "pregunta": "Will the price of Bitcoin be above $80,000 on October 19?",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T03:51:06+02:00",
+    "nota": "origen: top_volumen"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 119517.88,
+   "volumen_total_usd": 139971.75,
+   "precio_si": 0.945,
+   "resultados": [
+    "Yes",
+    "No"
+   ],
+   "precios": [
+    0.945,
+    0.055
+   ],
+   "liquidez_usd": 41801.46,
+   "mejor_bid": 0.94,
+   "mejor_ask": 0.95,
+   "fecha_resolucion": "2026-10-19T16:00:00Z",
+   "creado": "2026-10-12T16:00:05.082447Z",
+   "condition_id": "0x940df19a033a98440c05707379829e410a5ba291c3103857d17d42b3af142777",
+   "clob_token_ids": [
+    "23582138247874677095795806966360249434870370595493762591665892958310575458194",
+    "109286620615950443605556425213740407040621687603604897833435634922410784786012"
+   ],
+   "ts": "2026-10-19T03:51:06+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
   },
   "confirmacion": {
    "whale": "",

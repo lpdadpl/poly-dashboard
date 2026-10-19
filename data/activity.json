@@ -486,5 +486,53 @@
   "fase": "aprobado",
   "accion": "sin_senal",
   "detalle": "Neto smart 48h ≈ -31.400 USD hacia No, pero casi todo de una sola wallet (classified, Política histórico #33) que opera ambos lados (compró 59.400 No y 27.600 Sí; posición neta ≈ 15.200 acciones No) y la compra grande fue hace ~25 h. El resto de smart está equilibrado (12 wallets pequeñas a No ~1-2k frente a flawfence +9.100, 0xa751 +2.300, mountaindewd +1.500 a Sí) y los holders smart grandes están en Sí (flawfence 50k, balthazar 45k acciones). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T03:51:06+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-025",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will the price of Bitcoin be above $80,000 on October 19?"
+ },
+ {
+  "ts": "2026-10-19T04:02:19+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin noticias nuevas de la Fed desde las 03:07 (solo la reinversión rutinaria de T-bills de la Fed de NY 19-oct a 10-nov, sin señal de política); se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T04:02:19+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin encuestas nuevas desde las 03:07 (AtlasIntel y PoderData se esperan el lun 19); cobertura del debate Band y mítines del 18-oct sin cambio de fondo; se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T04:02:19+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Lado No (Flávio no gana por 8-12) | 1) 1.ª vuelta oficial TSE 04-oct: Flávio 47,03% vs Lula 45,16% (margen 1,87). 2) Encuestas 2.ª vuelta (Poder360 18-oct, 13 sondeos 3-17 oct; acervo depoisdas17.com.br): media ≈ Flávio +2/+3 pp en válidos; recientes: Datafolha 15-oct 47-45, Quaest 13-oct 46-44, PoderData 15-oct 50-50 válidos, Veritá 16-oct 51,1-48,9 válidos, MDA 46,8-45,9, Gerp 16-oct 50-45 (~+5,3 en válidos), Vox Brasil 17-oct Lula 46,4-44,6. Los más favorables a Flávio: AtlasIntel 8-oct 52,8-47,2 válidos (+5,6; exame.com) y Gerp 12-oct 53-44 (~+9, superado por su propio sondeo del 16-oct a ~+5). Ningún sondeo reciente sitúa a Flávio en +8 o más. 3) El tramo 8-12 exige un error de encuestas de ~5-6 pp a favor de Flávio; posible (cola gorda, precedente 2022) pero no es el escenario central. 4) Debate Band 18-oct sin ganador claro; voto muy decidido (91-93%). Precio Sí 0,0895 coherente o algo caro; sin edge claro. Ruido descartado: aforos de mítines en Paulista/Brasilia y hashtags partidistas en X (#LULAVAIVENCER, Bloquinho 22). Catalizadores: AtlasIntel y PoderData lun 19, RTBD mar 20, Quaest mié 21, Datafolha jue 22. Fuerza: media a favor de No. | 2026-10-19T04:02:19+02:00"
+ },
+ {
+  "ts": "2026-10-19T04:02:19+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Sin lado claro (ligero sesgo Under, ya en precio) | 1) ALCS Juego 6, Rays lideran 3-2 tras ganar 3-1 el Juego 5 (dom 18-oct, Progressive Field); Juego 6 lun 19-oct 20:08 ET (02:08 h Madrid del 20-oct) en Tropicana Field, estadio cubierto (sin efecto clima) (mlb.com/rays/roster/probable-pitchers; data.vsin.com). 2) Abridores: Rays Freddy Peralta (6 entradas en blanco en el Juego 2; ERA 0,79 en postemporada; cbssports.com 18-oct, vía Tampa Bay Times); Guardians sin Gavin Williams (reservado para un posible Juego 7) y bullpen game con Bibee/Cantillo (nbcsports.com 19-oct; scoresandodds lista a Bibee). 3) Serie de pocas carreras: el Over del total principal solo se cumplió 2 de 5 (vantagepredictions.com); resultados 7-3, 3-1, 3-2, 7-3, 3-1. 4) Casas: total 6,5 con Over -110/-114 y Under -105/-110 (scoresandodds.com) → Over sin margen ≈ 50%; Polymarket Over 0,505 coherente. Ruido descartado: quejas de aficionados (Walls, Messick) y picks gratuitos en X. Fuerza: baja; precio coherente. | 2026-10-19T04:02:19+02:00"
+ },
+ {
+  "ts": "2026-10-19T04:02:19+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Lado Guardians +1.5 (No a Rays -1.5), sin edge | 1) Mismo contexto que M-20261019-023: Juego 6 en Tropicana, Peralta (ERA 0,79 postemporada) frente a bullpen game de Cleveland sin Gavin Williams (cbssports.com, nbcsports.com). 2) Casas: Rays -1.5 entre +163 y +176, Guardians +1.5 entre -200 y -215; moneyline Rays ≈ -140 (scoresandodds.com) → Rays -1.5 sin margen ≈ 35-36%; Polymarket 0,355 coherente; ganador del partido Rays 57-58c en Polymarket/Kalshi (vantagepredictions.com). 3) Factor a vigilar: en eliminación Cleveland puede tirar de todo el bullpen, lo que favorece partidos cerrados; las victorias de Rays en la serie fueron por 4, 2, 4 y 2 carreras. Ruido descartado: memes de asistencia en Tropicana y debate en X sobre la decisión de Vogt. Fuerza: baja; precio coherente. | 2026-10-19T04:02:19+02:00"
  }
 ]
