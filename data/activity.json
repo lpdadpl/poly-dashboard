@@ -894,5 +894,197 @@
   "fase": "escaneado",
   "accion": "registro",
   "detalle": "top_volumen: Will the price of Bitcoin be above $84,000 on October 19?"
+ },
+ {
+  "ts": "2026-10-19T07:06:28+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin encuestas nuevas de 2.ª vuelta desde la pasada anterior (AtlasIntel y PoderData previstas para hoy aún no publicadas; en X solo comentarios partidistas). Se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T07:06:28+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin encuestas nuevas; se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T07:06:28+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades del Juego 6 (Peralta abre por Rays, Gavin Williams no disponible, confirmado de nuevo en titulares; en X solo picks de apuestas). Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T07:06:28+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades del Juego 6; se mantiene la nota previa (Guardians +1.5, sin edge)."
+ },
+ {
+  "ts": "2026-10-19T07:06:28+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades de alineaciones ni stand-ins (en X solo promoción de picks MongolZ +1.5; inicio 11:00 h Madrid). Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T07:06:28+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin datos nuevos: titulares de oro/plata de esta madrugada repiten que las apuestas de subida en octubre bajan tras Warsh (~14-16 % de subida). Ruido descartado: RT de @CryptoNobler sobre «11 de 12 miembros del FOMC apoyan subida de emergencia» sin fuente. Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T07:06:28+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-005",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: sin novedades; hold ~84 % en resúmenes de mercado de esta madrugada, coherente con la nota previa. Se mantiene lado Sí."
+ },
+ {
+  "ts": "2026-10-19T07:06:28+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-016",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: sin novedades (en X solo predicciones de aficionados). Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T07:06:28+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-025",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: BTC ~82.460 USD a las 07:06 h Madrid (Coinbase 82.460, índice Deribit 82.457, Kraken 82.560), igual que a las 06:03; colchón ~3,1 % sobre 80k, sin catalizador nuevo. Se mantiene lado Sí."
+ },
+ {
+  "ts": "2026-10-19T07:08:25+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-028",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Partido ya en juego (inicio 06:05 h Madrid, Ningbo Open); el precio se mueve punto a punto (Gamma 0,82-0,83 frente a CLOB 0,76/0,78 en segundos) y el embudo WHALE/NEWS/QUANT/APPROVE no llega antes del final. Reglas claras (WTA, retirada = avanza el rival, walkover 50-50), pero no apto para la mesa. libro CLOB Mertens bid 0.76/ask 0.78, diferencial 2.0c, prof ±2c 2685/8000 USD."
+ },
+ {
+  "ts": "2026-10-19T07:08:25+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-029",
+  "fase": "aprobado",
+  "accion": "veredicto_riesgo",
+  "detalle": "APROBADO: tamano_max=5 | Reglas claras (gana el BO3 PARIVISION o magic; cancelación o empate 50-50; aplazamiento válido hasta 2-nov; walkover antes de empezar 50-50), oráculo HLTV (hltv.org) con respaldo de prensa creíble, inicio 20:00 h (Madrid) de hoy 19-oct y cierre hacia las 02:00 h (~13 h hasta el inicio: embudo viable), riesgo de disputa bajo. libro CLOB PARIVISION bid 0.59/ask 0.6, diferencial 1.0c, prof ±2c 24271/88478 USD, liquidez ~99k USD. Ojo: torneo de segundo nivel (1win Private Club #2); si no hay APPROVE antes de las 20:00 h, descartar por partido en juego."
+ },
+ {
+  "ts": "2026-10-19T07:08:25+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-030",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Partido ya en juego (inicio 06:25 h Madrid, Japan Women's Open); precio en vivo y embudo inviable antes del final. Además profundidad del lado comprador muy baja. libro CLOB McNally bid 0.25/ask 0.26, diferencial 1.0c, prof ±2c 568/4405 USD."
+ },
+ {
+  "ts": "2026-10-19T07:08:25+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-031",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Partido ya en juego (inicio 06:25 h Madrid, Japan Women's Open); el precio salta en vivo (Gamma 0,76/0,77 frente a CLOB 0,66/0,68) y el embudo no llega antes del final. libro CLOB Gibson bid 0.66/ask 0.68, diferencial 2.0c, prof ±2c 30311/14066 USD."
+ },
+ {
+  "ts": "2026-10-19T07:08:25+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-032",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Cierre real indeterminado y lejano: resuelve con la jura formal del próximo primer ministro tras las elecciones del 27-oct, no con el voto (la endDate 28-oct de Gamma es engañosa); la formación de coalición en Israel puede durar semanas o meses, con límite 31-dic-2027 ('Other'). Sin fuente única (resolutionSource vacío; 'información oficial del Gobierno de Israel' o consenso), exclusión de interinos y posible rotación aumentan el riesgo de disputa. Libro sí es bueno: libro CLOB Sí bid 0.473/ask 0.474, diferencial 0.1c, prof ±2c 13542/12726 USD, liquidez ~256k USD."
+ },
+ {
+  "ts": "2026-10-19T07:08:25+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-033",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Horizonte demasiado largo para la prueba en papel: elección presidencial francesa prevista para abril de 2027 (cierre Gamma 19-abr-2027, límite 31-dic-2027), capital bloqueado ~6 meses o más. Reglas claras (consenso de prensa, en duda Ministerio del Interior) y disputa baja, pero no encaja en el embudo. libro CLOB Sí bid 0.19/ask 0.2, diferencial 1.0c, prof ±2c 8030/5443 USD, liquidez ~356k USD."
+ },
+ {
+  "ts": "2026-10-19T07:08:25+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-034",
+  "fase": "aprobado",
+  "accion": "veredicto_riesgo",
+  "detalle": "APROBADO: tamano_max=5 | Reglas claras (cierre de la vela Binance BTC/USDT 1m a las 12:00 ET del 19-oct > 84.000 USD), oráculo oficial Binance, resolución hoy a las 18:00 h (Madrid), riesgo de disputa bajo. libro CLOB Sí bid 0.1/ask 0.107, diferencial 0.7c, prof ±2c 819/1214 USD, liquidez ~40k USD; libro fino pero suficiente para 5 USD. BTC spot ~82,55k USD (Coinbase); embudo viable (~11 h). Mercado hermano de M-20261019-025 (>80k): exposición correlacionada a BTC, para QUANT."
+ },
+ {
+  "ts": "2026-10-19T07:11:01+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Flujo smart 48h sigue mixto (neto ≈ -10.100 USD hacia No; 2 wallets smart netas a Sí frente a 3 a No; timetowander +69.400 USD de No y HH168 +30.900 frente a una wallet Econ mes #5 que deshace ~83.600 USD de No). Holders smart grandes en Sí (Erasmus., jsmythyson, MysticFind). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T07:11:01+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -42.300 USD hacia No, pero ~34.700 son de una sola wallet (classified, Política histórico #33, que opera ambos lados). Neto smart 24h solo ≈ -2.400 USD; 16 wallets pequeñas a No (~1,6-2,3k) frente a flawfence +8.900 y 2 más a Sí; holders smart grandes siguen en Sí (flawfence 50k, balthazar 45,5k acciones; 13 smart en Sí frente a 3 en No). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T07:11:01+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -15.000 USD hacia No (24h ≈ -10.800; 15 wallets smart pequeñas a No, máx. ~3,8k, frente a 3 a Sí), pero el mayor holder smart sigue en Sí y vuelve a comprar (0x740159, Política mes #39, ~167,5k acciones, +5.200 USD hace ~0,3 h); 7 holders smart en Sí frente a 5 en No. Señal débil y contradictoria; sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T07:11:01+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Solo 53 operaciones en 48h. nigiri99 (Econ mes #49) ≈ +1.600 USD Over y HomeRunHazard (Overall mes #6) ≈ +1.400 Over. Neto smart ≈ +3.000 USD, importe pequeño. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T07:11:01+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Solo 3 operaciones en 48h en la Data API y ningún holder smart. Sin señal."
+ },
+ {
+  "ts": "2026-10-19T07:11:01+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Esports (CS2): 770 operaciones en 48h, casi sin wallets smart (neto smart ≈ -150 USD). Flujo total ≈ -37.000 USD hacia TheMongolz dominado por wallets no smart. Sin señal."
+ },
+ {
+  "ts": "2026-10-19T07:11:01+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-029",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Esports (CS2): neto smart 48h ≈ +7.800 USD hacia PARIVISION, pero es una sola wallet (0x446884, Overall mes #79, compra 12.000 USD a 0,60 hace ~0,4 h) frente a nigiri99 (Econ mes #49) que compra 3.900 USD de magic a 0,39. Holders smart: yabanci 26k y 0x446884 20k acciones en PARIVISION frente a nigiri99 10k en magic. Flujo total ≈ +40.000 USD hacia PARIVISION, sobre todo no smart. Inclinación a PARIVISION pero concentrada en una wallet y contestada; sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T07:11:01+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-034",
+  "fase": "aprobado",
+  "accion": "confirmacion_whale",
+  "detalle": "Lado No | wallets: 0x06dc5182 (Cripto mes #3, Overall mes #49, compra ~29.700 USD de No a 0,91-0,96; última hace ~1,5 h), easyclap (Cripto histórico #17, compra 7.500 USD de No a 0,91-0,94), 0xb6fef4c2 (Cripto mes #81, ~+4.200 USD netos a No) | acumulado neto smart 48h ≈ 40.700 USD hacia No (24h ≈ 30.100); 3 wallets smart netas a No frente a 0 a Sí; flujo total del mercado ≈ 54.900 USD hacia No | top-50 holders: los 3 holders smart grandes están en No (10.800, 8.300 y 5.100 acciones) y en Sí solo restos (<500 acciones) | coherente con 0x06dc5182 comprando Sí en >80k (M-20261019-025): apuesta a rango 80-84k | ojo: compraron No a 0,91-0,96 y ahora cotiza ~0,86 (el precio va en su contra), y concentrado en una wallet | fuerza: media-alta en dirección, concentrada | 2026-10-19T07:11:01+02:00"
  }
 ]
