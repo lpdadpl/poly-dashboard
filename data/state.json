@@ -4,19 +4,19 @@
  "saldo_usd": 50,
  "mesa_parada": false,
  "limite_perdida_diaria_pct": 10,
- "ultimo_id": "M-20261019-037",
+ "ultimo_id": "M-20261019-042",
  "contador_ids_por_dia": {
-  "20261019": 37
+  "20261019": 42
  },
  "perdida_diaria_usd": 0,
  "fecha_dia": "2026-10-19",
  "ultima_ejecucion": {
   "WHALE": "2026-10-19T09:04:38+02:00",
-  "EXIT": "2026-10-19T09:30:35+02:00",
+  "EXIT": "2026-10-19T09:53:41+02:00",
   "NEWS": "2026-10-19T09:08:00+02:00",
   "RISK": "2026-10-19T09:36:44+02:00",
-  "QUANT": "2026-10-19T08:55:00+02:00",
-  "SCOUT": "2026-10-19T08:56:20+02:00"
+  "QUANT": "2026-10-19T09:49:00+02:00",
+  "SCOUT": "2026-10-19T09:55:36+02:00"
  },
  "version_protocolo": 1
 }

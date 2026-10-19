@@ -1446,5 +1446,45 @@
   "fase": "valorado",
   "accion": "sin_novedad",
   "detalle": "Seguimiento: BTC ~82.790 USD, necesita +1,5 % para superar 84k; DVOL 38,3; precio Sí 0,096 coherente. Sin catalizador. Se mantiene lado No sin edge."
+ },
+ {
+  "ts": "2026-10-19T09:55:36+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-038",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Ningbo Open: Sorana Cirstea vs Han Shi"
+ },
+ {
+  "ts": "2026-10-19T09:55:36+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-039",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will Anthropic announce bankruptcy by December 31, 2027?"
+ },
+ {
+  "ts": "2026-10-19T09:55:36+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-040",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will AC Monza win on 2026-10-19?"
+ },
+ {
+  "ts": "2026-10-19T09:55:36+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-041",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Perim Island no longer under Houthi control by December 31?"
+ },
+ {
+  "ts": "2026-10-19T09:55:36+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-042",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will Anthropic announce bankruptcy by December 31, 2028?"
  }
 ]
