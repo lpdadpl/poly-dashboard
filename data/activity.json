@@ -822,5 +822,77 @@
   "fase": "descartado",
   "accion": "rechazado",
   "detalle": "RECHAZADO: Riesgo de disputa alto: exige un anuncio oficial 'clara e inequívocamente' de fin general del bloqueo naval (no cuentan cambios parciales, exenciones por buque/puerto, declaraciones condicionales o informales), sin fuente de resolución única (resolutionSource vacío; 'información oficial del Gobierno de EE. UU.'), muy expuesto a interpretación de posts de Trump o de un posible acuerdo con Irán; misma familia geopolítica que M-20261019-006/012/019. Además libro fino para su tamaño: libro CLOB Sí bid 0.371/ask 0.386, diferencial 1,5c, prof ±2c 1189/2333 USD (liquidez Gamma ~157k USD), y cierre lejano 31-dic-2026 (capital bloqueado ~2,5 meses)."
+ },
+ {
+  "ts": "2026-10-19T06:56:14+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-028",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Ningbo Open: Elise Mertens vs Leylah Fernandez"
+ },
+ {
+  "ts": "2026-10-19T06:56:14+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-029",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Counter-Strike: PARIVISION vs magic (BO3) - 1win Private Club #2 Playoffs"
+ },
+ {
+  "ts": "2026-10-19T06:56:14+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "cambio",
+  "detalle": "volumen 24h 100971.26 -> 152583.56"
+ },
+ {
+  "ts": "2026-10-19T06:56:14+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-030",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Japan Women's Open: Caty McNally vs Sinja Kraus"
+ },
+ {
+  "ts": "2026-10-19T06:56:14+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-031",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Japan Women's Open: Talia Gibson vs Harriet Dart"
+ },
+ {
+  "ts": "2026-10-19T06:56:14+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-021",
+  "fase": "descartado",
+  "accion": "cambio",
+  "detalle": "cuota Sí 0.44 -> 0.305"
+ },
+ {
+  "ts": "2026-10-19T06:56:14+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-032",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will Gadi Eizenkot be the next Prime Minister of Israel?"
+ },
+ {
+  "ts": "2026-10-19T06:56:14+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-033",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will Édouard Philippe win the 2027 French presidential election?"
+ },
+ {
+  "ts": "2026-10-19T06:56:14+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-034",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will the price of Bitcoin be above $84,000 on October 19?"
  }
 ]
