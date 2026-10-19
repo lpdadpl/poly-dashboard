@@ -694,5 +694,21 @@
   "fase": "aprobado",
   "accion": "sin_novedad",
   "detalle": "Sin encuestas nuevas desde las 04:02; se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T05:52:00+02:00",
+  "agente": "QUANT",
+  "id": "M-20261019-025",
+  "fase": "valorado",
+  "accion": "valoracion",
+  "detalle": "P(Sí)=0,97: spot BTC ~82.410 USD (Coinbase 82.404, índice Deribit 82.429, 05:51 h Madrid), colchón 3,0 % sobre 80.000; DVOL Deribit 38,9 % → σ≈1.45 % en ~12,1 h hasta el cierre (18:00 h Madrid), caída necesaria ≈2.05σ → normal 98.0 %; recorto a 97 % por colas gruesas, base Binance/Coinbase y apertura de Wall Street (15:30 h). Flujo smart a Sí (~59,5k USD) ya en precio. Libro: Sí bid 0,95 / ask 0,96 (5.132 acciones a 0,96). Edge vs ask +1,0 pp, EV +1.04 %. Kelly completo 25 %; con edge tan fino y sensible al modelo uso 1/8 de Kelly → 3.1 % del saldo → 1.5 USD (tope 5 % = 2,5 USD; tope RISK 5 USD). Asimetría mala: gana ~0,04 por acción, pierde 0,96. Si el ask sube a ≥0,97 o BTC baja de ~81.500 antes de ejecutar, edge ≤0 → no apostar. Caduca a las 18:00 h."
+ },
+ {
+  "ts": "2026-10-19T05:53:16+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-027",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: US announces end of Iranian blockade by December 31, 2026?"
  }
 ]
