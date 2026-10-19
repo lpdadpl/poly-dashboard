@@ -654,5 +654,45 @@
   "fase": "aprobado",
   "accion": "sin_senal",
   "detalle": "Esports (CS2): 643 operaciones en 48h, pero casi sin wallets smart (neto smart ≈ +400 USD; leaderboards sin categoría esports). Flujo total ≈ -23.300 USD dominado por wallets no smart en ambos lados. Sin señal."
+ },
+ {
+  "ts": "2026-10-19T05:06:48+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-025",
+  "fase": "confirmado",
+  "accion": "confirmado",
+  "detalle": "Lado Sí (BTC por encima de 80k a las 18:00 h Madrid) | 1) Spot ~82.550 USD a las 05:10 h Madrid: índice Deribit 82.552 (deribit.com API), Coinbase 82.547 (api.coinbase.com), Kraken XBT/USDT 82.642 (api.kraken.com); Binance no accesible desde aquí, normalmente a pocas decenas de USD. 2) Colchón ≈ 3,1 % sobre 80.000; rango 24h Coinbase 80.565-82.717 (mínimo en la vela 20:00 UTC del 18-oct) y rebote sostenido desde entonces. 3) Volatilidad implícita DVOL Deribit ≈ 38,9 % anual → σ ≈ 1,5 % en las ~13 h hasta el cierre: caer por debajo de 80k exige ≈ 2,1σ → P(Sí) aprox. 96-98 % (estimación propia, colas gruesas incluidas a ojo) frente a precio 0,955. 4) Contexto X (resúmenes de noticias X, 18-19 oct): soporte comprador citado en 80-82k (Timmer/Fidelity), dominancia BTC 60,8 % (máximo 14 meses); contrapeso: patrón semanal bajista señalado por Ansem con objetivos 72-75k y debilidad de bolsas/inflación (x.com/i/trending/2111950429038735740, x.com/i/trending/2111691648103268859). Las opiniones de traders en X son ruido y no cuentan como confirmación; el peso lo dan precio y volatilidad. 5) Sin catalizador macro concreto identificado para hoy antes de las 18:00 h (no revisado calendario completo). Fuerza: media-alta a favor de Sí; edge pequeño (+1 a +2,5 pp) y asimetría mala (gana ~0,045, pierde ~0,955). | 2026-10-19T05:06:48+02:00"
+ },
+ {
+  "ts": "2026-10-19T05:06:48+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Sin lado claro (precio entre casas y modelos) | 1) Inicio 11:00 h Madrid (09:00 UTC; hltv.org/matches/2398990 y Gamma startTime), BO3 LAN Belgrado, cuartos de cuadro superior. 2) The MongolZ debuta roster: nin9 fichado y cobrazera de vuelta en lugar de tikuak y DarkMeister (hltv.org/news/45638, 5-oct; x.com/1mongolz/status/2107002854292468137; @TheMongolZFR 18-oct confirma «première de nin9»). HLTV analytics: «core lineup has not played any maps the past 30 days» → incertidumbre alta. 3) Ranking HLTV: MongolZ #21, Alliance #28; forma reciente mala en ambos (MongolZ perdió 5 de sus últimos 6 BO3 con el roster viejo; Alliance 0-2 ante fnatic y Nemiga la semana pasada). 4) Probabilidades: casa GGBet 1,41/2,81 → ~67/33 MongolZ (cs2observer.com/upcoming/2398990); modelo cs2observer 56 % MongolZ; su «map lab» y ensitics.io dan Alliance 2-1; Polymarket Alliance 0,375 / MongolZ 0,625 queda en medio. 5) Ruido descartado: pick'em de aficionados HLTV ~82 % MongolZ y posts de Predesk/fe_crown sobre holders. Fuerza: baja; sin señal que mueva la probabilidad frente al precio. Ojo al plazo: arranca a las 11:00 h. | 2026-10-19T05:06:48+02:00"
+ },
+ {
+  "ts": "2026-10-19T05:06:48+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin noticias nuevas de la Fed desde las 04:02 (Bessent en Meet the Press culpa a la energía de la inflación, sin señal de política monetaria); se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T05:06:48+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin encuestas nuevas desde las 04:02 (AtlasIntel y PoderData siguen esperadas el lun 19); se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T05:06:48+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin encuestas nuevas desde las 04:02; se mantiene la confirmación previa (lado No)."
  }
 ]
