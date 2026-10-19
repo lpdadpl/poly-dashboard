@@ -1086,5 +1086,21 @@
   "fase": "aprobado",
   "accion": "confirmacion_whale",
   "detalle": "Lado No | wallets: 0x06dc5182 (Cripto mes #3, Overall mes #49, compra ~29.700 USD de No a 0,91-0,96; última hace ~1,5 h), easyclap (Cripto histórico #17, compra 7.500 USD de No a 0,91-0,94), 0xb6fef4c2 (Cripto mes #81, ~+4.200 USD netos a No) | acumulado neto smart 48h ≈ 40.700 USD hacia No (24h ≈ 30.100); 3 wallets smart netas a No frente a 0 a Sí; flujo total del mercado ≈ 54.900 USD hacia No | top-50 holders: los 3 holders smart grandes están en No (10.800, 8.300 y 5.100 acciones) y en Sí solo restos (<500 acciones) | coherente con 0x06dc5182 comprando Sí en >80k (M-20261019-025): apuesta a rango 80-84k | ojo: compraron No a 0,91-0,96 y ahora cotiza ~0,86 (el precio va en su contra), y concentrado en una wallet | fuerza: media-alta en dirección, concentrada | 2026-10-19T07:11:01+02:00"
+ },
+ {
+  "ts": "2026-10-19T07:52:20+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-028",
+  "fase": "descartado",
+  "accion": "cambio",
+  "detalle": "cuota Sí 0.845 -> 0.555"
+ },
+ {
+  "ts": "2026-10-19T07:52:20+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-031",
+  "fase": "descartado",
+  "accion": "cambio",
+  "detalle": "cuota Sí 0.525 -> 0.755; volumen 24h 114309.99 -> 193224.66"
  }
 ]
