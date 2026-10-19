@@ -185,8 +185,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 560693.22,
-   "volumen_total_usd": 8645029.83,
+   "volumen_24h_usd": 568597.34,
+   "volumen_total_usd": 8653452.96,
    "precio_si": 0.285,
    "resultados": [
     "Yes",
@@ -196,7 +196,7 @@
     0.285,
     0.715
    ],
-   "liquidez_usd": 518773.37,
+   "liquidez_usd": 510967.12,
    "mejor_bid": 0.28,
    "mejor_ask": 0.29,
    "fecha_resolucion": "2026-10-28T03:59:00Z",
@@ -206,7 +206,7 @@
     "20006732765674855733524007935991362439352594042415161039767275461950712817548",
     "54533569528927082430133047556849600511985191158927477533124630301934489498530"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -361,8 +361,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 303026.84,
-   "volumen_total_usd": 13701208.73,
+   "volumen_24h_usd": 310533.57,
+   "volumen_total_usd": 13709384.48,
    "precio_si": 0.875,
    "resultados": [
     "Yes",
@@ -372,7 +372,7 @@
     0.875,
     0.125
    ],
-   "liquidez_usd": 1110355.25,
+   "liquidez_usd": 1116327.69,
    "mejor_bid": 0.87,
    "mejor_ask": 0.88,
    "fecha_resolucion": "2026-10-29T03:59:00Z",
@@ -382,7 +382,7 @@
     "111061902544814266207267295505639408607400625795891618462682726460921782993748",
     "42038775866198212615491650114881818219665139981763207699110491615333273795415"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -446,8 +446,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 209638.9,
-   "volumen_total_usd": 4051897.75,
+   "volumen_24h_usd": 212740.07,
+   "volumen_total_usd": 4054861.13,
    "precio_si": 0.825,
    "resultados": [
     "Yes",
@@ -457,7 +457,7 @@
     0.825,
     0.175
    ],
-   "liquidez_usd": 437384.15,
+   "liquidez_usd": 457038.28,
    "mejor_bid": 0.82,
    "mejor_ask": 0.83,
    "fecha_resolucion": "2026-10-31T23:59:00Z",
@@ -467,7 +467,7 @@
     "67102598924726349989742049657609063097299442010642912942032681022413402597017",
     "114475889232765203212032217024645308497828327658421967586050553616813506019119"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -525,7 +525,7 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 175222.64,
+   "volumen_24h_usd": 175162.64,
    "volumen_total_usd": 27538806.87,
    "precio_si": 0.045,
    "resultados": [
@@ -536,7 +536,7 @@
     0.045,
     0.955
    ],
-   "liquidez_usd": 562976.03,
+   "liquidez_usd": 553900.91,
    "mejor_bid": 0.04,
    "mejor_ask": 0.05,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
@@ -546,7 +546,7 @@
     "10991849228756847439673778874175365458450913336396982752046655649803657501964",
     "106181075047366745139197108801635573283215248045056329679360376976893016488727"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -610,20 +610,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 158597.78,
-   "volumen_total_usd": 10351271.7,
-   "precio_si": 0.125,
+   "volumen_24h_usd": 163991.95,
+   "volumen_total_usd": 10356641.37,
+   "precio_si": 0.115,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.125,
-    0.875
+    0.115,
+    0.885
    ],
-   "liquidez_usd": 947941.55,
-   "mejor_bid": 0.12,
-   "mejor_ask": 0.13,
+   "liquidez_usd": 949623.16,
+   "mejor_bid": 0.11,
+   "mejor_ask": 0.12,
    "fecha_resolucion": "2026-10-29T03:59:00Z",
    "creado": "2026-06-17T23:05:57.870064Z",
    "condition_id": "0x12aa13b3da17ceae1b0a59b5d5b77121e91bb79b4bb0b52bf6543ed3f8d0953b",
@@ -631,7 +631,7 @@
     "55159722761418013044126414276680602270318000841690689684819994448621694923050",
     "78632395083310670734315205502061249602319069653915932320155846460019107676757"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -689,8 +689,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 163152.27,
-   "volumen_total_usd": 15854793.61,
+   "volumen_24h_usd": 154862.67,
+   "volumen_total_usd": 15855056.73,
    "precio_si": 0.0385,
    "resultados": [
     "Yes",
@@ -700,7 +700,7 @@
     0.0385,
     0.9615
    ],
-   "liquidez_usd": 222054.34,
+   "liquidez_usd": 240575.43,
    "mejor_bid": 0.038,
    "mejor_ask": 0.039,
    "fecha_resolucion": "2028-11-08T04:59:00Z",
@@ -710,7 +710,7 @@
     "12127975650736113116407758794754973741525044713193258995588171654429754588610",
     "95344728193244020854716971584323868633691370479151373416918812532794690491367"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -768,7 +768,7 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 149677.23,
+   "volumen_24h_usd": 149425.16,
    "volumen_total_usd": 34359147.87,
    "precio_si": 0.0205,
    "resultados": [
@@ -779,7 +779,7 @@
     0.0205,
     0.9795
    ],
-   "liquidez_usd": 214131.71,
+   "liquidez_usd": 220321.9,
    "mejor_bid": 0.019,
    "mejor_ask": 0.022,
    "fecha_resolucion": "2028-11-08T04:59:00Z",
@@ -789,7 +789,7 @@
     "52310257194926233099477326083312959938983447523839326865869372741334281264830",
     "88403451835230950222119400360490338078378790763472355557584611572247419676051"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -847,20 +847,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 137627.01,
-   "volumen_total_usd": 2509081.81,
-   "precio_si": 0.865,
+   "volumen_24h_usd": 141053.61,
+   "volumen_total_usd": 2513083.24,
+   "precio_si": 0.875,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.865,
-    0.135
+    0.875,
+    0.125
    ],
-   "liquidez_usd": 102790.51,
-   "mejor_bid": 0.86,
-   "mejor_ask": 0.87,
+   "liquidez_usd": 102218.03,
+   "mejor_bid": 0.87,
+   "mejor_ask": 0.88,
    "fecha_resolucion": "2026-10-31T20:29:00Z",
    "creado": "2026-08-07T14:27:19.254718Z",
    "condition_id": "0xc3d5708780de5528998aeb53ca90e7ade64804f9f2386392a681435d5c42b44d",
@@ -868,7 +868,7 @@
     "36595575197199846398267481972385180643951985822505187477756829088194676076340",
     "34386684966925037477701889915132575610574649191623462027976379158560146275115"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -926,8 +926,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 190528.01,
-   "volumen_total_usd": 344726.66,
+   "volumen_24h_usd": 188796.24,
+   "volumen_total_usd": 347306.51,
    "precio_si": 0.955,
    "resultados": [
     "Yes",
@@ -937,7 +937,7 @@
     0.955,
     0.045
    ],
-   "liquidez_usd": 101741.5,
+   "liquidez_usd": 109047.48,
    "mejor_bid": 0.95,
    "mejor_ask": 0.96,
    "fecha_resolucion": "2026-10-23T03:59:00Z",
@@ -947,7 +947,7 @@
     "11703355753646866721510451780813586747644200170798817311988936815535980370261",
     "65420996630654354480054098878673482065505905636022385586010587347634944011067"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1084,8 +1084,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 127234.77,
-   "volumen_total_usd": 74633104.14,
+   "volumen_24h_usd": 127237.86,
+   "volumen_total_usd": 74633112.26,
    "precio_si": 0.155,
    "resultados": [
     "Yes",
@@ -1095,7 +1095,7 @@
     0.155,
     0.845
    ],
-   "liquidez_usd": 565608.57,
+   "liquidez_usd": 522793.86,
    "mejor_bid": 0.15,
    "mejor_ask": 0.16,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
@@ -1105,7 +1105,7 @@
     "55115078421062885512539156303747803058407616201213034911037320915726138659123",
     "1910830010387565971650098373488592514702818137344973088263643820608151819241"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1260,20 +1260,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 91198.01,
-   "volumen_total_usd": 4507130.87,
-   "precio_si": 0.2705,
+   "volumen_24h_usd": 92880.93,
+   "volumen_total_usd": 4508979.74,
+   "precio_si": 0.2625,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.2705,
-    0.7295
+    0.2625,
+    0.7375
    ],
-   "liquidez_usd": 124144.32,
-   "mejor_bid": 0.27,
-   "mejor_ask": 0.271,
+   "liquidez_usd": 123976.81,
+   "mejor_bid": 0.259,
+   "mejor_ask": 0.266,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
    "creado": "2025-09-22T21:37:42.751118Z",
    "condition_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
@@ -1281,7 +1281,7 @@
     "10466835326554416965099784068156829774726248334728156046559014834812912458273",
     "115364229170068359509280114761107502298430910856477421813089992309112580316620"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -1509,7 +1509,7 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 101518.16,
+   "volumen_24h_usd": 101498.16,
    "volumen_total_usd": 636089.46,
    "precio_si": 0.785,
    "resultados": [
@@ -1520,7 +1520,7 @@
     0.785,
     0.215
    ],
-   "liquidez_usd": 446346.58,
+   "liquidez_usd": 439911.84,
    "mejor_bid": 0.78,
    "mejor_ask": 0.79,
    "fecha_resolucion": "2026-11-04T04:59:00Z",
@@ -1530,7 +1530,7 @@
     "59838288288458809448405089801806485870309105325255232123458269975283939712397",
     "26083146751610036454524904850508210754946650859133877372205070732610792631731"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1588,8 +1588,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 83097.04,
-   "volumen_total_usd": 3938325.13,
+   "volumen_24h_usd": 83024.55,
+   "volumen_total_usd": 3938844.15,
    "precio_si": 0.115,
    "resultados": [
     "Yes",
@@ -1599,7 +1599,7 @@
     0.115,
     0.885
    ],
-   "liquidez_usd": 143786.77,
+   "liquidez_usd": 145434.65,
    "mejor_bid": 0.11,
    "mejor_ask": 0.12,
    "fecha_resolucion": "2026-10-28T03:59:00Z",
@@ -1609,7 +1609,7 @@
     "58945936829392654397399777214757608864525173988558750256164021442231118224154",
     "39409206330527880169507414405291721950884951005340760541937649898052386499519"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1673,20 +1673,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 92931.57,
-   "volumen_total_usd": 143906.81,
-   "precio_si": 0.34,
+   "volumen_24h_usd": 91410.68,
+   "volumen_total_usd": 145179.78,
+   "precio_si": 0.35,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.34,
-    0.66
+    0.35,
+    0.65
    ],
-   "liquidez_usd": 10157.71,
-   "mejor_bid": 0.33,
-   "mejor_ask": 0.35,
+   "liquidez_usd": 12274.17,
+   "mejor_bid": 0.34,
+   "mejor_ask": 0.36,
    "fecha_resolucion": "2026-10-23T03:59:00Z",
    "creado": "2026-10-15T14:34:00.05348Z",
    "condition_id": "0x15114829ad5587c8a328c574a12a4bb7322901dcc2d3a7f546cbfd4f3cc14d10",
@@ -1694,7 +1694,7 @@
     "279555940503380468806732370252629134226625839865194353664212113344772938493",
     "74591572110746212338597092259420893380525117595259102762431407006828981117223"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1758,8 +1758,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 80867.76,
-   "volumen_total_usd": 759154.55,
+   "volumen_24h_usd": 80209.0,
+   "volumen_total_usd": 759184.13,
    "precio_si": 0.0705,
    "resultados": [
     "Yes",
@@ -1769,7 +1769,7 @@
     0.0705,
     0.9295
    ],
-   "liquidez_usd": 125162.8,
+   "liquidez_usd": 127891.26,
    "mejor_bid": 0.07,
    "mejor_ask": 0.071,
    "fecha_resolucion": "2026-10-26T03:59:00Z",
@@ -1779,7 +1779,7 @@
     "12485788408727529638134750003375992749043111362325505974011285261967424776635",
     "26668869374105423241063822023238370156273552047413316823375341979641160307361"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -2125,8 +2125,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 185362.1,
-   "volumen_total_usd": 155299.48,
+   "volumen_24h_usd": 211974.45,
+   "volumen_total_usd": 211635.71,
    "precio_si": 0.395,
    "resultados": [
     "Alliance",
@@ -2136,7 +2136,7 @@
     0.395,
     0.605
    ],
-   "liquidez_usd": 127682.78,
+   "liquidez_usd": 166757.93,
    "mejor_bid": 0.39,
    "mejor_ask": 0.4,
    "fecha_resolucion": "2026-10-19T15:00:00Z",
@@ -2146,7 +2146,7 @@
     "34669868302267324066826906175063080787319055602116880255679806210854770498795",
     "70816108370301861337296052890955824314897871591797048263115728006294115763459"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -2204,20 +2204,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 103130.91,
-   "volumen_total_usd": 3619615.25,
-   "precio_si": 0.3755,
+   "volumen_24h_usd": 137903.01,
+   "volumen_total_usd": 3657602.85,
+   "precio_si": 0.3835,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.3755,
-    0.6245
+    0.3835,
+    0.6165
    ],
-   "liquidez_usd": 158822.19,
-   "mejor_bid": 0.368,
-   "mejor_ask": 0.383,
+   "liquidez_usd": 161668.27,
+   "mejor_bid": 0.381,
+   "mejor_ask": 0.386,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
    "creado": "2026-07-27T17:51:00.80686Z",
    "condition_id": "0x46ca741da4abd7ffa993f59ac65bfe83de43ae027accac71d263a493e44064e7",
@@ -2225,7 +2225,7 @@
     "86011229287950365043519117852041614651767455889324682112682327985496937935368",
     "39147524522707536456910747992621671433032838141439193264830818731544404472030"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -2286,23 +2286,29 @@
     "agente": "SCOUT",
     "ts": "2026-10-19T07:52:20+02:00",
     "nota": "cuota Sí 0.845 -> 0.555"
+   },
+   {
+    "fase": "descartado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T08:56:20+02:00",
+    "nota": "cuota Sí 0.555 -> 0.045; volumen 24h 303134.26 -> 794899.18"
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 303134.26,
-   "volumen_total_usd": 275995.37,
-   "precio_si": 0.555,
+   "volumen_24h_usd": 794899.18,
+   "volumen_total_usd": 762319.33,
+   "precio_si": 0.045,
    "resultados": [
     "Elise Mertens",
     "Leylah Fernandez"
    ],
    "precios": [
-    0.555,
-    0.445
+    0.045,
+    0.955
    ],
-   "liquidez_usd": 228497.73,
-   "mejor_bid": 0.55,
-   "mejor_ask": 0.56,
+   "liquidez_usd": 290160.02,
+   "mejor_bid": 0.04,
+   "mejor_ask": 0.05,
    "fecha_resolucion": "2026-10-26T02:00:00Z",
    "creado": "2026-10-17T22:14:09.71685Z",
    "condition_id": "0xb188e013be53f0c1f709ba85bc9a87727d4c676f493a922aed392d7454aee524",
@@ -2310,7 +2316,7 @@
     "78469645615277081571285871713045665070322019382812401675630398676499034111729",
     "36228410005709180607878816037420297120525993697566271100427688314060118916578"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -2374,8 +2380,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 167485.16,
-   "volumen_total_usd": 287391.97,
+   "volumen_24h_usd": 172314.85,
+   "volumen_total_usd": 291400.31,
    "precio_si": 0.595,
    "resultados": [
     "PARIVISION",
@@ -2385,7 +2391,7 @@
     0.595,
     0.405
    ],
-   "liquidez_usd": 161231.71,
+   "liquidez_usd": 110359.24,
    "mejor_bid": 0.59,
    "mejor_ask": 0.6,
    "fecha_resolucion": "2026-10-20T00:00:00Z",
@@ -2395,7 +2401,7 @@
     "96313114184130478138834361195841373942119717789029053006474342650599634966674",
     "84774314384341204330660186576908035312832715962061681261356475063719015972456"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -2617,20 +2623,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 89107.01,
-   "volumen_total_usd": 3295583.34,
-   "precio_si": 0.4755,
+   "volumen_24h_usd": 104469.08,
+   "volumen_total_usd": 3330332.27,
+   "precio_si": 0.477,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.4755,
-    0.5245
+    0.477,
+    0.523
    ],
-   "liquidez_usd": 283360.15,
-   "mejor_bid": 0.475,
-   "mejor_ask": 0.476,
+   "liquidez_usd": 280908.02,
+   "mejor_bid": 0.476,
+   "mejor_ask": 0.478,
    "fecha_resolucion": "2026-10-28T03:59:00Z",
    "creado": "2025-11-14T18:50:44.437487Z",
    "condition_id": "0xdbe93b5a701f36076a560fa4b9ba59e365a6e8e2ea6a83764640010657277ca4",
@@ -2638,7 +2644,7 @@
     "52487256270918227930942830546248720603566203568229607048093730748840489555808",
     "1507744758511144558263623459899956467548763419522526462308518027912401299177"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -2696,8 +2702,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 81384.23,
-   "volumen_total_usd": 2366430.44,
+   "volumen_24h_usd": 82384.23,
+   "volumen_total_usd": 2367430.44,
    "precio_si": 0.195,
    "resultados": [
     "Yes",
@@ -2707,7 +2713,7 @@
     0.195,
     0.805
    ],
-   "liquidez_usd": 380153.56,
+   "liquidez_usd": 374306.01,
    "mejor_bid": 0.19,
    "mejor_ask": 0.2,
    "fecha_resolucion": "2027-04-19T03:59:00Z",
@@ -2717,7 +2723,7 @@
     "84846382165343032223975853870946110241285484772019446686866815597350660955868",
     "80456575204440643570499123641511043765364487572502085512858581574010154701650"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -2759,7 +2765,7 @@
   "slug_evento": "bitcoin-above-on-october-19-2026",
   "url": "https://polymarket.com/event/bitcoin-above-on-october-19-2026",
   "pregunta": "Will the price of Bitcoin be above $84,000 on October 19?",
-  "fase": "aprobado",
+  "fase": "valorado",
   "historial": [
    {
     "fase": "escaneado",
@@ -2784,23 +2790,29 @@
     "agente": "NEWS",
     "ts": "2026-10-19T08:11:11+02:00",
     "nota": "confirmacion_news"
+   },
+   {
+    "fase": "valorado",
+    "agente": "QUANT",
+    "ts": "2026-10-19T08:55:00+02:00",
+    "nota": "P(Sí)=0.10; mejor lado Sí edge +0.004 (EV +4 %, ruido); tamaño 0.0 USD (no apostar)"
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 81806.1,
-   "volumen_total_usd": 119201.59,
-   "precio_si": 0.1125,
+   "volumen_24h_usd": 85019.48,
+   "volumen_total_usd": 122795.71,
+   "precio_si": 0.0935,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.1125,
-    0.8875
+    0.0935,
+    0.9065
    ],
-   "liquidez_usd": 40327.91,
-   "mejor_bid": 0.112,
-   "mejor_ask": 0.113,
+   "liquidez_usd": 40950.33,
+   "mejor_bid": 0.091,
+   "mejor_ask": 0.096,
    "fecha_resolucion": "2026-10-19T16:00:00Z",
    "creado": "2026-10-12T16:00:05.431331Z",
    "condition_id": "0x88aeab3adb4e316a51430a38d2f8deff32a139bf36fc1df30cf38dbd49bcab79",
@@ -2808,7 +2820,7 @@
     "95214012069254653011555660464431767766449026442141178814643064553256459416003",
     "36159000640445702717771714730038269456398499661961834305305165076729904068944"
    ],
-   "ts": "2026-10-19T07:52:20+02:00"
+   "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -2819,6 +2831,230 @@
   "confirmacion": {
    "whale": "Lado No | wallets: 0x06dc5182 (Cripto mes #3, Overall mes #49, compra ~29.700 USD de No a 0,91-0,96; última hace ~1,5 h), easyclap (Cripto histórico #17, compra 7.500 USD de No a 0,91-0,94), 0xb6fef4c2 (Cripto mes #81, ~+4.200 USD netos a No) | acumulado neto smart 48h ≈ 40.700 USD hacia No (24h ≈ 30.100); 3 wallets smart netas a No frente a 0 a Sí; flujo total del mercado ≈ 54.900 USD hacia No | top-50 holders: los 3 holders smart grandes están en No (10.800, 8.300 y 5.100 acciones) y en Sí solo restos (<500 acciones) | coherente con 0x06dc5182 comprando Sí en >80k (M-20261019-025): apuesta a rango 80-84k | ojo: compraron No a 0,91-0,96 y ahora cotiza ~0,86 (el precio va en su contra), y concentrado en una wallet | fuerza: media-alta en dirección, concentrada | 2026-10-19T07:11:01+02:00",
    "news": "Lado No (BTC no supera 84k) sin edge | 1) Resuelve con el cierre de la vela 1m Binance BTC/USDT a las 12:00 ET (18:00 h Madrid). 2) Spot a las 08:10 h Madrid: Coinbase 82.686, Kraken 82.701, índice Deribit 82.691, Binance.US 82.785 USD (APIs públicas); necesita subir ~+1,6 % en ~9,8 h. Rango de 24 h ~80.560-82.780 (Kraken), máximo de la sesión ~82.780. 3) Volatilidad implícita DVOL de Deribit ~38,8 % anual → modelo lognormal ≈ 11 % (9-15 % con vol de 35-45 %); Polymarket 0,1045 coherente. 4) Noticias: X/Trending resume estabilización en 81-82k tras la caída desde 87k (x.com/i/trending/2111691648103268859); futuros de EE. UU. al alza al inicio de semana (S&P +0,5 %, Nasdaq +1 %; x.com/i/trending/2111712966529695801), sesgo de apetito por riesgo leve; Saylor insinúa nuevas compras de Strategy pero sin compra confirmada (x.com/i/trending/2111804794600091828). No he encontrado catalizador programado hoy que justifique +1,6 %. 5) Ruido descartado: avisos de «Black Monday» por aniversario y objetivos de precio de analistas en X. Fuerza: media a favor de No por distancia al strike; sin señal que mueva la probabilidad frente al precio. | 2026-10-19T08:11:11+02:00"
+  },
+  "valoracion": {
+   "prob_estimada": 0.1,
+   "edge": 0.004,
+   "lado": "ninguno",
+   "tamano_usd": 0.0,
+   "ev_pct": 4.2,
+   "precio_referencia": 0.096,
+   "kelly_completo": 0.004,
+   "kelly_fraccion": 0.25,
+   "prob_modelo_normal": 0.104,
+   "recomendacion": "no apostar",
+   "ts": "2026-10-19T08:55:00+02:00",
+   "nota": "P(Sí)=0,10: spot BTC ~82.700 USD (Coinbase 82.692, Kraken 82.703, índice Deribit 82.702, 08:53 h Madrid); necesita +1,57 % hasta 84.000 al cierre de la vela 1m Binance de las 18:00 h Madrid (~9,1 h). DVOL Deribit 38,7 % → σ≈1,25 % → lognormal 10,4 %; colas gruesas y apertura de Wall Street empujan arriba, flujo smart a No (~40,7k USD, concentrado en 0x06dc5182) y NEWS sin catalizador empujan abajo → 0,10. Libro Sí bid 0,092 / ask 0,096 (solo 5 acciones a 0,096, 73 a 0,097, 1.248 a 0,098). Edge vs ask: Sí 0,096 → +0,4 pp (EV +4 %, dentro del ruido del modelo y del diferencial; a 0,098 el edge es +0,2 pp); No 0,908 → -0,8 pp (EV -0,9 %). Kelly completo Sí ≈0,4 %; 1/4 Kelly ≈0,1 % del saldo (≈0,05 USD) → NO APOSTAR (tamaño 0). Además sería exposición alcista correlacionada con M-20261019-025 (Sí >80k, 1,5 USD propuestos). Reevaluar solo si el ask de Sí baja a ≤0,085 con BTC ≥82,7k o si BTC supera ~83,4k sin que el precio se mueva. Caduca a las 18:00 h."
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-035",
+  "slug": "trump-out-as-president-before-2027",
+  "slug_evento": "trump-out-as-president-before-2027",
+  "url": "https://polymarket.com/event/trump-out-as-president-before-2027",
+  "pregunta": "Trump out as President before 2027?",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T08:56:20+02:00",
+    "nota": "origen: top_volumen"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 83984.39,
+   "volumen_total_usd": 12763557.99,
+   "precio_si": 0.0395,
+   "resultados": [
+    "Yes",
+    "No"
+   ],
+   "precios": [
+    0.0395,
+    0.9605
+   ],
+   "liquidez_usd": 349800.41,
+   "mejor_bid": 0.039,
+   "mejor_ask": 0.04,
+   "fecha_resolucion": "2027-01-01T04:59:00Z",
+   "creado": "2025-11-05T19:22:29.464133Z",
+   "condition_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
+   "clob_token_ids": [
+    "59252515735652674747158950210016502214756531287333895140318848923768750410355",
+    "2849827372590072151380088930233312280478318575453624773762283369907909283027"
+   ],
+   "ts": "2026-10-19T08:56:20+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-036",
+  "slug": "will-harry-kane-win-the-2026-ballon-dor",
+  "slug_evento": "ballon-dor-winner-2026",
+  "url": "https://polymarket.com/event/ballon-dor-winner-2026",
+  "pregunta": "Will Harry Kane win the 2026 Ballon d'Or?",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T08:56:20+02:00",
+    "nota": "origen: top_volumen"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 81648.4,
+   "volumen_total_usd": 6022117.24,
+   "precio_si": 0.6695,
+   "resultados": [
+    "Yes",
+    "No"
+   ],
+   "precios": [
+    0.6695,
+    0.3305
+   ],
+   "liquidez_usd": 109468.46,
+   "mejor_bid": 0.668,
+   "mejor_ask": 0.671,
+   "fecha_resolucion": "2027-01-01T04:59:00Z",
+   "creado": "2025-09-22T21:37:43.713711Z",
+   "condition_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+   "clob_token_ids": [
+    "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+    "77740376296468109233042620775325425521895874827413068707200627224591548200577"
+   ],
+   "ts": "2026-10-19T08:56:20+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-037",
+  "slug": "will-lionel-messi-win-the-2026-ballon-dor",
+  "slug_evento": "ballon-dor-winner-2026",
+  "url": "https://polymarket.com/event/ballon-dor-winner-2026",
+  "pregunta": "Will Lionel Messi win the 2026 Ballon d'Or?",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T08:56:20+02:00",
+    "nota": "origen: top_volumen"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 79696.58,
+   "volumen_total_usd": 5038574.42,
+   "precio_si": 0.0305,
+   "resultados": [
+    "Yes",
+    "No"
+   ],
+   "precios": [
+    0.0305,
+    0.9695
+   ],
+   "liquidez_usd": 211411.58,
+   "mejor_bid": 0.029,
+   "mejor_ask": 0.032,
+   "fecha_resolucion": "2027-01-01T04:59:00Z",
+   "creado": "2025-09-22T21:37:53.601701Z",
+   "condition_id": "0x7034c00a24f9edbf325fd5a0b9a63412e469fc8cd2aa9b060fb5ba8e10d7ebef",
+   "clob_token_ids": [
+    "14940935985254400645996902276818598247231942791302218826999289776538227075176",
+    "107516035603650985174253368241692944789056496652916551006453839235487841190002"
+   ],
+   "ts": "2026-10-19T08:56:20+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
   },
   "valoracion": {
    "prob_estimada": 0,

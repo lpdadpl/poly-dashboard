@@ -1246,5 +1246,45 @@
   "fase": "valorado",
   "accion": "sin_novedad",
   "detalle": "Seguimiento: BTC ~82.690 USD a las 08:10 h Madrid (Coinbase 82.686, índice Deribit 82.691, Kraken 82.701), +230 USD desde las 07:06; colchón ~3,4 % sobre 80k; modelo con DVOL 38,8 % ≈ 99 % frente a precio 0,9745. Sin catalizador nuevo. Se mantiene lado Sí."
+ },
+ {
+  "ts": "2026-10-19T08:55:00+02:00",
+  "agente": "QUANT",
+  "id": "M-20261019-034",
+  "fase": "valorado",
+  "accion": "valoracion",
+  "detalle": "P(Sí)=0,10 (lognormal 10,4 %, DVOL 38,7 %, BTC ~82.700, strike 84.000, ~9,1 h). Sí ask 0,096 → edge +0,4 pp; No ask 0,908 → -0,8 pp. 1/4 Kelly ≈0 → no apostar, tamaño 0 USD."
+ },
+ {
+  "ts": "2026-10-19T08:56:20+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-028",
+  "fase": "descartado",
+  "accion": "cambio",
+  "detalle": "cuota Sí 0.555 -> 0.045; volumen 24h 303134.26 -> 794899.18"
+ },
+ {
+  "ts": "2026-10-19T08:56:20+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-035",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Trump out as President before 2027?"
+ },
+ {
+  "ts": "2026-10-19T08:56:20+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-036",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will Harry Kane win the 2026 Ballon d'Or?"
+ },
+ {
+  "ts": "2026-10-19T08:56:20+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-037",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will Lionel Messi win the 2026 Ballon d'Or?"
  }
 ]
