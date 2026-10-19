@@ -2365,6 +2365,12 @@
     "agente": "RISK",
     "ts": "2026-10-19T07:08:25+02:00",
     "nota": "APROBADO: Reglas claras (gana el BO3 PARIVISION o magic; cancelación o empate 50-50; aplazamiento válido hasta 2-nov; walkover antes de empezar 50-50), oráculo HLTV (hltv.org) con respaldo de prensa creíble, inicio 20:00 h (Madrid) de hoy 19-oct y cierre hacia las 02:00 h (~13 h hasta el inicio: embudo viable), riesgo de disputa bajo. libro CLOB PARIVISION bid 0.59/ask 0.6, diferencial 1.0c, prof ±2c 24271/88478 USD, liquidez ~99k USD. Ojo: torneo de segundo nivel (1win Private Club #2); si no hay APPROVE antes de las 20:00 h, descartar por partido en juego."
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T08:11:11+02:00",
+    "nota": "confirmacion_news"
    }
   ],
   "escaneo": {
@@ -2399,7 +2405,7 @@
   },
   "confirmacion": {
    "whale": "",
-   "news": ""
+   "news": "Sin lado claro (ligero sesgo PARIVISION, ya en precio) | 1) Inicio 20:00 h Madrid (18:00 UTC), BO3 LAN, cuartos de cuadro superior (hltv.org/matches/2398992). 2) Ambos con cambios de plantilla: magic fichó a lattykk para sustituir al AWP mo0N y hoy es su debut (hltv.org/news/45654, 6-oct; x.com/HLTVorg/status/2107535212892611020); PARIVISION juega con HObbit en lugar de slaxejezzz (x.com/run_news/status/2107823917771497513). 3) Por eso el H2H (magic 2-0, 10-sep, FISSURE Playground 3) y el modelo de cs2observer.com/upcoming/2398992 (magic 56 %, «map lab» magic 2-1) se basan en alineaciones anteriores de los dos equipos: valor bajo. 4) Ranking HLTV: PARIVISION #11, magic #24 (VRS #16 frente a #30). Forma de PARIVISION con HObbit: ganó a NaVi, G2 y Legacy, perdió con Vitality, Legacy, BetBoom, FURIA y Spirit (rivales de primer nivel); magic viene de 0-2 y 1-2 ante GamerLegion y NIP. 5) Probabilidades: casa GGBet 1,53/2,43 → ~61/39 PARIVISION (cs2observer); modelo cselo.net 56 % PARIVISION; Kalshi ~60 %; Polymarket 0,595 coherente. 6) Contexto: los dos pelean plaza para la Major (HLTV; x.com/JesperLarsen222/status/2111588880768016539 dice que PARIVISION se retiró de otro torneo y solo le queda este), motivación alta en ambos. 7) Ruido descartado: el 45,8/54,2 de la página de HLTV es voto de usuarios, y posts de picks. Fuerza: baja; nada mueve la probabilidad frente al precio. Ojo al debut de lattykk (riesgo en los dos sentidos). | 2026-10-19T08:11:11+02:00"
   },
   "valoracion": {
    "prob_estimada": 0,
@@ -2772,6 +2778,12 @@
     "agente": "WHALE",
     "ts": "2026-10-19T07:11:01+02:00",
     "nota": "confirmación ballenas lado No"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T08:11:11+02:00",
+    "nota": "confirmacion_news"
    }
   ],
   "escaneo": {
@@ -2806,7 +2818,7 @@
   },
   "confirmacion": {
    "whale": "Lado No | wallets: 0x06dc5182 (Cripto mes #3, Overall mes #49, compra ~29.700 USD de No a 0,91-0,96; última hace ~1,5 h), easyclap (Cripto histórico #17, compra 7.500 USD de No a 0,91-0,94), 0xb6fef4c2 (Cripto mes #81, ~+4.200 USD netos a No) | acumulado neto smart 48h ≈ 40.700 USD hacia No (24h ≈ 30.100); 3 wallets smart netas a No frente a 0 a Sí; flujo total del mercado ≈ 54.900 USD hacia No | top-50 holders: los 3 holders smart grandes están en No (10.800, 8.300 y 5.100 acciones) y en Sí solo restos (<500 acciones) | coherente con 0x06dc5182 comprando Sí en >80k (M-20261019-025): apuesta a rango 80-84k | ojo: compraron No a 0,91-0,96 y ahora cotiza ~0,86 (el precio va en su contra), y concentrado en una wallet | fuerza: media-alta en dirección, concentrada | 2026-10-19T07:11:01+02:00",
-   "news": ""
+   "news": "Lado No (BTC no supera 84k) sin edge | 1) Resuelve con el cierre de la vela 1m Binance BTC/USDT a las 12:00 ET (18:00 h Madrid). 2) Spot a las 08:10 h Madrid: Coinbase 82.686, Kraken 82.701, índice Deribit 82.691, Binance.US 82.785 USD (APIs públicas); necesita subir ~+1,6 % en ~9,8 h. Rango de 24 h ~80.560-82.780 (Kraken), máximo de la sesión ~82.780. 3) Volatilidad implícita DVOL de Deribit ~38,8 % anual → modelo lognormal ≈ 11 % (9-15 % con vol de 35-45 %); Polymarket 0,1045 coherente. 4) Noticias: X/Trending resume estabilización en 81-82k tras la caída desde 87k (x.com/i/trending/2111691648103268859); futuros de EE. UU. al alza al inicio de semana (S&P +0,5 %, Nasdaq +1 %; x.com/i/trending/2111712966529695801), sesgo de apetito por riesgo leve; Saylor insinúa nuevas compras de Strategy pero sin compra confirmada (x.com/i/trending/2111804794600091828). No he encontrado catalizador programado hoy que justifique +1,6 %. 5) Ruido descartado: avisos de «Black Monday» por aniversario y objetivos de precio de analistas en X. Fuerza: media a favor de No por distancia al strike; sin señal que mueva la probabilidad frente al precio. | 2026-10-19T08:11:11+02:00"
   },
   "valoracion": {
    "prob_estimada": 0,

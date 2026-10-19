@@ -1102,5 +1102,149 @@
   "fase": "descartado",
   "accion": "cambio",
   "detalle": "cuota Sí 0.525 -> 0.755; volumen 24h 114309.99 -> 193224.66"
+ },
+ {
+  "ts": "2026-10-19T08:05:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Flujo smart 48h sigue mixto (neto ≈ -11.000 USD hacia No; 2 wallets smart netas a Sí frente a 4 a No; timetowander -69.400 USD y HH168 -30.900 hacia No frente a una wallet Econ mes #5 que deshace ~83.600 USD de No). Holders smart grandes en Sí (Erasmus. 1,17M, jsmythyson, MysticFind). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T08:05:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -42.300 USD hacia No, pero ~34.700 son de una sola wallet (classified, Política histórico #33). Neto smart 24h solo ≈ -2.400 USD; holders smart grandes en Sí (flawfence 50k, balthazar 45,5k). Señal mixta, sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T08:05:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -15.000 USD hacia No (24h ≈ -10.800; 15 wallets smart pequeñas a No, máx. ~3,8k) pero el mayor holder smart sigue en Sí (0x740159, Política mes #39, ~167,5k acciones, +5.200 USD). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T08:05:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Solo 53 operaciones en 48h. nigiri99 ≈ +1.600 USD Over y HomeRunHazard (Overall mes #6) ≈ +1.400 Over. Neto smart ≈ +3.000 USD, importe pequeño. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T08:05:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Solo 3 operaciones en 48h y ningún holder smart. Sin señal."
+ },
+ {
+  "ts": "2026-10-19T08:05:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Esports (CS2): novedad, Mooseborzoiii (Overall mes #13) compra ~11.700 USD de Alliance hace ~0,6 h y tiene 30k acciones; resto de smart casi nulo. Una sola wallet y contra el flujo total (≈ -47.800 USD hacia TheMongolz, wallets no smart). Sin acumulación clara; vigilar antes de las 11:00 h."
+ },
+ {
+  "ts": "2026-10-19T08:05:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-029",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Esports (CS2): neto smart ≈ +7.800 USD hacia PARIVISION, pero es una sola wallet (0x446884, Overall mes #79, 12.000 USD) frente a nigiri99 (3.900 USD a magic). Holders smart repartidos (yabanci 26k y 0x446884 20k en PARIVISION; nigiri99 10k en magic). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-029",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Sin lado claro (ligero sesgo PARIVISION ya en precio 0,595; casas ~61 %). Debut de lattykk en magic y HObbit en PARIVISION: H2H y modelos basados en alineaciones viejas. Fuerza baja."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-034",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Lado No sin edge: BTC ~82.700 USD a las 08:10 h, necesita +1,6 % antes de las 18:00 h; DVOL ~38,8 % → ~11 %, precio 0,1045 coherente. Sin catalizador programado encontrado."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades de alineaciones (MongolZ debuta con nin9; inicio 11:00 h Madrid). En X solo una compra de 11.700 USD en Alliance a 0,39 de una wallet nueva (flujo, terreno de WHALE; no es noticia). Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin encuestas nuevas de 2.ª vuelta desde las 07:06 (AtlasIntel y PoderData siguen pendientes; en X solo clips del debate Band). Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin encuestas nuevas; se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades del Juego 6 (Peralta frente a bullpen game de Cleveland, ya conocido; en X solo picks). Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades del Juego 6; se mantiene la nota previa (Guardians +1.5, sin edge)."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin datos nuevos de la Fed; solo declaraciones de Bessent (Meet the Press) atribuyendo el IPC de 3,7 % al shock energético, ya conocido. Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-005",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: sin novedades de la Fed. Se mantiene lado Sí."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-016",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: sin novedades (en X solo encuestas de aficionados). Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T08:11:11+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-025",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: BTC ~82.690 USD a las 08:10 h Madrid (Coinbase 82.686, índice Deribit 82.691, Kraken 82.701), +230 USD desde las 07:06; colchón ~3,4 % sobre 80k; modelo con DVOL 38,8 % ≈ 99 % frente a precio 0,9745. Sin catalizador nuevo. Se mantiene lado Sí."
  }
 ]
