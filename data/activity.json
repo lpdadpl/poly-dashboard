@@ -1678,5 +1678,77 @@
   "fase": "aprobado",
   "accion": "sin_senal",
   "detalle": "Neto smart ≈ +38.500 USD hacia Sí (Monza), pero es una sola wallet (rabbitfoot1, Deportes mes #82, +43.500 USD hace ~1 h, ~109.000 acciones); el resto de smart va neto a No (0x2c3350 -3.500, Cannae -2.100, hi774c -1.300) salvo UpTheBlues (+1.700). Flujo total del mercado ≈ -25.400 USD hacia No. Una sola wallet. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T10:48:06+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-043",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Ningbo Open: Daria Kasatkina vs Aliaksandra Sasnovich"
+ },
+ {
+  "ts": "2026-10-19T10:48:06+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-044",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Almaty Open: Thiago Agustin Tirante vs Facundo Acosta"
+ },
+ {
+  "ts": "2026-10-19T10:48:06+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-045",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will the Republican Party control the House after the 2026 Midterm elections?"
+ },
+ {
+  "ts": "2026-10-19T10:48:06+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-021",
+  "fase": "descartado",
+  "accion": "cambio",
+  "detalle": "cuota Sí 0.395 -> 0.33"
+ },
+ {
+  "ts": "2026-10-19T10:56:00+02:00",
+  "agente": "QUANT",
+  "id": "M-20261019-035",
+  "fase": "valorado",
+  "accion": "valoracion",
+  "detalle": "P(Sí)=0,02 (destitución inviable en plazo; riesgo actuarial ≈1,1 % + dimisión/incapacidad). No ask 0,961 → edge +1,9 pp, EV +1,98 %. Kelly completo ≈49 %; 1/12 Kelly por sensibilidad al modelo y capital bloqueado hasta el 31-dic → 2.0 USD (tope 5 % = 2,5 USD). Máx. entrada 0,965."
+ },
+ {
+  "ts": "2026-10-19T10:56:00+02:00",
+  "agente": "QUANT",
+  "id": "M-20261019-037",
+  "fase": "valorado",
+  "accion": "valoracion",
+  "detalle": "P(Sí)=0,025 (casas ≈3,8 % con sesgo longshot, smart a No). Sí ask 0,029 → -0,4 pp; No ask 0,972 → +0,3 pp, EV +0,3 % (ruido). No apostar, tamaño 0 USD."
+ },
+ {
+  "ts": "2026-10-19T11:01:17+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-043",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Partido ya en juego (inicio 10:15 h Madrid, Ningbo Open); el precio se mueve en vivo (escaneo 0,365 frente a 0,215 y CLOB Kasatkina bid 0.16/ask 0.17 menos de una hora después) y el embudo WHALE/NEWS/QUANT/APPROVE no llega antes del final; mismo criterio que M-20261019-038. Reglas claras (WTA, retirada = avanza el rival, walkover 50-50) y libro profundo (prof ±2c 17446/20178 USD), pero no apto para la mesa."
+ },
+ {
+  "ts": "2026-10-19T11:01:17+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-044",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Partido ya en juego desde las 08:35 h (Madrid, Almaty Open) y prácticamente decidido: libro CLOB Tirante sin ningún bid y asks a 0,001; no hay mercado operable y el embudo no llega a tiempo. Reglas claras (ATP, retirada = avanza el rival, walkover 50-50)."
+ },
+ {
+  "ts": "2026-10-19T11:01:17+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-045",
+  "fase": "aprobado",
+  "accion": "veredicto_riesgo",
+  "detalle": "APROBADO: tamano_max=5 | APROBADO: Reglas claras (control = mayoría de escaños con voto; si no hay mayoría, partido del primer Speaker elegido; escaños atribuidos al partido con que se eligió al miembro; segundas vueltas cuentan), fuentes oficiales (autoridades electorales estatales, Congreso de EE. UU.) con consenso de prensa, elecciones el 3-nov y cierre previsto 4-nov-2026, riesgo de disputa bajo. libro CLOB Sí bid 0.09/ask 0.10, diferencial 1,0c, prof ±2c 288853/218874 USD (No 1829780/3463455 USD), liquidez ~2,72 M USD. Ojo: mercado negRisk; si el resultado queda muy ajustado o hay independientes sin caucus definido, la resolución puede retrasarse hasta el 4-ene-2027 (capital bloqueado)."
  }
 ]
