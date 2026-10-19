@@ -1286,5 +1286,165 @@
   "fase": "escaneado",
   "accion": "registro",
   "detalle": "top_volumen: Will Lionel Messi win the 2026 Ballon d'Or?"
+ },
+ {
+  "ts": "2026-10-19T09:04:38+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Flujo smart 48h mixto: neto ≈ +54.200 USD hacia Sí, pero casi todo es una wallet (Econ mes #5) deshaciendo ~83.600 USD de No hace ~8 h; HH168 (Econ histórico #12) -30.900 hacia No y arjennnnn -4.600 a No. Holders smart grandes en Sí (Erasmus. 1,17M, jsmythyson, MysticFind) frente a 15 pequeños en No. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T09:04:38+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -42.200 USD hacia No, pero ~34.600 son de classified (Política histórico #33); neto 24h solo ≈ -3.900. Holders smart grandes en Sí (flawfence 50k, balthazar 45,5k). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T09:04:38+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -15.000 USD hacia No (24h ≈ -10.900; wallets pequeñas, máx. ~3,8k) frente al mayor holder smart en Sí (0x740159, ~167,5k acciones, +5.200 USD). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T09:04:38+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "55 operaciones en 48h; nigiri99 +1.600 y HomeRunHazard +1.400 USD a Over. Importe pequeño. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T09:04:38+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "7 operaciones en 48h y ningún holder smart. Sin señal."
+ },
+ {
+  "ts": "2026-10-19T09:04:38+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Solo Mooseborzoiii (Overall mes #13, +11.700 USD a Alliance, 30k acciones); resto de smart casi nulo y flujo total ≈ -50.200 USD hacia TheMongolz (no smart). Una sola wallet. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T09:04:38+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-029",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart ≈ +9.300 USD hacia PARIVISION, pero es una sola wallet (0x446884, Overall mes #79, +13.500 USD, última hace ~0,2 h) frente a nigiri99 (-3.900 a magic). Holders smart repartidos (yabanci 26k y 0x446884 22,5k en PARIVISION; nigiri99 10k en magic). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T09:07:20+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-035",
+  "fase": "aprobado",
+  "accion": "veredicto_riesgo",
+  "detalle": "APROBADO: tamano_max=5 | APROBADO: Reglas claras y objetivas (Sí si Trump dimite, es destituido o deja de ser presidente de forma permanente antes del 31-dic-2026 23:59 ET; el anuncio de dimisión/destitución basta; 25.ª Enmienda temporal o impeachment sin destitución no cuentan; Sección 4 sostenida por ambas Cámaras sí cuenta), fuente consenso de prensa creíble pero hecho inequívoco: riesgo de disputa bajo. libro CLOB Sí bid 0.039/ask 0.04, diferencial 0,1c, prof ±2c 9290/3924 USD, liquidez ~344k USD. Ojo: horizonte largo (capital bloqueado hasta el 31-dic-2026, ~10,5 semanas) y precio de cola 0,04."
+ },
+ {
+  "ts": "2026-10-19T09:07:20+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-036",
+  "fase": "aprobado",
+  "accion": "veredicto_riesgo",
+  "detalle": "APROBADO: tamano_max=5 | APROBADO: Reglas claras (ganador del Balón de Oro 2026; si no hay ganador antes del 31-dic-2026, 'Other'), oráculo oficial France Football, ceremonia el lunes 26-oct (21:00-23:00 h Madrid, London Palladium) y resolución ~27-oct, riesgo de disputa bajo. libro CLOB Sí bid 0.668/ask 0.669, diferencial 0,1c, prof ±2c 3833/13975 USD, liquidez ~99k USD. Correlacionado con M-20261019-016 (Yamal) y M-20261019-037 (Messi): tope conjunto 5 USD para el evento Balón de Oro 2026."
+ },
+ {
+  "ts": "2026-10-19T09:07:20+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-037",
+  "fase": "aprobado",
+  "accion": "veredicto_riesgo",
+  "detalle": "APROBADO: tamano_max=5 | APROBADO: Reglas claras (ganador del Balón de Oro 2026; si no hay ganador antes del 31-dic-2026, 'Other'), oráculo oficial France Football, ceremonia el lunes 26-oct (21:00-23:00 h Madrid) y resolución ~27-oct, riesgo de disputa bajo. libro CLOB Sí bid 0.029/ask 0.032, diferencial 0,3c, prof ±2c 2656/2860 USD, liquidez ~206k USD (ask top fino ~6 USD; profundidad a 0,034 suficiente para 5 USD). Correlacionado con M-20261019-016 y M-20261019-036: tope conjunto 5 USD para el evento Balón de Oro 2026."
+ },
+ {
+  "ts": "2026-10-19T09:08:00+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "senal_sin_verificar",
+  "detalle": "BTG/Nexus 16-18 oct circula con Flávio 50,3 / Lula 49,7 válidos (riotimesonline.com, transmissaopolitica.com.br) pero no está en la web de Nexus ni en prensa grande; @grok en X lo pone en duda. No cuenta como confirmación. Si se confirma, apoya algo el Sí. AtlasIntel de hoy aún sin publicar. Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T09:08:00+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "senal_sin_verificar",
+  "detalle": "Misma BTG/Nexus 50,3-49,7 sin verificar; si se confirma, aleja el tramo Flávio +8-12. Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T09:08:00+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Vogt confirma bullpen game (Bibee, Cantillo o Daniel Espino para las primeras entradas) y Williams para un posible Juego 7; ya recogido. Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T09:08:00+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades del Juego 6; se mantiene la nota previa (Guardians +1.5, sin edge)."
+ },
+ {
+  "ts": "2026-10-19T09:08:00+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades de alineaciones a menos de 2 h del inicio (11:00 h Madrid); en X solo picks y la compra de 11.700 USD en Alliance ya vista. Precio Alliance 0,395. Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T09:08:00+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-029",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades (en X solo picks). Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T09:08:00+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin datos nuevos de la Fed. Ruido descartado: reinversiones de letras de la Fed de Nueva York (14.600 M USD, operación rutinaria, sin relación con los tipos) presentadas en X como estímulo. Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T09:08:00+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-005",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: sin novedades de la Fed. Se mantiene lado Sí."
+ },
+ {
+  "ts": "2026-10-19T09:08:00+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-025",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: BTC ~82.790 USD a las 09:07 h Madrid (Coinbase 82.797, Kraken 82.793, índice Deribit 82.790), +100 desde las 08:10; colchón ~3,5 % sobre 80k; DVOL 38,3. Precio Sí 0,9845. Sin catalizador nuevo. Se mantiene lado Sí."
+ },
+ {
+  "ts": "2026-10-19T09:08:00+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-034",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: BTC ~82.790 USD, necesita +1,5 % para superar 84k; DVOL 38,3; precio Sí 0,096 coherente. Sin catalizador. Se mantiene lado No sin edge."
  }
 ]

@@ -1321,7 +1321,7 @@
   "tamano_usd": null,
   "precio_salida": null,
   "pnl_usd": null,
-  "notas": ""
+  "notas": "RISK 2026-10-19T09:07:20+02:00: evento Balón de Oro con M-20261019-036/037 aprobados; tope conjunto 5 USD; ceremonia 26-oct."
  },
  {
   "id": "M-20261019-017",
@@ -1348,6 +1348,12 @@
     "agente": "NEWS",
     "ts": "2026-10-19T03:07:18+02:00",
     "nota": "confirmacion_news"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T09:08:00+02:00",
+    "nota": "actualizacion_news: BTG/Nexus 50,3-49,7 sin verificar"
    }
   ],
   "escaneo": {
@@ -1382,7 +1388,7 @@
   },
   "confirmacion": {
    "whale": "",
-   "news": "Lado No (Lula no gana por <4) | 1) 1.ª vuelta oficial TSE 04-oct: Flávio 47,03% vs Lula 45,16% (tse.jus.br, nota 05-oct). 2) Encuestas 2.ª vuelta en votos válidos (Poder360 18-oct, 13 sondeos 3-17 oct): Flávio por delante en 11 de 13; Datafolha 15-oct 51-49, Quaest 14-oct 51,1-48,9, AtlasIntel 9-oct 52,8-47,2, PoderData 15-oct 50-50, MDA 50,5-49,5, Nexus/Gerp 52-48; único con Lula delante: Vox Brasil 18-oct 51-49 (cnnbrasil.com.br). Media ≈ Flávio +2/+3 pp, con ligero estrechamiento (Datafolha pasó de +4 a +2). 3) Apoyos: Caiado, Zema y Cury con Flávio; Renan Santos libera (Estadão); Ipespe 17-oct: votantes de Cury 50% Flávio / 31% Lula (Veja). 4) Debate Band 18-oct: sin ganador claro según prensa (GZH, O Globo, Valor); 91-93% voto decidido (Quaest/Datafolha). 5) Precio coherente: evento margen Lula <4 0,195, Lula 4-8 0,0095 → casi toda la prob. de victoria de Lula está en este tramo; mercado ganador Lula 0,205. Estimo P(Lula gana) ~20-25%: sin edge claro, ligero sesgo a que el Sí está algo barato si las encuestas post-debate siguen estrechándose. Ruido descartado: supuesto tracking interno PT filtrado (Flávio 53,5%) sin confirmación; supuesto Datafolha 56-44 inexistente; hashtags partidistas en X. Catalizadores: AtlasIntel y PoderData lun 19, Real Time Big Data mar 20, Quaest mié 21, Datafolha jue 22 (post-debate). Fuerza: media a favor de No; precio Sí 0,195 coherente. | 2026-10-19T03:07:18+02:00"
+   "news": "Lado No (Lula no gana por <4) | 1) 1.ª vuelta oficial TSE 04-oct: Flávio 47,03% vs Lula 45,16% (tse.jus.br, nota 05-oct). 2) Encuestas 2.ª vuelta en votos válidos (Poder360 18-oct, 13 sondeos 3-17 oct): Flávio por delante en 11 de 13; Datafolha 15-oct 51-49, Quaest 14-oct 51,1-48,9, AtlasIntel 9-oct 52,8-47,2, PoderData 15-oct 50-50, MDA 50,5-49,5, Nexus/Gerp 52-48; único con Lula delante: Vox Brasil 18-oct 51-49 (cnnbrasil.com.br). Media ≈ Flávio +2/+3 pp, con ligero estrechamiento (Datafolha pasó de +4 a +2). 3) Apoyos: Caiado, Zema y Cury con Flávio; Renan Santos libera (Estadão); Ipespe 17-oct: votantes de Cury 50% Flávio / 31% Lula (Veja). 4) Debate Band 18-oct: sin ganador claro según prensa (GZH, O Globo, Valor); 91-93% voto decidido (Quaest/Datafolha). 5) Precio coherente: evento margen Lula <4 0,195, Lula 4-8 0,0095 → casi toda la prob. de victoria de Lula está en este tramo; mercado ganador Lula 0,205. Estimo P(Lula gana) ~20-25%: sin edge claro, ligero sesgo a que el Sí está algo barato si las encuestas post-debate siguen estrechándose. Ruido descartado: supuesto tracking interno PT filtrado (Flávio 53,5%) sin confirmación; supuesto Datafolha 56-44 inexistente; hashtags partidistas en X. Catalizadores: AtlasIntel y PoderData lun 19, Real Time Big Data mar 20, Quaest mié 21, Datafolha jue 22 (post-debate). Fuerza: media a favor de No; precio Sí 0,195 coherente. | 2026-10-19T03:07:18+02:00 || Act. 09:08: BTG/Nexus 16-18 oct (2.002 entrevistas, reg. TSE BR-04499/2026): Flávio 50,3 / Lula 49,7 en válidos (antes 52-48), publicada por riotimesonline.com (19-oct, cita a DMA Notícias) y transmissaopolitica.com.br; aún NO aparece en nexus.fsb.com.br/estudos-divulgados ni en CNN Brasil/UOL/Estadão, y respuestas de @grok en X (x.com/grok/status/2112070595479293971) dicen que ese registro corresponde a otra encuesta (escala 6x1). PENDIENTE DE VERIFICAR: no cuenta como confirmación. AtlasIntel (BR-02418/2026, campo 13-18 oct) prevista hoy, aún sin publicar. Si se confirma, el margen se estrecha (~+0,6) y apoya algo el Sí (Lula gana por <4). Precio Sí 0,205 (+0,01 en 24h). Se mantiene lado No, fuerza baja-media hasta ver AtlasIntel."
   },
   "valoracion": {
    "prob_estimada": 0,
@@ -1755,6 +1761,12 @@
     "agente": "NEWS",
     "ts": "2026-10-19T04:02:19+02:00",
     "nota": "confirmacion_news"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T09:08:00+02:00",
+    "nota": "actualizacion_news: BTG/Nexus 50,3-49,7 sin verificar"
    }
   ],
   "escaneo": {
@@ -1789,7 +1801,7 @@
   },
   "confirmacion": {
    "whale": "",
-   "news": "Lado No (Flávio no gana por 8-12) | 1) 1.ª vuelta oficial TSE 04-oct: Flávio 47,03% vs Lula 45,16% (margen 1,87). 2) Encuestas 2.ª vuelta (Poder360 18-oct, 13 sondeos 3-17 oct; acervo depoisdas17.com.br): media ≈ Flávio +2/+3 pp en válidos; recientes: Datafolha 15-oct 47-45, Quaest 13-oct 46-44, PoderData 15-oct 50-50 válidos, Veritá 16-oct 51,1-48,9 válidos, MDA 46,8-45,9, Gerp 16-oct 50-45 (~+5,3 en válidos), Vox Brasil 17-oct Lula 46,4-44,6. Los más favorables a Flávio: AtlasIntel 8-oct 52,8-47,2 válidos (+5,6; exame.com) y Gerp 12-oct 53-44 (~+9, superado por su propio sondeo del 16-oct a ~+5). Ningún sondeo reciente sitúa a Flávio en +8 o más. 3) El tramo 8-12 exige un error de encuestas de ~5-6 pp a favor de Flávio; posible (cola gorda, precedente 2022) pero no es el escenario central. 4) Debate Band 18-oct sin ganador claro; voto muy decidido (91-93%). Precio Sí 0,0895 coherente o algo caro; sin edge claro. Ruido descartado: aforos de mítines en Paulista/Brasilia y hashtags partidistas en X (#LULAVAIVENCER, Bloquinho 22). Catalizadores: AtlasIntel y PoderData lun 19, RTBD mar 20, Quaest mié 21, Datafolha jue 22. Fuerza: media a favor de No. | 2026-10-19T04:02:19+02:00"
+   "news": "Lado No (Flávio no gana por 8-12) | 1) 1.ª vuelta oficial TSE 04-oct: Flávio 47,03% vs Lula 45,16% (margen 1,87). 2) Encuestas 2.ª vuelta (Poder360 18-oct, 13 sondeos 3-17 oct; acervo depoisdas17.com.br): media ≈ Flávio +2/+3 pp en válidos; recientes: Datafolha 15-oct 47-45, Quaest 13-oct 46-44, PoderData 15-oct 50-50 válidos, Veritá 16-oct 51,1-48,9 válidos, MDA 46,8-45,9, Gerp 16-oct 50-45 (~+5,3 en válidos), Vox Brasil 17-oct Lula 46,4-44,6. Los más favorables a Flávio: AtlasIntel 8-oct 52,8-47,2 válidos (+5,6; exame.com) y Gerp 12-oct 53-44 (~+9, superado por su propio sondeo del 16-oct a ~+5). Ningún sondeo reciente sitúa a Flávio en +8 o más. 3) El tramo 8-12 exige un error de encuestas de ~5-6 pp a favor de Flávio; posible (cola gorda, precedente 2022) pero no es el escenario central. 4) Debate Band 18-oct sin ganador claro; voto muy decidido (91-93%). Precio Sí 0,0895 coherente o algo caro; sin edge claro. Ruido descartado: aforos de mítines en Paulista/Brasilia y hashtags partidistas en X (#LULAVAIVENCER, Bloquinho 22). Catalizadores: AtlasIntel y PoderData lun 19, RTBD mar 20, Quaest mié 21, Datafolha jue 22. Fuerza: media a favor de No. | 2026-10-19T04:02:19+02:00 || Act. 09:08: BTG/Nexus 16-18 oct (2.002 entrevistas, reg. TSE BR-04499/2026): Flávio 50,3 / Lula 49,7 en válidos (antes 52-48), publicada por riotimesonline.com (19-oct, cita a DMA Notícias) y transmissaopolitica.com.br; aún NO aparece en nexus.fsb.com.br/estudos-divulgados ni en CNN Brasil/UOL/Estadão, y respuestas de @grok en X (x.com/grok/status/2112070595479293971) dicen que ese registro corresponde a otra encuesta (escala 6x1). PENDIENTE DE VERIFICAR: no cuenta como confirmación. AtlasIntel (BR-02418/2026, campo 13-18 oct) prevista hoy, aún sin publicar. Si se confirma, aleja aún más el tramo Flávio +8-12. Precio Sí 0,0705 (-0,02 en 24h). Se mantiene lado No."
   },
   "valoracion": {
    "prob_estimada": 0,
@@ -2870,13 +2882,19 @@
   "slug_evento": "trump-out-as-president-before-2027",
   "url": "https://polymarket.com/event/trump-out-as-president-before-2027",
   "pregunta": "Trump out as President before 2027?",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T08:56:20+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T09:07:20+02:00",
+    "nota": "APROBADO: Reglas claras y objetivas (Sí si Trump dimite, es destituido o deja de ser presidente de forma permanente antes del 31-dic-2026 23:59 ET; el anuncio de dimisión/destitución basta; 25.ª Enmienda temporal o impeachment sin destitución no cuentan; Sección 4 sostenida por ambas Cámaras sí cuenta), fuente consenso de prensa creíble pero hecho inequívoco: riesgo de disputa bajo. libro CLOB Sí bid 0.039/ask 0.04, diferencial 0,1c, prof ±2c 9290/3924 USD, liquidez ~344k USD. Ojo: horizonte largo (capital bloqueado hasta el 31-dic-2026, ~10,5 semanas) y precio de cola 0,04."
    }
   ],
   "escaneo": {
@@ -2904,9 +2922,10 @@
    "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras y objetivas (Sí si Trump dimite, es destituido o deja de ser presidente de forma permanente antes del 31-dic-2026 23:59 ET; el anuncio de dimisión/destitución basta; 25.ª Enmienda temporal o impeachment sin destitución no cuentan; Sección 4 sostenida por ambas Cámaras sí cuenta), fuente consenso de prensa creíble pero hecho inequívoco: riesgo de disputa bajo. libro CLOB Sí bid 0.039/ask 0.04, diferencial 0,1c, prof ±2c 9290/3924 USD, liquidez ~344k USD. Ojo: horizonte largo (capital bloqueado hasta el 31-dic-2026, ~10,5 semanas) y precio de cola 0,04.",
+   "ts": "2026-10-19T09:07:20+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -2942,13 +2961,19 @@
   "slug_evento": "ballon-dor-winner-2026",
   "url": "https://polymarket.com/event/ballon-dor-winner-2026",
   "pregunta": "Will Harry Kane win the 2026 Ballon d'Or?",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T08:56:20+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T09:07:20+02:00",
+    "nota": "APROBADO: Reglas claras (ganador del Balón de Oro 2026; si no hay ganador antes del 31-dic-2026, 'Other'), oráculo oficial France Football, ceremonia el lunes 26-oct (21:00-23:00 h Madrid, London Palladium) y resolución ~27-oct, riesgo de disputa bajo. libro CLOB Sí bid 0.668/ask 0.669, diferencial 0,1c, prof ±2c 3833/13975 USD, liquidez ~99k USD. Correlacionado con M-20261019-016 (Yamal) y M-20261019-037 (Messi): tope conjunto 5 USD para el evento Balón de Oro 2026."
    }
   ],
   "escaneo": {
@@ -2976,9 +3001,10 @@
    "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras (ganador del Balón de Oro 2026; si no hay ganador antes del 31-dic-2026, 'Other'), oráculo oficial France Football, ceremonia el lunes 26-oct (21:00-23:00 h Madrid, London Palladium) y resolución ~27-oct, riesgo de disputa bajo. libro CLOB Sí bid 0.668/ask 0.669, diferencial 0,1c, prof ±2c 3833/13975 USD, liquidez ~99k USD. Correlacionado con M-20261019-016 (Yamal) y M-20261019-037 (Messi): tope conjunto 5 USD para el evento Balón de Oro 2026.",
+   "ts": "2026-10-19T09:07:20+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -3014,13 +3040,19 @@
   "slug_evento": "ballon-dor-winner-2026",
   "url": "https://polymarket.com/event/ballon-dor-winner-2026",
   "pregunta": "Will Lionel Messi win the 2026 Ballon d'Or?",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T08:56:20+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T09:07:20+02:00",
+    "nota": "APROBADO: Reglas claras (ganador del Balón de Oro 2026; si no hay ganador antes del 31-dic-2026, 'Other'), oráculo oficial France Football, ceremonia el lunes 26-oct (21:00-23:00 h Madrid) y resolución ~27-oct, riesgo de disputa bajo. libro CLOB Sí bid 0.029/ask 0.032, diferencial 0,3c, prof ±2c 2656/2860 USD, liquidez ~206k USD (ask top fino ~6 USD; profundidad a 0,034 suficiente para 5 USD). Correlacionado con M-20261019-016 y M-20261019-036: tope conjunto 5 USD para el evento Balón de Oro 2026."
    }
   ],
   "escaneo": {
@@ -3048,9 +3080,10 @@
    "ts": "2026-10-19T08:56:20+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras (ganador del Balón de Oro 2026; si no hay ganador antes del 31-dic-2026, 'Other'), oráculo oficial France Football, ceremonia el lunes 26-oct (21:00-23:00 h Madrid) y resolución ~27-oct, riesgo de disputa bajo. libro CLOB Sí bid 0.029/ask 0.032, diferencial 0,3c, prof ±2c 2656/2860 USD, liquidez ~206k USD (ask top fino ~6 USD; profundidad a 0,034 suficiente para 5 USD). Correlacionado con M-20261019-016 y M-20261019-036: tope conjunto 5 USD para el evento Balón de Oro 2026.",
+   "ts": "2026-10-19T09:07:20+02:00"
   },
   "confirmacion": {
    "whale": "",
