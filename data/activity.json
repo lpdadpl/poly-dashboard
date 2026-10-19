@@ -390,5 +390,45 @@
   "fase": "confirmado",
   "accion": "confirmado",
   "detalle": "Lado No (Yamal no gana) con matices | 1) Ceremonia 26-oct Londres (Palladium); votación cerrada según OLBG (olbg.com, act. 13-oct): Kane 1/2 (~67%), Yamal 2/1 (~33%); swap respecto a inicios de oct cuando Yamal estaba a 1/2. 2) Bookies.com 16-oct: Kane favorito, Yamal segundo (carrera bipartita). 3) Polymarket evento Ballon d'Or: Kane ~64-67%, Yamal ~17-28% (precios públicos del evento; este mercado Sí≈0,265). 4) Ruido descartado: hype de fans/Neymar y rumores de photoshoot France Football sin f"
+ },
+ {
+  "ts": "2026-10-19T02:54:26+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-022",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?"
+ },
+ {
+  "ts": "2026-10-19T02:54:26+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-023",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "nuevo: Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5"
+ },
+ {
+  "ts": "2026-10-19T02:54:26+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-024",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "nuevo: Spread: Tampa Bay Rays (-1.5)"
+ },
+ {
+  "ts": "2026-10-19T02:54:36+02:00",
+  "agente": "QUANT",
+  "id": "M-20261019-005",
+  "fase": "valorado",
+  "accion": "valorado",
+  "detalle": "P(Sí)=0,875: FOMC 27-28 oct; pausa respaldada por actas, Warsh neutral, Goldman y compras smart (~121k USD en Sí), contrapeso FedWatch ~72% y CPI 3,7%. Edge vs ask: Sí 0,88 → -0,5 pp (EV -0,6%); No 0,13 → -0,5 pp (EV -3,8%). Kelly ≤0 → NO APOSTAR (tamaño 0). Tope evento Fed 5 USD sin usar."
+ },
+ {
+  "ts": "2026-10-19T02:54:36+02:00",
+  "agente": "QUANT",
+  "id": "M-20261019-016",
+  "fase": "valorado",
+  "accion": "valorado",
+  "detalle": "P(Sí)=0,27: Polymarket mid 0,267 (Kane 0,654); casas OLBG 13-oct Yamal 2/1 (~31% sin margen, dato algo viejo) frente a flujo smart neto a No (~45k USD, sobre todo salidas de Sí). Edge vs ask: Sí 0,269 → +0,1 pp (EV +0,4%, por debajo del diferencial y la incertidumbre); No 0,735 → -0,5 pp (EV -0,7%). Kelly 1/4 ≈0 → NO APOSTAR (tamaño 0)."
  }
 ]

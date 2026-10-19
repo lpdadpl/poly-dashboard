@@ -185,20 +185,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 545335.97,
-   "volumen_total_usd": 8614201.8,
-   "precio_si": 0.305,
+   "volumen_24h_usd": 545099.48,
+   "volumen_total_usd": 8622495.76,
+   "precio_si": 0.295,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.305,
-    0.695
+    0.295,
+    0.705
    ],
-   "liquidez_usd": 437165.06,
-   "mejor_bid": 0.3,
-   "mejor_ask": 0.31,
+   "liquidez_usd": 440510.13,
+   "mejor_bid": 0.29,
+   "mejor_ask": 0.3,
    "fecha_resolucion": "2026-10-28T03:59:00Z",
    "creado": "2025-11-14T18:50:42.974763Z",
    "condition_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
@@ -206,7 +206,7 @@
     "20006732765674855733524007935991362439352594042415161039767275461950712817548",
     "54533569528927082430133047556849600511985191158927477533124630301934489498530"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -327,7 +327,7 @@
   "slug_evento": "fed-decision-in-october-20260617190323537",
   "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
   "pregunta": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-  "fase": "confirmado",
+  "fase": "valorado",
   "historial": [
    {
     "fase": "escaneado",
@@ -352,11 +352,17 @@
     "agente": "NEWS",
     "ts": "2026-10-19T02:09:24+02:00",
     "nota": "confirmacion_news+fase_confirmado"
+   },
+   {
+    "fase": "valorado",
+    "agente": "QUANT",
+    "ts": "2026-10-19T02:54:36+02:00",
+    "nota": "P(Sí)=0.875; mejor lado Sí edge -0.005; tamaño 0.0 USD (no apostar)"
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 223897.68,
-   "volumen_total_usd": 13608056.01,
+   "volumen_24h_usd": 220054.52,
+   "volumen_total_usd": 13608633.44,
    "precio_si": 0.875,
    "resultados": [
     "Yes",
@@ -366,7 +372,7 @@
     0.875,
     0.125
    ],
-   "liquidez_usd": 1006379.86,
+   "liquidez_usd": 1036352.61,
    "mejor_bid": 0.87,
    "mejor_ask": 0.88,
    "fecha_resolucion": "2026-10-29T03:59:00Z",
@@ -376,7 +382,7 @@
     "111061902544814266207267295505639408607400625795891618462682726460921782993748",
     "42038775866198212615491650114881818219665139981763207699110491615333273795415"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -389,10 +395,16 @@
    "news": "Lado Sí (sin cambio) | 1) Calendario Fed: FOMC 27-28 oct 2026 (federalreserve.gov/newsevents/2026-october.htm). 2) Actas sep 15-16: la mayoría ve otra subida «probable hacia fin de año», pero cada reunión con mente abierta (federalreserve.gov/monetarypolicy/fomcminutes20260916.htm) → sesgo a pausa en oct y posible +25 pb en dic. 3) Warsh 16-oct Bangkok (IMF): «I don't prejudge meetings»; sin señal hawkish; Goldman (vía CNBC) espera pausa en oct y última subida en dic; FedWatch CME ~72% sin cambio (cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html; apnews.com/article/us-economy-warsh-fed-ai-imf-4c80750c113a82a464a46f58a4fdab43; Reuters/Investing 16-oct). 4) Contrapeso: CPI sep 3,7% YoY (energía) elevó temporalmente odds de subida, luego bajaron tras Warsh (resúmenes X 16-17 oct). 5) Precio Poly Sí ≈0,875 alineado con MacroOdds Hold ~87,5%. Fuerza: media-alta a favor de Sí; no abre edge claro vs precio. | 2026-10-19T02:09:24+02:00"
   },
   "valoracion": {
-   "prob_estimada": 0,
-   "edge": 0,
-   "lado": "",
-   "tamano_usd": 0
+   "prob_estimada": 0.875,
+   "edge": -0.005,
+   "lado": "ninguno",
+   "tamano_usd": 0.0,
+   "ev_pct": -0.57,
+   "precio_referencia": 0.88,
+   "kelly_fraccion": 0.25,
+   "recomendacion": "no apostar",
+   "ts": "2026-10-19T02:54:36+02:00",
+   "nota": "P(Sí)=0,875: FOMC 27-28 oct; pausa respaldada por actas, Warsh neutral, Goldman y compras smart (~121k USD en Sí), contrapeso FedWatch ~72% y CPI 3,7%. Edge vs ask: Sí 0,88 → -0,5 pp (EV -0,6%); No 0,13 → -0,5 pp (EV -3,8%). Kelly ≤0 → NO APOSTAR (tamaño 0). Tope evento Fed 5 USD sin usar."
   },
   "ejecucion": {
    "approve": "",
@@ -434,20 +446,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 193488.77,
-   "volumen_total_usd": 3995938.57,
-   "precio_si": 0.835,
+   "volumen_24h_usd": 212472.55,
+   "volumen_total_usd": 4027170.11,
+   "precio_si": 0.825,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.835,
-    0.165
+    0.825,
+    0.175
    ],
-   "liquidez_usd": 351946.54,
-   "mejor_bid": 0.83,
-   "mejor_ask": 0.84,
+   "liquidez_usd": 442485.05,
+   "mejor_bid": 0.82,
+   "mejor_ask": 0.83,
    "fecha_resolucion": "2026-10-31T23:59:00Z",
    "creado": "2026-09-17T15:54:12.416798Z",
    "condition_id": "0x3738ad9665480991affe3ba286cd035516e17d1f8b7703e05088ec19c70c21a4",
@@ -455,7 +467,7 @@
     "67102598924726349989742049657609063097299442010642912942032681022413402597017",
     "114475889232765203212032217024645308497828327658421967586050553616813506019119"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -524,7 +536,7 @@
     0.045,
     0.955
    ],
-   "liquidez_usd": 542925.74,
+   "liquidez_usd": 568898.84,
    "mejor_bid": 0.04,
    "mejor_ask": 0.05,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
@@ -534,7 +546,7 @@
     "10991849228756847439673778874175365458450913336396982752046655649803657501964",
     "106181075047366745139197108801635573283215248045056329679360376976893016488727"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -598,8 +610,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 166211.45,
-   "volumen_total_usd": 10346258.87,
+   "volumen_24h_usd": 166199.22,
+   "volumen_total_usd": 10346361.58,
    "precio_si": 0.125,
    "resultados": [
     "Yes",
@@ -609,7 +621,7 @@
     0.125,
     0.875
    ],
-   "liquidez_usd": 952194.41,
+   "liquidez_usd": 981575.95,
    "mejor_bid": 0.12,
    "mejor_ask": 0.13,
    "fecha_resolucion": "2026-10-29T03:59:00Z",
@@ -619,7 +631,7 @@
     "55159722761418013044126414276680602270318000841690689684819994448621694923050",
     "78632395083310670734315205502061249602319069653915932320155846460019107676757"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -688,7 +700,7 @@
     0.034,
     0.966
    ],
-   "liquidez_usd": 231939.26,
+   "liquidez_usd": 231450.95,
    "mejor_bid": 0.028,
    "mejor_ask": 0.04,
    "fecha_resolucion": "2028-11-08T04:59:00Z",
@@ -698,7 +710,7 @@
     "12127975650736113116407758794754973741525044713193258995588171654429754588610",
     "95344728193244020854716971584323868633691370479151373416918812532794690491367"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -756,7 +768,7 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 149720.69,
+   "volumen_24h_usd": 149550.22,
    "volumen_total_usd": 34358997.82,
    "precio_si": 0.0205,
    "resultados": [
@@ -767,7 +779,7 @@
     0.0205,
     0.9795
    ],
-   "liquidez_usd": 220270.36,
+   "liquidez_usd": 216945.96,
    "mejor_bid": 0.019,
    "mejor_ask": 0.022,
    "fecha_resolucion": "2028-11-08T04:59:00Z",
@@ -777,7 +789,7 @@
     "52310257194926233099477326083312959938983447523839326865869372741334281264830",
     "88403451835230950222119400360490338078378790763472355557584611572247419676051"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -835,8 +847,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 149056.85,
-   "volumen_total_usd": 2506213.52,
+   "volumen_24h_usd": 144499.99,
+   "volumen_total_usd": 2507594.67,
    "precio_si": 0.875,
    "resultados": [
     "Yes",
@@ -846,7 +858,7 @@
     0.875,
     0.125
    ],
-   "liquidez_usd": 143530.32,
+   "liquidez_usd": 141287.23,
    "mejor_bid": 0.87,
    "mejor_ask": 0.88,
    "fecha_resolucion": "2026-10-31T20:29:00Z",
@@ -856,7 +868,7 @@
     "36595575197199846398267481972385180643951985822505187477756829088194676076340",
     "34386684966925037477701889915132575610574649191623462027976379158560146275115"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -914,8 +926,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 142586.61,
-   "volumen_total_usd": 288395.44,
+   "volumen_24h_usd": 141665.72,
+   "volumen_total_usd": 289097.52,
    "precio_si": 0.955,
    "resultados": [
     "Yes",
@@ -925,7 +937,7 @@
     0.955,
     0.045
    ],
-   "liquidez_usd": 87893.53,
+   "liquidez_usd": 94634.02,
    "mejor_bid": 0.95,
    "mejor_ask": 0.96,
    "fecha_resolucion": "2026-10-23T03:59:00Z",
@@ -935,7 +947,7 @@
     "11703355753646866721510451780813586747644200170798817311988936815535980370261",
     "65420996630654354480054098878673482065505905636022385586010587347634944011067"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -993,8 +1005,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 142156.54,
-   "volumen_total_usd": 552066.98,
+   "volumen_24h_usd": 149656.17,
+   "volumen_total_usd": 559668.22,
    "precio_si": 0.9755,
    "resultados": [
     "Yes",
@@ -1004,7 +1016,7 @@
     0.9755,
     0.0245
    ],
-   "liquidez_usd": 105237.08,
+   "liquidez_usd": 106409.57,
    "mejor_bid": 0.975,
    "mejor_ask": 0.976,
    "fecha_resolucion": "2026-10-22T03:59:00Z",
@@ -1014,7 +1026,7 @@
     "24399767988117113521472412724678339180207513110495231843644050348352296275787",
     "95621696205739201037602073257017921677890684949833910344379917839419913867662"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1072,8 +1084,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 128331.07,
-   "volumen_total_usd": 74632957.46,
+   "volumen_24h_usd": 128134.94,
+   "volumen_total_usd": 74632969.34,
    "precio_si": 0.155,
    "resultados": [
     "Yes",
@@ -1083,7 +1095,7 @@
     0.155,
     0.845
    ],
-   "liquidez_usd": 468201.61,
+   "liquidez_usd": 484279.83,
    "mejor_bid": 0.15,
    "mejor_ask": 0.16,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
@@ -1093,7 +1105,7 @@
     "55115078421062885512539156303747803058407616201213034911037320915726138659123",
     "1910830010387565971650098373488592514702818137344973088263643820608151819241"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1214,7 +1226,7 @@
   "slug_evento": "ballon-dor-winner-2026",
   "url": "https://polymarket.com/event/ballon-dor-winner-2026",
   "pregunta": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-  "fase": "confirmado",
+  "fase": "valorado",
   "historial": [
    {
     "fase": "escaneado",
@@ -1239,23 +1251,29 @@
     "agente": "NEWS",
     "ts": "2026-10-19T02:09:24+02:00",
     "nota": "confirmacion_news+fase_confirmado"
+   },
+   {
+    "fase": "valorado",
+    "agente": "QUANT",
+    "ts": "2026-10-19T02:54:36+02:00",
+    "nota": "P(Sí)=0.27; mejor lado Sí edge +0.001; tamaño 0.0 USD (no apostar)"
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 94394.72,
-   "volumen_total_usd": 4503951.31,
-   "precio_si": 0.2655,
+   "volumen_24h_usd": 95490.53,
+   "volumen_total_usd": 4505107.61,
+   "precio_si": 0.267,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.2655,
-    0.7345
+    0.267,
+    0.733
    ],
-   "liquidez_usd": 120475.57,
+   "liquidez_usd": 115559.41,
    "mejor_bid": 0.265,
-   "mejor_ask": 0.266,
+   "mejor_ask": 0.269,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
    "creado": "2025-09-22T21:37:42.751118Z",
    "condition_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
@@ -1263,7 +1281,7 @@
     "10466835326554416965099784068156829774726248334728156046559014834812912458273",
     "115364229170068359509280114761107502298430910856477421813089992309112580316620"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -1276,10 +1294,16 @@
    "news": "Lado No (Yamal no gana) con matices | 1) Ceremonia 26-oct Londres (Palladium); votación cerrada según OLBG (olbg.com, act. 13-oct): Kane 1/2 (~67%), Yamal 2/1 (~33%); swap respecto a inicios de oct cuando Yamal estaba a 1/2. 2) Bookies.com 16-oct: Kane favorito, Yamal segundo (carrera bipartita). 3) Polymarket evento Ballon d'Or: Kane ~64-67%, Yamal ~17-28% (precios públicos del evento; este mercado Sí≈0,265). 4) Ruido descartado: hype de fans/Neymar y rumores de photoshoot France Football sin fuente oficial — no confirman. Señal neta: favorito externo es Kane; precio Yamal ~26% no descuenta un outsider extremo. Fuerza: moderada hacia No vs Sí; sin edge fuerte vs 0,265. | 2026-10-19T02:09:24+02:00"
   },
   "valoracion": {
-   "prob_estimada": 0,
-   "edge": 0,
-   "lado": "",
-   "tamano_usd": 0
+   "prob_estimada": 0.27,
+   "edge": 0.001,
+   "lado": "ninguno",
+   "tamano_usd": 0.0,
+   "ev_pct": 0.37,
+   "precio_referencia": 0.269,
+   "kelly_fraccion": 0.25,
+   "recomendacion": "no apostar",
+   "ts": "2026-10-19T02:54:36+02:00",
+   "nota": "P(Sí)=0,27: Polymarket mid 0,267 (Kane 0,654); casas OLBG 13-oct Yamal 2/1 (~31% sin margen, dato algo viejo) frente a flujo smart neto a No (~45k USD, sobre todo salidas de Sí). Edge vs ask: Sí 0,269 → +0,1 pp (EV +0,4%, por debajo del diferencial y la incertidumbre); No 0,735 → -0,5 pp (EV -0,7%). Kelly 1/4 ≈0 → NO APOSTAR (tamaño 0)."
   },
   "ejecucion": {
    "approve": "",
@@ -1479,8 +1503,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 93264.5,
-   "volumen_total_usd": 623630.96,
+   "volumen_24h_usd": 99541.99,
+   "volumen_total_usd": 629908.45,
    "precio_si": 0.795,
    "resultados": [
     "Yes",
@@ -1490,7 +1514,7 @@
     0.795,
     0.205
    ],
-   "liquidez_usd": 332913.49,
+   "liquidez_usd": 406247.96,
    "mejor_bid": 0.79,
    "mejor_ask": 0.8,
    "fecha_resolucion": "2026-11-04T04:59:00Z",
@@ -1500,7 +1524,7 @@
     "59838288288458809448405089801806485870309105325255232123458269975283939712397",
     "26083146751610036454524904850508210754946650859133877372205070732610792631731"
    ],
-   "ts": "2026-10-19T01:54:21+02:00"
+   "ts": "2026-10-19T02:54:26+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1665,6 +1689,222 @@
    "tamano_max_usd": 0,
    "motivo": "RECHAZADO: Ilíquido: liquidez ~7,5k USD y prof ±2c solo 175/101 USD (libro CLOB Sí bid 0.41/ask 0.42); además riesgo de disputa moderado por la lectura del contador de vistas de YouTube justo a los 7 días (sin snapshot oficial). Cierre 23-oct.",
    "ts": "2026-10-19T02:09:09+02:00"
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-022",
+  "slug": "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-812",
+  "slug_evento": "brazil-presidential-election-second-round-margin-of-victory",
+  "url": "https://polymarket.com/event/brazil-presidential-election-second-round-margin-of-victory",
+  "pregunta": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T02:54:26+02:00",
+    "nota": "origen: top_volumen"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 90691.17,
+   "volumen_total_usd": 744764.95,
+   "precio_si": 0.0895,
+   "resultados": [
+    "Yes",
+    "No"
+   ],
+   "precios": [
+    0.0895,
+    0.9105
+   ],
+   "liquidez_usd": 149639.65,
+   "mejor_bid": 0.089,
+   "mejor_ask": 0.09,
+   "fecha_resolucion": "2026-10-26T03:59:00Z",
+   "creado": "2026-10-05T19:31:31.464081Z",
+   "condition_id": "0x5e01c77502f9ad47b81730498f0f42740743f2ae4d537cdedb5e990ce2bdfe69",
+   "clob_token_ids": [
+    "12485788408727529638134750003375992749043111362325505974011285261967424776635",
+    "26668869374105423241063822023238370156273552047413316823375341979641160307361"
+   ],
+   "ts": "2026-10-19T02:54:26+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-023",
+  "slug": "mlb-cle-tb-2026-10-19-total-6pt5",
+  "slug_evento": "mlb-cle-tb-2026-10-19",
+  "url": "https://polymarket.com/event/mlb-cle-tb-2026-10-19",
+  "pregunta": "Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T02:54:26+02:00",
+    "nota": "origen: nuevo"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 0,
+   "volumen_total_usd": 0,
+   "precio_si": 0.505,
+   "resultados": [
+    "Over",
+    "Under"
+   ],
+   "precios": [
+    0.505,
+    0.495
+   ],
+   "liquidez_usd": 17818.52,
+   "mejor_bid": 0.49,
+   "mejor_ask": 0.52,
+   "fecha_resolucion": "2026-10-20T00:08:00Z",
+   "creado": "2026-10-19T00:28:02.11338Z",
+   "condition_id": "0x7fefe447029d22c576841234c8cf8a0b545b0e81e1c3e7842ace7f907bc80946",
+   "clob_token_ids": [
+    "18609384798216315879602525400523030630000024227400183382752406839790237734918",
+    "40903493538745139555052886196728167414620998991695963438410078813186930063385"
+   ],
+   "ts": "2026-10-19T02:54:26+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-024",
+  "slug": "mlb-cle-tb-2026-10-19-spread-home-1pt5",
+  "slug_evento": "mlb-cle-tb-2026-10-19",
+  "url": "https://polymarket.com/event/mlb-cle-tb-2026-10-19",
+  "pregunta": "Spread: Tampa Bay Rays (-1.5)",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T02:54:26+02:00",
+    "nota": "origen: nuevo"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 0,
+   "volumen_total_usd": 0,
+   "precio_si": 0.355,
+   "resultados": [
+    "Tampa Bay Rays",
+    "Cleveland Guardians"
+   ],
+   "precios": [
+    0.355,
+    0.645
+   ],
+   "liquidez_usd": 46270.72,
+   "mejor_bid": 0.35,
+   "mejor_ask": 0.36,
+   "fecha_resolucion": "2026-10-20T00:08:00Z",
+   "creado": "2026-10-19T00:28:01.911708Z",
+   "condition_id": "0x44ab157c5f9aea7d8fd62be4092168eff96a245fd39abd105a7d291e6e7b7921",
+   "clob_token_ids": [
+    "93733477547426117127664133246661996578985412597163447366443710706316251606307",
+    "59070912528187711065068613621845488643502072596959200590901196884657111310601"
+   ],
+   "ts": "2026-10-19T02:54:26+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
   },
   "confirmacion": {
    "whale": "",
