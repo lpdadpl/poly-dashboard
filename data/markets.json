@@ -18,23 +18,29 @@
     "agente": "RISK",
     "ts": "2026-10-19T01:08:52+02:00",
     "nota": "RECHAZADO: Partido (ALCS G5) en juego desde las 23:08 h (Madrid); precio en vivo 0,875→0,75 y resolución en horas: el embudo WHALE/NEWS/QUANT/APPROVE no llega a tiempo. Liquidez ok (libro CLOB Sí bid 0.75/ask 0.76, prof ±2c 1921/1302 USD)."
+   },
+   {
+    "fase": "descartado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T01:54:21+02:00",
+    "nota": "cuota Sí 0.875 -> 0.925"
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 835200.08,
-   "volumen_total_usd": 835485.16,
-   "precio_si": 0.875,
+   "volumen_24h_usd": 987702.08,
+   "volumen_total_usd": 1008688.74,
+   "precio_si": 0.925,
    "resultados": [
     "Tampa Bay Rays",
     "Cleveland Guardians"
    ],
    "precios": [
-    0.875,
-    0.125
+    0.925,
+    0.075
    ],
-   "liquidez_usd": 139643.3,
-   "mejor_bid": 0.87,
-   "mejor_ask": 0.88,
+   "liquidez_usd": 127883.58,
+   "mejor_bid": 0.92,
+   "mejor_ask": 0.93,
    "fecha_resolucion": "2026-10-25T21:08:00Z",
    "creado": "2026-10-11T13:00:13.862746Z",
    "condition_id": "0x38d57dc9da5dfbc8e1cc1d03a08edac1918452e7509397bf83c5811dc4d2e5cd",
@@ -42,7 +48,7 @@
     "26890898077170571239055394126433602443161116351175389461360625969411578934475",
     "77087147829732958043899442169501286448927716455524648500329560720027829165126"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -179,8 +185,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 539643.24,
-   "volumen_total_usd": 8607618.44,
+   "volumen_24h_usd": 545335.97,
+   "volumen_total_usd": 8614201.8,
    "precio_si": 0.305,
    "resultados": [
     "Yes",
@@ -190,7 +196,7 @@
     0.305,
     0.695
    ],
-   "liquidez_usd": 409526.91,
+   "liquidez_usd": 437165.06,
    "mejor_bid": 0.3,
    "mejor_ask": 0.31,
    "fecha_resolucion": "2026-10-28T03:59:00Z",
@@ -200,7 +206,7 @@
     "20006732765674855733524007935991362439352594042415161039767275461950712817548",
     "54533569528927082430133047556849600511985191158927477533124630301934489498530"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -337,8 +343,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 223474.83,
-   "volumen_total_usd": 13607278.72,
+   "volumen_24h_usd": 223897.68,
+   "volumen_total_usd": 13608056.01,
    "precio_si": 0.875,
    "resultados": [
     "Yes",
@@ -348,7 +354,7 @@
     0.875,
     0.125
    ],
-   "liquidez_usd": 1074451.34,
+   "liquidez_usd": 1006379.86,
    "mejor_bid": 0.87,
    "mejor_ask": 0.88,
    "fecha_resolucion": "2026-10-29T03:59:00Z",
@@ -358,7 +364,7 @@
     "111061902544814266207267295505639408607400625795891618462682726460921782993748",
     "42038775866198212615491650114881818219665139981763207699110491615333273795415"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -416,20 +422,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 190266.39,
-   "volumen_total_usd": 3991916.19,
-   "precio_si": 0.825,
+   "volumen_24h_usd": 193488.77,
+   "volumen_total_usd": 3995938.57,
+   "precio_si": 0.835,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.825,
-    0.175
+    0.835,
+    0.165
    ],
-   "liquidez_usd": 189694.72,
-   "mejor_bid": 0.82,
-   "mejor_ask": 0.83,
+   "liquidez_usd": 351946.54,
+   "mejor_bid": 0.83,
+   "mejor_ask": 0.84,
    "fecha_resolucion": "2026-10-31T23:59:00Z",
    "creado": "2026-09-17T15:54:12.416798Z",
    "condition_id": "0x3738ad9665480991affe3ba286cd035516e17d1f8b7703e05088ec19c70c21a4",
@@ -437,7 +443,7 @@
     "67102598924726349989742049657609063097299442010642912942032681022413402597017",
     "114475889232765203212032217024645308497828327658421967586050553616813506019119"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -506,7 +512,7 @@
     0.045,
     0.955
    ],
-   "liquidez_usd": 545431.17,
+   "liquidez_usd": 542925.74,
    "mejor_bid": 0.04,
    "mejor_ask": 0.05,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
@@ -516,7 +522,7 @@
     "10991849228756847439673778874175365458450913336396982752046655649803657501964",
     "106181075047366745139197108801635573283215248045056329679360376976893016488727"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -574,8 +580,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 166049.91,
-   "volumen_total_usd": 10345297.33,
+   "volumen_24h_usd": 166211.45,
+   "volumen_total_usd": 10346258.87,
    "precio_si": 0.125,
    "resultados": [
     "Yes",
@@ -585,7 +591,7 @@
     0.125,
     0.875
    ],
-   "liquidez_usd": 1003191.19,
+   "liquidez_usd": 952194.41,
    "mejor_bid": 0.12,
    "mejor_ask": 0.13,
    "fecha_resolucion": "2026-10-29T03:59:00Z",
@@ -595,7 +601,7 @@
     "55159722761418013044126414276680602270318000841690689684819994448621694923050",
     "78632395083310670734315205502061249602319069653915932320155846460019107676757"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": true,
@@ -653,8 +659,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 163816.89,
-   "volumen_total_usd": 15854726.55,
+   "volumen_24h_usd": 163822.82,
+   "volumen_total_usd": 15854732.48,
    "precio_si": 0.034,
    "resultados": [
     "Yes",
@@ -664,7 +670,7 @@
     0.034,
     0.966
    ],
-   "liquidez_usd": 231407.92,
+   "liquidez_usd": 231939.26,
    "mejor_bid": 0.028,
    "mejor_ask": 0.04,
    "fecha_resolucion": "2028-11-08T04:59:00Z",
@@ -674,7 +680,7 @@
     "12127975650736113116407758794754973741525044713193258995588171654429754588610",
     "95344728193244020854716971584323868633691370479151373416918812532794690491367"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -743,7 +749,7 @@
     0.0205,
     0.9795
    ],
-   "liquidez_usd": 217218.25,
+   "liquidez_usd": 220270.36,
    "mejor_bid": 0.019,
    "mejor_ask": 0.022,
    "fecha_resolucion": "2028-11-08T04:59:00Z",
@@ -753,7 +759,7 @@
     "52310257194926233099477326083312959938983447523839326865869372741334281264830",
     "88403451835230950222119400360490338078378790763472355557584611572247419676051"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -811,20 +817,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 148393.13,
-   "volumen_total_usd": 2504378.13,
-   "precio_si": 0.865,
+   "volumen_24h_usd": 149056.85,
+   "volumen_total_usd": 2506213.52,
+   "precio_si": 0.875,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.865,
-    0.135
+    0.875,
+    0.125
    ],
-   "liquidez_usd": 114014.2,
-   "mejor_bid": 0.86,
-   "mejor_ask": 0.87,
+   "liquidez_usd": 143530.32,
+   "mejor_bid": 0.87,
+   "mejor_ask": 0.88,
    "fecha_resolucion": "2026-10-31T20:29:00Z",
    "creado": "2026-08-07T14:27:19.254718Z",
    "condition_id": "0xc3d5708780de5528998aeb53ca90e7ade64804f9f2386392a681435d5c42b44d",
@@ -832,7 +838,7 @@
     "36595575197199846398267481972385180643951985822505187477756829088194676076340",
     "34386684966925037477701889915132575610574649191623462027976379158560146275115"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -890,8 +896,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 139513.75,
-   "volumen_total_usd": 279359.17,
+   "volumen_24h_usd": 142586.61,
+   "volumen_total_usd": 288395.44,
    "precio_si": 0.955,
    "resultados": [
     "Yes",
@@ -901,7 +907,7 @@
     0.955,
     0.045
    ],
-   "liquidez_usd": 60120.57,
+   "liquidez_usd": 87893.53,
    "mejor_bid": 0.95,
    "mejor_ask": 0.96,
    "fecha_resolucion": "2026-10-23T03:59:00Z",
@@ -911,7 +917,7 @@
     "11703355753646866721510451780813586747644200170798817311988936815535980370261",
     "65420996630654354480054098878673482065505905636022385586010587347634944011067"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -969,20 +975,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 138605.69,
-   "volumen_total_usd": 544657.03,
-   "precio_si": 0.9745,
+   "volumen_24h_usd": 142156.54,
+   "volumen_total_usd": 552066.98,
+   "precio_si": 0.9755,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.9745,
-    0.0255
+    0.9755,
+    0.0245
    ],
-   "liquidez_usd": 86384.25,
-   "mejor_bid": 0.974,
-   "mejor_ask": 0.975,
+   "liquidez_usd": 105237.08,
+   "mejor_bid": 0.975,
+   "mejor_ask": 0.976,
    "fecha_resolucion": "2026-10-22T03:59:00Z",
    "creado": "2026-10-14T18:09:40.001739Z",
    "condition_id": "0x1175651306e9ae39991642dcff3fd96778ae0301fc44c7f5565251fc2bb68d31",
@@ -990,7 +996,7 @@
     "24399767988117113521472412724678339180207513110495231843644050348352296275787",
     "95621696205739201037602073257017921677890684949833910344379917839419913867662"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1048,8 +1054,8 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 125734.92,
-   "volumen_total_usd": 74630261.31,
+   "volumen_24h_usd": 128331.07,
+   "volumen_total_usd": 74632957.46,
    "precio_si": 0.155,
    "resultados": [
     "Yes",
@@ -1059,7 +1065,7 @@
     0.155,
     0.845
    ],
-   "liquidez_usd": 485667.53,
+   "liquidez_usd": 468201.61,
    "mejor_bid": 0.15,
    "mejor_ask": 0.16,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
@@ -1069,7 +1075,7 @@
     "55115078421062885512539156303747803058407616201213034911037320915726138659123",
     "1910830010387565971650098373488592514702818137344973088263643820608151819241"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": false,
@@ -1206,20 +1212,20 @@
    }
   ],
   "escaneo": {
-   "volumen_24h_usd": 104926.21,
-   "volumen_total_usd": 4499847.54,
-   "precio_si": 0.2675,
+   "volumen_24h_usd": 94394.72,
+   "volumen_total_usd": 4503951.31,
+   "precio_si": 0.2655,
    "resultados": [
     "Yes",
     "No"
    ],
    "precios": [
-    0.2675,
-    0.7325
+    0.2655,
+    0.7345
    ],
-   "liquidez_usd": 114411.91,
+   "liquidez_usd": 120475.57,
    "mejor_bid": 0.265,
-   "mejor_ask": 0.27,
+   "mejor_ask": 0.266,
    "fecha_resolucion": "2027-01-01T04:59:00Z",
    "creado": "2025-09-22T21:37:42.751118Z",
    "condition_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
@@ -1227,13 +1233,373 @@
     "10466835326554416965099784068156829774726248334728156046559014834812912458273",
     "115364229170068359509280114761107502298430910856477421813089992309112580316620"
    ],
-   "ts": "2026-10-19T00:54:06+02:00"
+   "ts": "2026-10-19T01:54:21+02:00"
   },
   "riesgo": {
    "ok": true,
    "tamano_max_usd": 5,
    "motivo": "APROBADO: Reglas claras (ganador del Balón de Oro 2026), oráculo oficial France Football, riesgo de disputa bajo; diferencial 0,5c, liquidez 114k USD. libro CLOB Sí bid 0.265/ask 0.27, prof ±2c 15637/2287 USD (ask Sí fino: suficiente para 5 USD). Cierre máx. 31-dic-2026.",
    "ts": "2026-10-19T01:08:52+02:00"
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-017",
+  "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
+  "slug_evento": "brazil-presidential-election-second-round-margin-of-victory",
+  "url": "https://polymarket.com/event/brazil-presidential-election-second-round-margin-of-victory",
+  "pregunta": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T01:54:21+02:00",
+    "nota": "origen: top_volumen"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 103503.38,
+   "volumen_total_usd": 253475.35,
+   "precio_si": 0.195,
+   "resultados": [
+    "Yes",
+    "No"
+   ],
+   "precios": [
+    0.195,
+    0.805
+   ],
+   "liquidez_usd": 130692.54,
+   "mejor_bid": 0.19,
+   "mejor_ask": 0.2,
+   "fecha_resolucion": "2026-10-26T03:59:00Z",
+   "creado": "2026-10-05T19:31:33.239157Z",
+   "condition_id": "0x84837e7c004d6761827e0c1ae9e1523ac799493b6a412a2616df4b97c13f4ef2",
+   "clob_token_ids": [
+    "15937407026596714527642345105848761987135521179549657216149364717222565341610",
+    "7702054529123556587308524829273978684645661606909876729101572555242280522559"
+   ],
+   "ts": "2026-10-19T01:54:21+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-018",
+  "slug": "will-bitcoin-dip-to-80k-october-12-18-2026-from-october-15",
+  "slug_evento": "what-price-will-bitcoin-hit-october-12-18-2026",
+  "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-october-12-18-2026",
+  "pregunta": "Will Bitcoin dip to $80,000 October 12-18?",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T01:54:21+02:00",
+    "nota": "origen: top_volumen"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 102588.35,
+   "volumen_total_usd": 140602.89,
+   "precio_si": 0.0285,
+   "resultados": [
+    "Yes",
+    "No"
+   ],
+   "precios": [
+    0.0285,
+    0.9715
+   ],
+   "liquidez_usd": 55349.56,
+   "mejor_bid": 0.026,
+   "mejor_ask": 0.031,
+   "fecha_resolucion": "2026-10-19T04:00:00Z",
+   "creado": "2026-10-15T16:57:01.971439Z",
+   "condition_id": "0x47e028e787bae02aef6f942c59082c8297710d4606cf2e65818c945a6e8bcb09",
+   "clob_token_ids": [
+    "14170318760221093762921367580221821386822386891489318795744424447886274562844",
+    "95104800973393645410556136024050310296274365124439207891533385924008310684641"
+   ],
+   "ts": "2026-10-19T01:54:21+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-019",
+  "slug": "us-iran-ceasefire-continues-through-the-midterms",
+  "slug_evento": "us-iran-ceasefire-continues-through-the-midterms",
+  "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms",
+  "pregunta": "US-Iran ceasefire continues through the midterms?",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T01:54:21+02:00",
+    "nota": "origen: top_volumen"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 93264.5,
+   "volumen_total_usd": 623630.96,
+   "precio_si": 0.795,
+   "resultados": [
+    "Yes",
+    "No"
+   ],
+   "precios": [
+    0.795,
+    0.205
+   ],
+   "liquidez_usd": 332913.49,
+   "mejor_bid": 0.79,
+   "mejor_ask": 0.8,
+   "fecha_resolucion": "2026-11-04T04:59:00Z",
+   "creado": "2026-10-09T01:16:01.403913Z",
+   "condition_id": "0x613613192c69d90cee89758c260a019368fc1f4a596b4d300c39b6235d2b643f",
+   "clob_token_ids": [
+    "59838288288458809448405089801806485870309105325255232123458269975283939712397",
+    "26083146751610036454524904850508210754946650859133877372205070732610792631731"
+   ],
+   "ts": "2026-10-19T01:54:21+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-020",
+  "slug": "will-naftali-bennett-be-the-next-prime-minister-of-israel",
+  "slug_evento": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+  "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+  "pregunta": "Will Naftali Bennett be the next Prime Minister of Israel?",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T01:54:21+02:00",
+    "nota": "origen: top_volumen"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 88155.0,
+   "volumen_total_usd": 3934545.84,
+   "precio_si": 0.125,
+   "resultados": [
+    "Yes",
+    "No"
+   ],
+   "precios": [
+    0.125,
+    0.875
+   ],
+   "liquidez_usd": 130998.36,
+   "mejor_bid": 0.12,
+   "mejor_ask": 0.13,
+   "fecha_resolucion": "2026-10-28T03:59:00Z",
+   "creado": "2025-11-14T18:50:43.425747Z",
+   "condition_id": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+   "clob_token_ids": [
+    "58945936829392654397399777214757608864525173988558750256164021442231118224154",
+    "39409206330527880169507414405291721950884951005340760541937649898052386499519"
+   ],
+   "ts": "2026-10-19T01:54:21+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
+  },
+  "confirmacion": {
+   "whale": "",
+   "news": ""
+  },
+  "valoracion": {
+   "prob_estimada": 0,
+   "edge": 0,
+   "lado": "",
+   "tamano_usd": 0
+  },
+  "ejecucion": {
+   "approve": "",
+   "precio_entrada": 0,
+   "tamano_usd": 0,
+   "ts": ""
+  },
+  "resolucion": {
+   "precio_salida": 0,
+   "pnl_usd": 0,
+   "ts": ""
+  },
+  "lado": "",
+  "precio_entrada": null,
+  "tamano_usd": null,
+  "precio_salida": null,
+  "pnl_usd": null,
+  "notas": ""
+ },
+ {
+  "id": "M-20261019-021",
+  "slug": "will-grand-theft-auto-vi-launch-trailer-get-between-40-and-60-million-views-on-week-1",
+  "slug_evento": "of-views-of-grand-theft-auto-vi-launch-trailer-on-week-1",
+  "url": "https://polymarket.com/event/of-views-of-grand-theft-auto-vi-launch-trailer-on-week-1",
+  "pregunta": "Will \"Grand Theft Auto VI Launch Trailer\" get between 40 and 60 million views on week 1?",
+  "fase": "escaneado",
+  "historial": [
+   {
+    "fase": "escaneado",
+    "agente": "SCOUT",
+    "ts": "2026-10-19T01:54:21+02:00",
+    "nota": "origen: top_volumen"
+   }
+  ],
+  "escaneo": {
+   "volumen_24h_usd": 85945.07,
+   "volumen_total_usd": 132964.5,
+   "precio_si": 0.435,
+   "resultados": [
+    "Yes",
+    "No"
+   ],
+   "precios": [
+    0.435,
+    0.565
+   ],
+   "liquidez_usd": 6331.08,
+   "mejor_bid": 0.42,
+   "mejor_ask": 0.45,
+   "fecha_resolucion": "2026-10-23T03:59:00Z",
+   "creado": "2026-10-15T14:34:00.05348Z",
+   "condition_id": "0x15114829ad5587c8a328c574a12a4bb7322901dcc2d3a7f546cbfd4f3cc14d10",
+   "clob_token_ids": [
+    "279555940503380468806732370252629134226625839865194353664212113344772938493",
+    "74591572110746212338597092259420893380525117595259102762431407006828981117223"
+   ],
+   "ts": "2026-10-19T01:54:21+02:00"
+  },
+  "riesgo": {
+   "ok": null,
+   "tamano_max_usd": 0,
+   "motivo": ""
   },
   "confirmacion": {
    "whale": "",

@@ -254,5 +254,53 @@
   "fase": "aprobado",
   "accion": "aprobado",
   "detalle": "APROBADO: Reglas claras (ganador del Balón de Oro 2026), oráculo oficial France Football, riesgo de disputa bajo; diferencial 0,5c, liquidez 114k USD. libro CLOB Sí bid 0.265/ask 0.27, prof ±2c 15637/2287 USD (ask Sí fino: suficiente para 5 USD). Cierre máx. 31-dic-2026."
+ },
+ {
+  "ts": "2026-10-19T01:54:21+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-001",
+  "fase": "descartado",
+  "accion": "cambio",
+  "detalle": "cuota Sí 0.875 -> 0.925"
+ },
+ {
+  "ts": "2026-10-19T01:54:21+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-017",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?"
+ },
+ {
+  "ts": "2026-10-19T01:54:21+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-018",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will Bitcoin dip to $80,000 October 12-18?"
+ },
+ {
+  "ts": "2026-10-19T01:54:21+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-019",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: US-Iran ceasefire continues through the midterms?"
+ },
+ {
+  "ts": "2026-10-19T01:54:21+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-020",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will Naftali Bennett be the next Prime Minister of Israel?"
+ },
+ {
+  "ts": "2026-10-19T01:54:21+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-021",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Will \"Grand Theft Auto VI Launch Trailer\" get between 40 and 60 million views on week 1?"
  }
 ]
