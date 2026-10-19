@@ -590,5 +590,69 @@
   "fase": "aprobado",
   "accion": "confirmacion_whale",
   "detalle": "Lado Sí | wallets: 0x06dc5182 (Cripto mes #3, Overall mes #49, +46.600 USD netos a Sí hace ~0,5 h), kingofcoinflips (Cripto histórico #18, +9.700 USD), 0xb6fef4c2 (Cripto mes #86, +2.150 USD), balthazar (Overall mes #55, +1.190 USD) | acumulado neto smart 48h ≈ +59.500 USD a favor de Sí; 4 wallets smart netas a Sí frente a 0 a No; flujo total del mercado ≈ +80.700 USD hacia Sí | top-50 holders: 7 wallets smart en Sí frente a 2 (residuales) en No | ojo: concentrado en una wallet y precio ya 0,945 | fuerza: alta en dirección, concentrada | 2026-10-19T04:06:55+02:00"
+ },
+ {
+  "ts": "2026-10-19T04:51:57+02:00",
+  "agente": "SCOUT",
+  "id": "M-20261019-026",
+  "fase": "escaneado",
+  "accion": "registro",
+  "detalle": "top_volumen: Counter-Strike: Alliance vs TheMongolz (BO3) - 1win Private Club #2 Playoffs"
+ },
+ {
+  "ts": "2026-10-19T05:03:18+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "veredicto_riesgo",
+  "detalle": "APROBADO: tamano_max=5 | Reglas claras (gana el BO3 Alliance o TheMongolz; cancelación o empate 50-50; aplazamiento válido hasta 2-nov; walkover antes de empezar 50-50), oráculo HLTV (hltv.org) con respaldo de prensa creíble, inicio 11:00 h (Madrid) de hoy 19-oct y cierre hacia las 17:00 h (~6 h hasta el inicio: embudo viable pero justo), riesgo de disputa bajo. libro CLOB Alliance bid 0.37/ask 0.38, prof ±2c 16937/19042 USD, diferencial 1c, liquidez ~59k USD. Ojo: torneo de segundo nivel (1win Private Club); si no hay APPROVE antes de las 11:00 h, descartar por partido en juego."
+ },
+ {
+  "ts": "2026-10-19T05:04:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Flujo smart 48h sigue mixto (neto ≈ -9.400 USD hacia No; 3 wallets smart netas a Sí frente a 4 a No; timetowander +69.200 y HH168 +30.900 USD de No frente a una wallet Econ mes #5 que deshace ~83.600 USD de No). Holders smart grandes en Sí (jsmythyson, MysticFind). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T05:04:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -35.300 USD hacia No, pero casi todo de una sola wallet (classified, Política histórico #33, que opera ambos lados; última hace ~0,7 h). El resto son ~11 wallets pequeñas a No (~0,7-2,3k) frente a flawfence +9.100 y 2 más a Sí; holders smart grandes siguen en Sí (flawfence 50k, balthazar 45k acciones). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T05:04:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -7.500 USD hacia No (10 wallets smart pequeñas a No frente a 3 a Sí), pero el mayor holder smart sigue en Sí (0x740159, Política mes #39, ~166k acciones). Flujo total ≈ -62.100 USD hacia No, sobre todo de wallets no smart. Señal débil y contradictoria; sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T05:04:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Solo 46 operaciones en 48h. nigiri99 (Econ mes #49) ≈ +1.400 USD Over y HomeRunHazard (Overall mes #5) neto ≈ +1.400 Over operando ambos lados. Neto smart ≈ +2.800 USD, importe pequeño. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T05:04:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Sin operaciones en las últimas 48h en la Data API ni holders smart. Sin señal."
+ },
+ {
+  "ts": "2026-10-19T05:04:15+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Esports (CS2): 643 operaciones en 48h, pero casi sin wallets smart (neto smart ≈ +400 USD; leaderboards sin categoría esports). Flujo total ≈ -23.300 USD dominado por wallets no smart en ambos lados. Sin señal."
  }
 ]
