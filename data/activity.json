@@ -534,5 +534,61 @@
   "fase": "aprobado",
   "accion": "confirmacion_news",
   "detalle": "Lado Guardians +1.5 (No a Rays -1.5), sin edge | 1) Mismo contexto que M-20261019-023: Juego 6 en Tropicana, Peralta (ERA 0,79 postemporada) frente a bullpen game de Cleveland sin Gavin Williams (cbssports.com, nbcsports.com). 2) Casas: Rays -1.5 entre +163 y +176, Guardians +1.5 entre -200 y -215; moneyline Rays ≈ -140 (scoresandodds.com) → Rays -1.5 sin margen ≈ 35-36%; Polymarket 0,355 coherente; ganador del partido Rays 57-58c en Polymarket/Kalshi (vantagepredictions.com). 3) Factor a vigilar: en eliminación Cleveland puede tirar de todo el bullpen, lo que favorece partidos cerrados; las victorias de Rays en la serie fueron por 4, 2, 4 y 2 carreras. Ruido descartado: memes de asistencia en Tropicana y debate en X sobre la decisión de Vogt. Fuerza: baja; precio coherente. | 2026-10-19T04:02:19+02:00"
+ },
+ {
+  "ts": "2026-10-19T04:02:59+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-025",
+  "fase": "aprobado",
+  "accion": "veredicto_riesgo",
+  "detalle": "APROBADO: tamano_max=5 | APROBADO: Reglas claras (cierre Binance BTC/USDT 1m a las 12:00 ET del 19-oct > 80.000 USD), oráculo oficial Binance, resolución hoy a las 18:00 h (Madrid), riesgo de disputa bajo. libro CLOB Sí bid 0.94/ask 0.95, prof ±2c 12232/3957 USD, diferencial 1c, liquidez ~41k USD. BTC spot ~82,4k USD (Coinbase); embudo viable (~14 h). Precio Sí 0,945 deja poco recorrido al alza (para QUANT)."
+ },
+ {
+  "ts": "2026-10-19T04:06:55+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Flujo smart 48h sigue mixto (neto ≈ -8.600 USD hacia No; 3 wallets smart netas a Sí frente a 4 a No; timetowander +68.300 y HH168 +30.900 USD de No frente a una wallet Econ mes #5 que deshace ~83.600 USD de No). Holders smart grandes en Sí (jsmythyson, MysticFind). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T04:06:55+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -31.800 USD hacia No, pero casi todo de una sola wallet (classified, Política histórico #33, que vuelve a operar hace ~0,4 h y toca ambos lados). El resto son 11 wallets pequeñas a No (~0,7-2,3k cada una) frente a flawfence +9.100 y 2 más a Sí; los holders smart grandes siguen en Sí (flawfence 50k, balthazar 45k acciones). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T04:06:55+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -7.600 USD hacia No (10 wallets smart pequeñas a No, ~0,5-3,8k cada una, frente a 3 a Sí), pero el mayor holder smart está en Sí (0x740159, Política mes #39, ~166k acciones, compró +5.100 USD hace ~2 h). Flujo total del mercado ≈ -62.000 USD hacia No, sobre todo de wallets no smart. Señal débil y contradictoria; sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T04:06:55+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Solo 44 operaciones en 48h. HomeRunHazard (Overall mes #5) compra Over 2.500 y Under 1.100 USD (neto ≈ +1.400 Over, opera ambos lados) y nigiri99 (Econ mes #49) ≈ +1.400 USD de Over. Neto smart ≈ +2.900 USD hacia Over, importe pequeño. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T04:06:55+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Sin operaciones en las últimas 48h en la Data API ni holders smart. Sin señal."
+ },
+ {
+  "ts": "2026-10-19T04:06:55+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-025",
+  "fase": "aprobado",
+  "accion": "confirmacion_whale",
+  "detalle": "Lado Sí | wallets: 0x06dc5182 (Cripto mes #3, Overall mes #49, +46.600 USD netos a Sí hace ~0,5 h), kingofcoinflips (Cripto histórico #18, +9.700 USD), 0xb6fef4c2 (Cripto mes #86, +2.150 USD), balthazar (Overall mes #55, +1.190 USD) | acumulado neto smart 48h ≈ +59.500 USD a favor de Sí; 4 wallets smart netas a Sí frente a 0 a No; flujo total del mercado ≈ +80.700 USD hacia Sí | top-50 holders: 7 wallets smart en Sí frente a 2 (residuales) en No | ojo: concentrado en una wallet y precio ya 0,945 | fuerza: alta en dirección, concentrada | 2026-10-19T04:06:55+02:00"
  }
 ]

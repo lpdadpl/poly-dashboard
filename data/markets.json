@@ -1985,13 +1985,25 @@
   "slug_evento": "bitcoin-above-on-october-19-2026",
   "url": "https://polymarket.com/event/bitcoin-above-on-october-19-2026",
   "pregunta": "Will the price of Bitcoin be above $80,000 on October 19?",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T03:51:06+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T04:02:59+02:00",
+    "nota": "APROBADO: Reglas claras (cierre Binance BTC/USDT 1m a las 12:00 ET del 19-oct > 80.000 USD), oráculo oficial Binance, resolución hoy a las 18:00 h (Madrid), riesgo de disputa bajo. libro CLOB Sí bid 0.94/ask 0.95, prof ±2c 12232/3957 USD, diferencial 1c, liquidez ~41k USD. BTC spot ~82,4k USD (Coinbase); embudo viable (~14 h). Precio Sí 0,945 deja poco recorrido al alza (para QUANT)."
+   },
+   {
+    "fase": "aprobado",
+    "agente": "WHALE",
+    "ts": "2026-10-19T04:06:55+02:00",
+    "nota": "confirmación ballenas lado Sí"
    }
   ],
   "escaneo": {
@@ -2019,12 +2031,13 @@
    "ts": "2026-10-19T03:51:06+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras (cierre Binance BTC/USDT 1m a las 12:00 ET del 19-oct > 80.000 USD), oráculo oficial Binance, resolución hoy a las 18:00 h (Madrid), riesgo de disputa bajo. libro CLOB Sí bid 0.94/ask 0.95, prof ±2c 12232/3957 USD, diferencial 1c, liquidez ~41k USD. BTC spot ~82,4k USD (Coinbase); embudo viable (~14 h). Precio Sí 0,945 deja poco recorrido al alza (para QUANT).",
+   "ts": "2026-10-19T04:02:59+02:00"
   },
   "confirmacion": {
-   "whale": "",
+   "whale": "Lado Sí | wallets: 0x06dc5182 (Cripto mes #3, Overall mes #49, +46.600 USD netos a Sí hace ~0,5 h), kingofcoinflips (Cripto histórico #18, +9.700 USD), 0xb6fef4c2 (Cripto mes #86, +2.150 USD), balthazar (Overall mes #55, +1.190 USD) | acumulado neto smart 48h ≈ +59.500 USD a favor de Sí; 4 wallets smart netas a Sí frente a 0 a No; flujo total del mercado ≈ +80.700 USD hacia Sí | top-50 holders: 7 wallets smart en Sí frente a 2 (residuales) en No | ojo: concentrado en una wallet y precio ya 0,945 | fuerza: alta en dirección, concentrada | 2026-10-19T04:06:55+02:00",
    "news": ""
   },
   "valoracion": {
