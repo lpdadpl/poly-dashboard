@@ -710,5 +710,117 @@
   "fase": "escaneado",
   "accion": "registro",
   "detalle": "top_volumen: US announces end of Iranian blockade by December 31, 2026?"
+ },
+ {
+  "ts": "2026-10-19T06:01:49+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Flujo smart 48h sigue mixto (neto ≈ -10.100 USD hacia No; 2 wallets smart netas a Sí frente a 3 a No; timetowander +69.400 USD de No (última hace ~0,5 h) y HH168 +30.900 frente a una wallet Econ mes #5 que deshace ~83.600 USD de No). Holders smart grandes en Sí (Erasmus., jsmythyson, MysticFind). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T06:01:49+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -42.700 USD hacia No, pero ~34.700 son de una sola wallet (classified, Política histórico #33, que opera ambos lados; última hace ~0,2 h). Neto smart 24h solo ≈ -2.400 USD. El resto, wallets pequeñas a No (~1,6-2,3k) frente a flawfence +9.100 y 2 más a Sí; holders smart grandes siguen en Sí (flawfence 50k, balthazar 45,5k acciones; 13 smart en Sí frente a 3 en No). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T06:01:49+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -16.800 USD hacia No (24h ≈ -11.900; 16 wallets smart pequeñas a No, máx. ~3,8k cada una, frente a 3 a Sí), pero el mayor holder smart sigue en Sí (0x740159, Política mes #39, ~166k acciones, +5.100 USD hace ~4 h) y hay 8 holders smart en Sí frente a 6 en No. Las mismas wallets venden Sí en otros tramos del evento (patrón de cesta). Señal débil y contradictoria; sin acumulación clara, vigilar."
+ },
+ {
+  "ts": "2026-10-19T06:01:49+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Solo 50 operaciones en 48h. nigiri99 (Econ mes #49) ≈ +1.600 USD Over y HomeRunHazard (Overall mes #6) ≈ +1.400 Over. Neto smart ≈ +3.000 USD, importe pequeño. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T06:01:49+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Solo 3 operaciones en 48h en la Data API y ningún holder smart. Sin señal."
+ },
+ {
+  "ts": "2026-10-19T06:01:49+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Esports (CS2): 697 operaciones en 48h, casi sin wallets smart (neto smart ≈ +200 USD). Flujo total ≈ -26.800 USD hacia TheMongolz dominado por wallets no smart. Sin señal."
+ },
+ {
+  "ts": "2026-10-19T06:03:52+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin noticias nuevas de la Fed desde las 05:06 (en X solo Bessent/Meet the Press, ya recogido, y futuros S&P +0,2 %; sin señal de política monetaria); se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T06:03:52+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin encuestas nuevas desde las 05:06 (AtlasIntel y PoderData siguen esperadas hoy lun 19, hora Brasil); en X solo el cruce sobre votos de presos en el debate Band y el mitin de Paulista (asistencia = ruido); se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T06:03:52+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin encuestas nuevas desde las 05:06; se mantiene la confirmación previa (lado No)."
+ },
+ {
+  "ts": "2026-10-19T06:03:52+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades del Juego 6 (abridores y contexto sin cambios; en X solo crónicas del Juego 5); se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T06:03:52+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades del Juego 6; se mantiene la nota previa (Guardians +1.5, sin edge)."
+ },
+ {
+  "ts": "2026-10-19T06:03:52+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades de alineaciones ni del partido (en X solo promoción de casas y agenda; inicio 11:00 h Madrid); se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T06:03:52+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-025",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: BTC ~82.410 USD a las 06:03 h Madrid (Coinbase 82.412, índice Deribit 82.407, Kraken 82.517), prácticamente igual que a las 05:10; colchón ~3,0 % sobre 80k, sin catalizador nuevo. Se mantiene lado Sí."
+ },
+ {
+  "ts": "2026-10-19T06:10:36+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-027",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Riesgo de disputa alto: exige un anuncio oficial 'clara e inequívocamente' de fin general del bloqueo naval (no cuentan cambios parciales, exenciones por buque/puerto, declaraciones condicionales o informales), sin fuente de resolución única (resolutionSource vacío; 'información oficial del Gobierno de EE. UU.'), muy expuesto a interpretación de posts de Trump o de un posible acuerdo con Irán; misma familia geopolítica que M-20261019-006/012/019. Además libro fino para su tamaño: libro CLOB Sí bid 0.371/ask 0.386, diferencial 1,5c, prof ±2c 1189/2333 USD (liquidez Gamma ~157k USD), y cierre lejano 31-dic-2026 (capital bloqueado ~2,5 meses)."
  }
 ]

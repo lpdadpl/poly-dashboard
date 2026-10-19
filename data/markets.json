@@ -2176,13 +2176,19 @@
   "slug_evento": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
   "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
   "pregunta": "US announces end of Iranian blockade by December 31, 2026?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T05:53:16+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T06:10:36+02:00",
+    "nota": "RECHAZADO: Riesgo de disputa alto: exige un anuncio oficial 'clara e inequívocamente' de fin general del bloqueo naval (no cuentan cambios parciales, exenciones por buque/puerto, declaraciones condicionales o informales), sin fuente de resolución única (resolutionSource vacío; 'información oficial del Gobierno de EE. UU.'), muy expuesto a interpretación de posts de Trump o de un posible acuerdo con Irán; misma familia geopolítica que M-20261019-006/012/019. Además libro fino para su tamaño: libro CLOB Sí bid 0.371/ask 0.386, diferencial 1,5c, prof ±2c 1189/2333 USD (liquidez Gamma ~157k USD), y cierre lejano 31-dic-2026 (capital bloqueado ~2,5 meses)."
    }
   ],
   "escaneo": {
@@ -2210,9 +2216,10 @@
    "ts": "2026-10-19T05:53:16+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Riesgo de disputa alto: exige un anuncio oficial 'clara e inequívocamente' de fin general del bloqueo naval (no cuentan cambios parciales, exenciones por buque/puerto, declaraciones condicionales o informales), sin fuente de resolución única (resolutionSource vacío; 'información oficial del Gobierno de EE. UU.'), muy expuesto a interpretación de posts de Trump o de un posible acuerdo con Irán; misma familia geopolítica que M-20261019-006/012/019. Además libro fino para su tamaño: libro CLOB Sí bid 0.371/ask 0.386, diferencial 1,5c, prof ±2c 1189/2333 USD (liquidez Gamma ~157k USD), y cierre lejano 31-dic-2026 (capital bloqueado ~2,5 meses).",
+   "ts": "2026-10-19T06:10:36+02:00"
   },
   "confirmacion": {
    "whale": "",
