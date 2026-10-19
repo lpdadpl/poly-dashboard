@@ -1486,5 +1486,197 @@
   "fase": "escaneado",
   "accion": "registro",
   "detalle": "top_volumen: Will Anthropic announce bankruptcy by December 31, 2028?"
+ },
+ {
+  "ts": "2026-10-19T10:04:53+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-038",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Partido ya en juego (inicio 09:15 h Madrid, Ningbo Open); el precio se mueve en vivo (escaneo 0,715 frente a CLOB 0,89/0,90 una hora después) y el embudo WHALE/NEWS/QUANT/APPROVE no llega antes del final. Reglas claras (WTA, retirada = avanza el rival, walkover 50-50), pero no apto para la mesa. libro CLOB Cirstea bid 0.89/ask 0.90, diferencial 1,0c, prof ±2c 88577/28466 USD (ask top fino ~700 USD)."
+ },
+ {
+  "ts": "2026-10-19T10:04:53+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-039",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Horizonte demasiado largo para la prueba en papel: cierre 31-dic-2027 (~14,5 meses de capital bloqueado). Reglas claras (basta un anuncio oficial de Anthropic o consenso definitivo de prensa; resolutionSource vacío) y disputa baja, pero no encaja en el embudo; mismo criterio que M-20261019-033. libro CLOB Sí bid 0.09/ask 0.10, diferencial 1,0c, prof ±2c 31975/12004 USD, liquidez ~665k USD."
+ },
+ {
+  "ts": "2026-10-19T10:04:53+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-040",
+  "fase": "aprobado",
+  "accion": "veredicto_riesgo",
+  "detalle": "APROBADO: tamano_max=5 | APROBADO: Reglas claras (Sí si el Monza gana en los 90 min + descuento; empate o derrota = No; aplazamiento mantiene abierto; cancelación sin repetición = No), oráculo oficial Lega Serie A (legaseriea.it) con respaldo Flashscore/Sofascore, inicio 18:30 h (Madrid) de hoy 19-oct y resolución esta noche (~8,5 h hasta el inicio: embudo viable), riesgo de disputa bajo. libro CLOB Sí bid 0.41/ask 0.42, diferencial 1,0c, prof ±2c 19583/34459 USD, liquidez ~202k USD. Ojo: mercado negRisk (evento Monza-Cagliari con empate); si no hay APPROVE antes de las 18:30 h, descartar por partido en juego."
+ },
+ {
+  "ts": "2026-10-19T10:04:53+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-041",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Ilíquido y con riesgo de disputa alto. Libro muy fino: libro CLOB Sí bid 0.28 (~28 USD arriba)/ask 0.30, diferencial 2,0c, prof ±2c solo 308/338 USD, liquidez ~34,5k USD. Criterio interpretable ('control militar primario', control 'suficientemente establecido', disputado = No), sin fuente única (resolutionSource vacío; gobiernos, militares y consenso de prensa); misma familia geopolítica que M-20261019-006/014/027. Cierre 31-dic-2026."
+ },
+ {
+  "ts": "2026-10-19T10:04:53+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-042",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Horizonte demasiado largo: cierre 31-dic-2028 (más de 2 años de capital bloqueado); mismo criterio que M-20261019-009/010. Reglas claras (anuncio oficial de Anthropic o consenso definitivo de prensa) y disputa baja. libro CLOB Sí bid 0.17/ask 0.18, diferencial 1,0c, prof ±2c 10479/9558 USD, liquidez ~153k USD. Hermano de M-20261019-039."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-035",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Lado No (Trump sigue presidente a 31-dic). WHALE pendiente para pasar a confirmado."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-036",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Sin lado claro (precio Kane coherente con casas). WHALE pendiente para pasar a confirmado."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-037",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Lado No (Messi no gana), sin edge. WHALE pendiente para pasar a confirmado."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-040",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Sin lado claro (precio Monza coherente con casas). WHALE pendiente para pasar a confirmado."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-025",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: BTC ~82.555 USD a las 10:05 h Madrid (Coinbase 82.557, índice Deribit 82.554, Kraken 82.642), −235 desde las 09:07; colchón ~3,2 % sobre 80k a 8 h del cierre; DVOL 38,6. Precio Sí 0,985. Sin catalizador nuevo. Se mantiene lado Sí."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-034",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: BTC ~82.555 USD, necesita +1,8 % para superar 84k; DVOL 38,6; precio Sí 0,0905 coherente. Sin catalizador. Se mantiene lado No sin edge."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "AtlasIntel (5.000 entrevistas 13-18 oct, BR-02418/2026) se publica hoy pero aún no ha salido (veja.abril.com.br, viana.news); la anterior (9-oct) daba Flávio 52,8 / Lula 47,2 válidos. BTG/Nexus 50,3-49,7 sigue sin verificar. Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-022",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "AtlasIntel de hoy aún sin publicar; sin datos nuevos. Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-026",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades de alineación ni suplentes en X a 1 h del inicio (11:00 h Madrid). Precio Alliance 0,395. Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-005",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: sin novedades de la Fed. Se mantiene lado Sí."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin datos nuevos de la Fed. Se mantiene lado No."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-016",
+  "fase": "valorado",
+  "accion": "sin_novedad",
+  "detalle": "Seguimiento: sin novedades; Polymarket Yamal ~0,27, Kane ~0,667; casas OLBG 13-oct sin cambios publicados. Se mantiene la nota previa."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-023",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades del Juego 6. Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-024",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades del Juego 6. Se mantiene la nota previa (Guardians +1.5, sin edge)."
+ },
+ {
+  "ts": "2026-10-19T10:06:37+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-029",
+  "fase": "aprobado",
+  "accion": "sin_novedad",
+  "detalle": "Sin novedades. Se mantiene la nota previa (sin lado claro)."
+ },
+ {
+  "ts": "2026-10-19T10:10:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-035",
+  "fase": "aprobado",
+  "accion": "confirmacion_whale",
+  "detalle": "Lado No | wallets: elmcap2 (Overall histórico #75, Política histórico #50, +9.600 USD a No), onekey02 (Política mes #66, +4.400 USD a No), tetrase (Política mes #34, Política histórico #49, +1.650 USD a No), 0xB16B00B5 (Economía mes #90, +700 USD a No) | acumulado neto smart 48h ≈ 16.300 USD hacia No; 4 wallets smart netas a No frente a 0 a Sí (24h ≈ 0: las compras grandes son de hace ~39 h) | top-50 holders: 11 wallets smart en No con posiciones muy grandes (SecondWindCapital ~410.600, elmcap2 ~350.500, onekey02 ~259.600, ReedUpdatee ~165.200 acciones) frente a 1 en Sí (risk-manager ~19.200 acciones, ≈760 USD) | ojo: flujo reciente plano y precio de cola (No ~0,96), así que la señal es de posicionamiento más que de acumulación de hoy | fuerza: moderada en flujo, alta en posicionamiento | 2026-10-19T10:10:31+02:00"
+ },
+ {
+  "ts": "2026-10-19T10:10:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-036",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart 48h ≈ -31.800 USD hacia No (13 wallets a No frente a 2 a Sí; 24h ≈ -9.900), pero ~20.300 son de forgotmydinner (Overall mes #70) hace ~2 h; el resto son importes pequeños (máx. ~3.900) y de5nuts mete +4.300 a Sí. Holders smart más grandes en Sí (10 wallets, 0x6e82b9 ~60.400 acciones) que en No (6, BreakTheBank ~47.100). Concentrado en una wallet y posicionamiento a favor de Sí. Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T10:10:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-037",
+  "fase": "aprobado",
+  "accion": "confirmacion_whale",
+  "detalle": "Lado No | wallets: zb8 (Cultura histórico #66, +18.050 USD a No), cigarettes (Política mes #11, Política histórico #97, +5.500 USD a No vendiendo Sí), pollo07 (Cultura mes #60, +2.550), e46m3 (Overall mes #4, +2.530), klli27, akroll, alex20011, Likaseent, donthackme (~2.000-2.300 USD cada uno a No) | acumulado neto smart 48h ≈ 45.100 USD hacia No (24h ≈ 12.150); 13 wallets smart netas a No frente a 0 a Sí; flujo total del mercado ≈ 54.800 USD hacia No | top-50 holders: repartidos (8 smart en Sí, con cigarettes ~37.500 y de5nuts ~31.200 acciones, frente a 7 en No, con Anjun ~34.100 y DonaldinhoTrumpito 25.000) | coherente con la salida smart de Sí en Yamal (M-20261019-016) | ojo: ~40 % lo aporta zb8 hace ~33 h y parte es venta de Sí, no compra nueva de No | fuerza: moderada | 2026-10-19T10:10:31+02:00"
+ },
+ {
+  "ts": "2026-10-19T10:10:31+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-040",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Neto smart ≈ +38.500 USD hacia Sí (Monza), pero es una sola wallet (rabbitfoot1, Deportes mes #82, +43.500 USD hace ~1 h, ~109.000 acciones); el resto de smart va neto a No (0x2c3350 -3.500, Cannae -2.100, hi774c -1.300) salvo UpTheBlues (+1.700). Flujo total del mercado ≈ -25.400 USD hacia No. Una sola wallet. Sin acumulación clara."
  }
 ]

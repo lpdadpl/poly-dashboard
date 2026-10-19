@@ -2895,6 +2895,18 @@
     "agente": "RISK",
     "ts": "2026-10-19T09:07:20+02:00",
     "nota": "APROBADO: Reglas claras y objetivas (Sí si Trump dimite, es destituido o deja de ser presidente de forma permanente antes del 31-dic-2026 23:59 ET; el anuncio de dimisión/destitución basta; 25.ª Enmienda temporal o impeachment sin destitución no cuentan; Sección 4 sostenida por ambas Cámaras sí cuenta), fuente consenso de prensa creíble pero hecho inequívoco: riesgo de disputa bajo. libro CLOB Sí bid 0.039/ask 0.04, diferencial 0,1c, prof ±2c 9290/3924 USD, liquidez ~344k USD. Ojo: horizonte largo (capital bloqueado hasta el 31-dic-2026, ~10,5 semanas) y precio de cola 0,04."
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T10:06:37+02:00",
+    "nota": "confirmacion_news (whale pendiente)"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "WHALE",
+    "ts": "2026-10-19T10:10:31+02:00",
+    "nota": "confirmación ballenas lado No"
    }
   ],
   "escaneo": {
@@ -2928,8 +2940,8 @@
    "ts": "2026-10-19T09:07:20+02:00"
   },
   "confirmacion": {
-   "whale": "",
-   "news": ""
+   "whale": "Lado No | wallets: elmcap2 (Overall histórico #75, Política histórico #50, +9.600 USD a No), onekey02 (Política mes #66, +4.400 USD a No), tetrase (Política mes #34, Política histórico #49, +1.650 USD a No), 0xB16B00B5 (Economía mes #90, +700 USD a No) | acumulado neto smart 48h ≈ 16.300 USD hacia No; 4 wallets smart netas a No frente a 0 a Sí (24h ≈ 0: las compras grandes son de hace ~39 h) | top-50 holders: 11 wallets smart en No con posiciones muy grandes (SecondWindCapital ~410.600, elmcap2 ~350.500, onekey02 ~259.600, ReedUpdatee ~165.200 acciones) frente a 1 en Sí (risk-manager ~19.200 acciones, ≈760 USD) | ojo: flujo reciente plano y precio de cola (No ~0,96), así que la señal es de posicionamiento más que de acumulación de hoy | fuerza: moderada en flujo, alta en posicionamiento | 2026-10-19T10:10:31+02:00",
+   "news": "Lado No (Trump sigue presidente a 31-dic) | 1) Destitución inviable en plazo: requiere 2/3 del Senado y ambas Cámaras siguen con mayoría republicana; el Congreso que salga de las legislativas del 3-nov no se constituye hasta el 3-ene-2027 (después del cierre del mercado). Las resoluciones de impeachment demócratas (p. ej. H.Res. 1486, según resumen de X/Grok, x.com/i/trending/2111943336084853017) no tienen votos. 2) Riesgo base de salud: varón de 80 años, probabilidad anual de muerte ≈5,5 % (tabla actuarial SSA, ssa.gov/oact/STATS/table4c6.html) → ≈1,1 % en ~10,5 semanas; insuficiencia venosa crónica ya comunicada por la Casa Blanca (jul-2025), sin parte médico nuevo. 3) Ruido descartado: meme «World Truth» de que abogados de la Casa Blanca alertan de riesgo para su salud por las legislativas (sin fuente; x.com/i/trending/2111448150447890705) y listas virales de motivos de impeachment. Señal neta: probabilidad real ~1-2 % frente a precio Sí 0,0395; sesgo No estructural (no por noticia), capital bloqueado hasta el 31-dic. Fuerza: moderada. | 2026-10-19T10:06:37+02:00"
   },
   "valoracion": {
    "prob_estimada": 0,
@@ -2974,6 +2986,12 @@
     "agente": "RISK",
     "ts": "2026-10-19T09:07:20+02:00",
     "nota": "APROBADO: Reglas claras (ganador del Balón de Oro 2026; si no hay ganador antes del 31-dic-2026, 'Other'), oráculo oficial France Football, ceremonia el lunes 26-oct (21:00-23:00 h Madrid, London Palladium) y resolución ~27-oct, riesgo de disputa bajo. libro CLOB Sí bid 0.668/ask 0.669, diferencial 0,1c, prof ±2c 3833/13975 USD, liquidez ~99k USD. Correlacionado con M-20261019-016 (Yamal) y M-20261019-037 (Messi): tope conjunto 5 USD para el evento Balón de Oro 2026."
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T10:06:37+02:00",
+    "nota": "confirmacion_news (whale pendiente)"
    }
   ],
   "escaneo": {
@@ -3008,7 +3026,7 @@
   },
   "confirmacion": {
    "whale": "",
-   "news": ""
+   "news": "Sin lado claro (precio Kane coherente con casas) | 1) Votación cerrada; ceremonia 26-oct London Palladium (uefa.com, 28-may). 2) bet365 vía OLBG (olbg.com, 13-oct): Kane 1/2, Yamal 2/1, Mbappé y Messi 22/1, Rodri y Olise 40/1; sin margen ≈ Kane 59 %, Yamal 29 % (dato de hace 6 días). 3) Polymarket evento: Kane Sí 0,6665 (bid 0,666/ask 0,667), Yamal ~0,27. 4) Sin filtraciones oficiales; en X solo encuestas de aficionados y especulación (ruido, no confirma). Señal neta: el mercado está algo por encima de las casas normalizadas, pero el dato de casas es viejo y no hay noticia nueva; no hay edge verificable. Fuerza: débil. | 2026-10-19T10:06:37+02:00"
   },
   "valoracion": {
    "prob_estimada": 0,
@@ -3053,6 +3071,18 @@
     "agente": "RISK",
     "ts": "2026-10-19T09:07:20+02:00",
     "nota": "APROBADO: Reglas claras (ganador del Balón de Oro 2026; si no hay ganador antes del 31-dic-2026, 'Other'), oráculo oficial France Football, ceremonia el lunes 26-oct (21:00-23:00 h Madrid) y resolución ~27-oct, riesgo de disputa bajo. libro CLOB Sí bid 0.029/ask 0.032, diferencial 0,3c, prof ±2c 2656/2860 USD, liquidez ~206k USD (ask top fino ~6 USD; profundidad a 0,034 suficiente para 5 USD). Correlacionado con M-20261019-016 y M-20261019-036: tope conjunto 5 USD para el evento Balón de Oro 2026."
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T10:06:37+02:00",
+    "nota": "confirmacion_news (whale pendiente)"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "WHALE",
+    "ts": "2026-10-19T10:10:31+02:00",
+    "nota": "confirmación ballenas lado No"
    }
   ],
   "escaneo": {
@@ -3086,8 +3116,8 @@
    "ts": "2026-10-19T09:07:20+02:00"
   },
   "confirmacion": {
-   "whale": "",
-   "news": ""
+   "whale": "Lado No | wallets: zb8 (Cultura histórico #66, +18.050 USD a No), cigarettes (Política mes #11, Política histórico #97, +5.500 USD a No vendiendo Sí), pollo07 (Cultura mes #60, +2.550), e46m3 (Overall mes #4, +2.530), klli27, akroll, alex20011, Likaseent, donthackme (~2.000-2.300 USD cada uno a No) | acumulado neto smart 48h ≈ 45.100 USD hacia No (24h ≈ 12.150); 13 wallets smart netas a No frente a 0 a Sí; flujo total del mercado ≈ 54.800 USD hacia No | top-50 holders: repartidos (8 smart en Sí, con cigarettes ~37.500 y de5nuts ~31.200 acciones, frente a 7 en No, con Anjun ~34.100 y DonaldinhoTrumpito 25.000) | coherente con la salida smart de Sí en Yamal (M-20261019-016) | ojo: ~40 % lo aporta zb8 hace ~33 h y parte es venta de Sí, no compra nueva de No | fuerza: moderada | 2026-10-19T10:10:31+02:00",
+   "news": "Lado No (Messi no gana), sin edge | 1) Votación cerrada; ceremonia 26-oct Londres. 2) bet365 vía OLBG (olbg.com, 13-oct): Messi 22/1 (≈4,3 % bruto, ≈3,8 % sin margen), carrera bipartita Kane-Yamal. 3) Precio Sí 0,0315 (bid 0,031/ask 0,032) coherente con las casas. 4) Sin noticias ni filtraciones que lo acerquen. Fuerza: débil (ya en precio). | 2026-10-19T10:06:37+02:00"
   },
   "valoracion": {
    "prob_estimada": 0,
@@ -3119,13 +3149,19 @@
   "slug_evento": "wta-cirstea-shi-2026-10-19",
   "url": "https://polymarket.com/event/wta-cirstea-shi-2026-10-19",
   "pregunta": "Ningbo Open: Sorana Cirstea vs Han Shi",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T09:55:36+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T10:04:53+02:00",
+    "nota": "RECHAZADO: Partido ya en juego (inicio 09:15 h Madrid, Ningbo Open); el precio se mueve en vivo (escaneo 0,715 frente a CLOB 0,89/0,90 una hora después) y el embudo WHALE/NEWS/QUANT/APPROVE no llega a"
    }
   ],
   "escaneo": {
@@ -3153,9 +3189,10 @@
    "ts": "2026-10-19T09:55:36+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Partido ya en juego (inicio 09:15 h Madrid, Ningbo Open); el precio se mueve en vivo (escaneo 0,715 frente a CLOB 0,89/0,90 una hora después) y el embudo WHALE/NEWS/QUANT/APPROVE no llega antes del final. Reglas claras (WTA, retirada = avanza el rival, walkover 50-50), pero no apto para la mesa. libro CLOB Cirstea bid 0.89/ask 0.90, diferencial 1,0c, prof ±2c 88577/28466 USD (ask top fino ~700 USD).",
+   "ts": "2026-10-19T10:04:53+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -3191,13 +3228,19 @@
   "slug_evento": "anthropic-announces-bankruptcy-by",
   "url": "https://polymarket.com/event/anthropic-announces-bankruptcy-by",
   "pregunta": "Will Anthropic announce bankruptcy by December 31, 2027?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T09:55:36+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T10:04:53+02:00",
+    "nota": "RECHAZADO: Horizonte demasiado largo para la prueba en papel: cierre 31-dic-2027 (~14,5 meses de capital bloqueado). Reglas claras (basta un anuncio oficial de Anthropic o consenso definitivo de prens"
    }
   ],
   "escaneo": {
@@ -3225,9 +3268,10 @@
    "ts": "2026-10-19T09:55:36+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Horizonte demasiado largo para la prueba en papel: cierre 31-dic-2027 (~14,5 meses de capital bloqueado). Reglas claras (basta un anuncio oficial de Anthropic o consenso definitivo de prensa; resolutionSource vacío) y disputa baja, pero no encaja en el embudo; mismo criterio que M-20261019-033. libro CLOB Sí bid 0.09/ask 0.10, diferencial 1,0c, prof ±2c 31975/12004 USD, liquidez ~665k USD.",
+   "ts": "2026-10-19T10:04:53+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -3263,13 +3307,25 @@
   "slug_evento": "sea-mon-cag-2026-10-19",
   "url": "https://polymarket.com/event/sea-mon-cag-2026-10-19",
   "pregunta": "Will AC Monza win on 2026-10-19?",
-  "fase": "escaneado",
+  "fase": "aprobado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T09:55:36+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "RISK",
+    "ts": "2026-10-19T10:04:53+02:00",
+    "nota": "APROBADO: Reglas claras (Sí si el Monza gana en los 90 min + descuento; empate o derrota = No; aplazamiento mantiene abierto; cancelación sin repetición = No), oráculo oficial Lega Serie A (legaseriea"
+   },
+   {
+    "fase": "aprobado",
+    "agente": "NEWS",
+    "ts": "2026-10-19T10:06:37+02:00",
+    "nota": "confirmacion_news (whale pendiente)"
    }
   ],
   "escaneo": {
@@ -3297,13 +3353,14 @@
    "ts": "2026-10-19T09:55:36+02:00"
   },
   "riesgo": {
-   "ok": null,
-   "tamano_max_usd": 0,
-   "motivo": ""
+   "ok": true,
+   "tamano_max_usd": 5,
+   "motivo": "APROBADO: Reglas claras (Sí si el Monza gana en los 90 min + descuento; empate o derrota = No; aplazamiento mantiene abierto; cancelación sin repetición = No), oráculo oficial Lega Serie A (legaseriea.it) con respaldo Flashscore/Sofascore, inicio 18:30 h (Madrid) de hoy 19-oct y resolución esta noche (~8,5 h hasta el inicio: embudo viable), riesgo de disputa bajo. libro CLOB Sí bid 0.41/ask 0.42, diferencial 1,0c, prof ±2c 19583/34459 USD, liquidez ~202k USD. Ojo: mercado negRisk (evento Monza-Cagliari con empate); si no hay APPROVE antes de las 18:30 h, descartar por partido en juego.",
+   "ts": "2026-10-19T10:04:53+02:00"
   },
   "confirmacion": {
    "whale": "",
-   "news": ""
+   "news": "Sin lado claro (precio Monza coherente con casas) | 1) Serie A J7, hoy 18:30 h Madrid, Brianteo (acmonza.com convocatoria 18-oct; BBC). 2) Cuotas 1X2: bwin 2,30/3,20/3,10 (bwin.it) → Monza ≈40,6 % sin margen; Netwin 2,28/3,20/3,25 (zonapronostici.it, 11-oct) → ≈41 %. Precio Sí 0,415 (bid 0,41/ask 0,42): coherente. 3) Contexto: Monza 15.º con 4 pts (6 PJ, 9-15), Cagliari 6.º con 13 pts (6 PJ, 6-3) (BBC Sport, act. 19-oct). Bajas Monza: Pessina, Ziółkowski, Touré; Lucchesi sancionado (gazzetta.it, tuttofantacalcio.it); la convocatoria oficial incluye a Ciurria y Forson, que algunas fuentes daban de baja (ligero plus Monza). Cagliari sin Felici, Idrissi ni Trepy; Pisacane sancionado según Gazzetta (banquillo Murelli) y abre la puerta a dos puntas (cagliaricalcio.com). 4) En X solo previas de medios locales, sin novedades. Alineaciones oficiales hacia las 17:30 h Madrid. Fuerza: débil. | 2026-10-19T10:06:37+02:00"
   },
   "valoracion": {
    "prob_estimada": 0,
@@ -3335,13 +3392,19 @@
   "slug_evento": "perim-island-no-longer-under-houthi-control-by-20260916",
   "url": "https://polymarket.com/event/perim-island-no-longer-under-houthi-control-by-20260916",
   "pregunta": "Perim Island no longer under Houthi control by December 31?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T09:55:36+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T10:04:53+02:00",
+    "nota": "RECHAZADO: Ilíquido y con riesgo de disputa alto. Libro muy fino: libro CLOB Sí bid 0.28 (~28 USD arriba)/ask 0.30, diferencial 2,0c, prof ±2c solo 308/338 USD, liquidez ~34,5k USD. Criterio interpret"
    }
   ],
   "escaneo": {
@@ -3369,9 +3432,10 @@
    "ts": "2026-10-19T09:55:36+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Ilíquido y con riesgo de disputa alto. Libro muy fino: libro CLOB Sí bid 0.28 (~28 USD arriba)/ask 0.30, diferencial 2,0c, prof ±2c solo 308/338 USD, liquidez ~34,5k USD. Criterio interpretable ('control militar primario', control 'suficientemente establecido', disputado = No), sin fuente única (resolutionSource vacío; gobiernos, militares y consenso de prensa); misma familia geopolítica que M-20261019-006/014/027. Cierre 31-dic-2026.",
+   "ts": "2026-10-19T10:04:53+02:00"
   },
   "confirmacion": {
    "whale": "",
@@ -3407,13 +3471,19 @@
   "slug_evento": "anthropic-announces-bankruptcy-by",
   "url": "https://polymarket.com/event/anthropic-announces-bankruptcy-by",
   "pregunta": "Will Anthropic announce bankruptcy by December 31, 2028?",
-  "fase": "escaneado",
+  "fase": "descartado",
   "historial": [
    {
     "fase": "escaneado",
     "agente": "SCOUT",
     "ts": "2026-10-19T09:55:36+02:00",
     "nota": "origen: top_volumen"
+   },
+   {
+    "fase": "descartado",
+    "agente": "RISK",
+    "ts": "2026-10-19T10:04:53+02:00",
+    "nota": "RECHAZADO: Horizonte demasiado largo: cierre 31-dic-2028 (más de 2 años de capital bloqueado); mismo criterio que M-20261019-009/010. Reglas claras (anuncio oficial de Anthropic o consenso definitivo "
    }
   ],
   "escaneo": {
@@ -3441,9 +3511,10 @@
    "ts": "2026-10-19T09:55:36+02:00"
   },
   "riesgo": {
-   "ok": null,
+   "ok": false,
    "tamano_max_usd": 0,
-   "motivo": ""
+   "motivo": "RECHAZADO: Horizonte demasiado largo: cierre 31-dic-2028 (más de 2 años de capital bloqueado); mismo criterio que M-20261019-009/010. Reglas claras (anuncio oficial de Anthropic o consenso definitivo de prensa) y disputa baja. libro CLOB Sí bid 0.17/ask 0.18, diferencial 1,0c, prof ±2c 10479/9558 USD, liquidez ~153k USD. Hermano de M-20261019-039.",
+   "ts": "2026-10-19T10:04:53+02:00"
   },
   "confirmacion": {
    "whale": "",
