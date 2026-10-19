@@ -302,5 +302,93 @@
   "fase": "escaneado",
   "accion": "registro",
   "detalle": "top_volumen: Will \"Grand Theft Auto VI Launch Trailer\" get between 40 and 60 million views on week 1?"
+ },
+ {
+  "ts": "2026-10-19T02:07:45+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-005",
+  "fase": "aprobado",
+  "accion": "confirmacion_whale",
+  "detalle": "Lado Sí | wallets: Vilgefortz (Economía histórico #19, +82.563 USD comprados en Sí), Ronaldo2100 (Economía histórico #20, +48.012 USD), faceverification (Economía mes #56, +19.111 USD) | acumulado neto smart 48h ≈ +121.500 USD a favor de Sí (compras de Vilgefortz y Ronaldo2100 hace ~2 h a 0,87-0,88) | top-50 holders: 34 wallets smart en Sí frente a 10 en No | fuerza: alta en dólares, concentrada en 2 wallets | 2026-10-19T02:07:45+02:00"
+ },
+ {
+  "ts": "2026-10-19T02:07:45+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-016",
+  "fase": "aprobado",
+  "accion": "confirmacion_whale",
+  "detalle": "Lado No | wallets: de5nuts (vende 10.877 USD de Sí), Parz1vaI (vende 10.498 USD de Sí), forgotmydinner (Overall mes #68, vende 8.657 USD de Sí), cigarettes (Política histórico #97, compra 4.816 USD de No), akroll, pollo07, alex20011 (compran No ~5.600 USD) | acumulado neto smart 48h ≈ 45.500 USD hacia No; 14 wallets smart netas a No frente a 1 a Sí (24h: 7 frente a 0) | ojo: es sobre todo salida de Sí, los holders smart grandes siguen en Sí y una wallet no smart compró ~29.000 USD de Sí | fuerza: moderada | 2026-10-19T02:07:45+02:00"
+ },
+ {
+  "ts": "2026-10-19T02:07:45+02:00",
+  "agente": "WHALE",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "sin_senal",
+  "detalle": "Flujo smart 48h mixto (neto ≈ -8.200 USD; +83.630 Sí de una wallet frente a -68.256 y -30.865 de otras dos). Sin acumulación clara."
+ },
+ {
+  "ts": "2026-10-19T02:09:09+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-017",
+  "fase": "aprobado",
+  "accion": "aprobado",
+  "detalle": "APROBADO: Reglas claras (margen = diferencia de % de votos válidos entre los dos primeros; empate de tramo al superior), oráculo oficial TSE con consenso de prensa, 2.ª vuelta el 25-oct y resolución ~26-oct; riesgo de disputa bajo (recuento solo retrasa). libro CLOB Sí bid 0.18/ask 0.19, prof ±2c 4072/1957 USD, liquidez 136k USD (ask Sí top ~43 USD: suficiente para 5 USD)."
+ },
+ {
+  "ts": "2026-10-19T02:09:09+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-018",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Ventana de precio termina hoy a las 05:59 h (Madrid) y cierre a las 06:00 h: el embudo WHALE/NEWS/QUANT/APPROVE no llega a tiempo. Libro muy fino: libro CLOB Sí bid 0.015 (5 acciones)/ask 0.018, prof ±2c 98/84 USD. Oráculo Binance BTC/USDT 1m claro, pero inoperable."
+ },
+ {
+  "ts": "2026-10-19T02:09:09+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-019",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Riesgo de disputa alto: depende de atribuir ataques de EE. UU. con impacto en Irán (excepciones de munición/drones, interceptados), fuentes 'gobiernos + consenso de prensa' y prórroga de 3 días si hay versiones contradictorias; misma familia que M-20261019-006/012. libro CLOB Sí bid 0.80/ask 0.81, prof ±2c 5158/186024 USD."
+ },
+ {
+  "ts": "2026-10-19T02:09:09+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-020",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Fecha de resolución real incierta: resuelve con la jura del PM tras las elecciones del 27-oct (formación de gobierno puede tardar meses, límite dic-2027) aunque endDate diga 28-oct; mismo criterio que M-20261019-003. libro CLOB Sí bid 0.12/ask 0.13, prof ±2c 714/1783 USD."
+ },
+ {
+  "ts": "2026-10-19T02:09:09+02:00",
+  "agente": "RISK",
+  "id": "M-20261019-021",
+  "fase": "descartado",
+  "accion": "rechazado",
+  "detalle": "RECHAZADO: Ilíquido: liquidez ~7,5k USD y prof ±2c solo 175/101 USD (libro CLOB Sí bid 0.41/ask 0.42); además riesgo de disputa moderado por la lectura del contador de vistas de YouTube justo a los 7 días (sin snapshot oficial). Cierre 23-oct."
+ },
+ {
+  "ts": "2026-10-19T02:09:24+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-005",
+  "fase": "confirmado",
+  "accion": "confirmado",
+  "detalle": "Lado Sí (sin cambio) | 1) Calendario Fed: FOMC 27-28 oct 2026 (federalreserve.gov/newsevents/2026-october.htm). 2) Actas sep 15-16: la mayoría ve otra subida «probable hacia fin de año», pero cada reunión con mente abierta (federalreserve.gov/monetarypolicy/fomcminutes20260916.htm) → sesgo a pausa en oct y posible +25 pb en dic. 3) Warsh 16-oct Bangkok (IMF): «I don't prejudge meetings»; sin señal hawkish; Goldman (vía CNBC) espera pausa en oct y última subida en dic; FedWatch CME ~72% sin cambi"
+ },
+ {
+  "ts": "2026-10-19T02:09:24+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-008",
+  "fase": "aprobado",
+  "accion": "confirmacion_news",
+  "detalle": "Lado No (no hay +25 pb) | Misma evidencia que M-20261019-005 (mercados complementarios del evento Fed oct). Warsh sin preview hawkish (CNBC/AP/Reuters 16-oct); actas sep apuntan a otra subida «hacia fin de año» más que en oct; FedWatch/mercados ~12-18% de hike en oct frente a ~72-87% hold. CPI caliente es el principal riesgo alcista residual, ya parcialmente absorbido tras el discurso. Fuerza: media-alta a favor de No; precio Sí 0,125 coherente. | 2026-10-19T02:09:24+02:00"
+ },
+ {
+  "ts": "2026-10-19T02:09:24+02:00",
+  "agente": "NEWS",
+  "id": "M-20261019-016",
+  "fase": "confirmado",
+  "accion": "confirmado",
+  "detalle": "Lado No (Yamal no gana) con matices | 1) Ceremonia 26-oct Londres (Palladium); votación cerrada según OLBG (olbg.com, act. 13-oct): Kane 1/2 (~67%), Yamal 2/1 (~33%); swap respecto a inicios de oct cuando Yamal estaba a 1/2. 2) Bookies.com 16-oct: Kane favorito, Yamal segundo (carrera bipartita). 3) Polymarket evento Ballon d'Or: Kane ~64-67%, Yamal ~17-28% (precios públicos del evento; este mercado Sí≈0,265). 4) Ruido descartado: hype de fans/Neymar y rumores de photoshoot France Football sin f"
  }
 ]
